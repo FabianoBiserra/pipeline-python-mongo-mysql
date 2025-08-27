@@ -1,6 +1,13 @@
 from extract_and_save_data import connect_mongo, create_connect_db, create_connect_collection
 import pandas as pd
 
+import os
+from dotenv import load_dotenv
+import mysql.connector
+
+# Carrega as variáveis do arquivo .env no ambiente de trabalho
+load_dotenv()
+
 def visualize_collection(col):
     for doc in col.find():
         print(doc)
@@ -41,8 +48,9 @@ def save_csv(df, path):
 if __name__ == "__main__":
 
     # estabelecendo a conexão e recuperando os dados do MongoDB
-
-    uri = "mongodb+srv://fabibis87:12345@cluster-pipeline.b1y2y.mongodb.net/?retryWrites=true&w=majority&appName=Cluster-pipeline"
+    # A função os.getenv é usada para obter o valor das variáveis de ambiente
+    host = os.getenv("MONGODB_URI")
+    uri = host
 
     client = connect_mongo(uri)
     db = create_connect_db(client, "db_produtos_desafio")
