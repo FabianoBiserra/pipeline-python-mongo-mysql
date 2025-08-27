@@ -1,0 +1,1485 @@
+_id,Produto,Categoria do Produto,Preço,Frete,Data da Compra,Vendedor,Local da compra,Avaliação da compra,Tipo de pagamento,Quantidade de parcelas,Latitude,Longitude
+67da0e428db414948c460b12,Dashboards com Power BI,livros,57.63,9.3105595123,2022-02-01,Bianca Santos,SP,3,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c460b73,Dashboards com Power BI,livros,46.58,0.0,2020-06-01,Rafael Costa,PR,1,cartao_credito,4,-24.89,-51.55
+67da0e428db414948c460b3c,Ciência de dados com python,livros,50.51,10.2450858314,2022-03-01,Thiago Silva,MG,1,cartao_credito,6,-18.1,-44.38
+67da0e428db414948c460b40,Modelagem preditiva,livros,71.64,1.3990535443,2023-03-01,Mariana Ferreira,SP,4,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c460ba5,Modelagem preditiva,livros,105.99,3.2280877057,2022-07-01,Thiago Silva,SP,1,cartao_credito,4,-22.19,-48.79
+67da0e428db414948c460bba,Modelagem preditiva,livros,101.54,14.5010858917,2021-08-01,Rafael Costa,DF,3,cartao_credito,4,-15.83,-47.86
+67da0e428db414948c460c19,Ciência de dados com python,livros,94.87,5.5826466179,2021-12-01,Isabella Pereira,CE,1,cartao_credito,7,-5.2,-39.53
+67da0e428db414948c460bfa,Dashboards com Power BI,livros,54.59,3.18987918,2022-10-01,Juliana Costa,SP,3,cartao_credito,8,-22.19,-48.79
+67da0e428db414948c460c45,Modelagem preditiva,livros,95.7,9.5757758076,2022-01-02,Juliana Costa,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c460cb4,Dashboards com Power BI,livros,47.26,0.0,2021-05-02,Isabella Pereira,RJ,2,cartao_credito,10,-22.25,-42.66
+67da0e428db414948c460b52,Iniciando em programação,livros,83.18,5.1160969115,2021-04-01,Isabella Pereira,SP,3,cartao_credito,4,-22.19,-48.79
+67da0e428db414948c460b67,Ciência de dados com python,livros,58.61,4.0606540096,2021-05-01,Beatriz Moraes,PR,4,cartao_credito,1,-24.89,-51.55
+67da0e428db414948c460c32,Dashboards com Power BI,livros,49.69,10.4438941213,2020-01-02,Bruno Rodrigues,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c460c68,Modelagem preditiva,livros,64.69,3.7276737951,2022-02-02,Larissa Alves,SP,5,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c460b5a,Ciência de dados com python,livros,75.04,1.5800933158,2022-04-01,Bianca Santos,RO,2,cartao_credito,7,-10.83,-63.34
+67da0e428db414948c460bad,Iniciando em programação,livros,55.86,6.1381932733,2020-08-01,Pedro Gomes,CE,3,cartao_credito,9,-5.2,-39.53
+67da0e428db414948c460c08,Iniciando em programação,livros,70.05,6.8937680841,2022-11-01,Pedro Gomes,SP,4,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c460bec,Ciência de dados com python,livros,80.32,1.8612374314,2021-10-01,Rafael Costa,SP,4,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c460c00,Iniciando em programação,livros,40.74,0.0,2020-11-01,Felipe Santos,SP,5,cartao_credito,8,-22.19,-48.79
+67da0e428db414948c460b1b,Ciência de dados com python,livros,82.15,1.958679426,2023-02-01,Bianca Santos,SP,5,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c460b23,Dashboards com Power BI,livros,40.98,0.0,2023-02-01,Beatriz Moraes,RJ,5,cartao_credito,1,-22.25,-42.66
+67da0e428db414948c460bfd,Iniciando em programação,livros,64.22,4.3079369753,2020-11-01,Thiago Silva,CE,1,boleto,1,-5.2,-39.53
+67da0e428db414948c460c25,Modelagem preditiva,livros,79.82,1.8346139356,2022-12-01,Felipe Santos,CE,5,cartao_credito,1,-5.2,-39.53
+67da0e428db414948c460c9e,Modelagem preditiva,livros,61.12,3.7855606515,2021-04-02,Isabella Pereira,BA,5,cartao_credito,10,-13.29,-41.71
+67da0e428db414948c460b0a,Ciência de dados com python,livros,86.13,5.2731755368,2021-02-01,Camila Ribeiro,RJ,4,cartao_credito,3,-22.25,-42.66
+67da0e428db414948c460b16,Ciência de dados com python,livros,79.28,1.8058605601,2022-02-01,Lucas Oliveira,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c460b42,Dashboards com Power BI,livros,43.35,3.2481049178,2023-03-01,Rafael Costa,BA,5,cartao_credito,2,-13.29,-41.71
+67da0e428db414948c460b75,Dashboards com Power BI,livros,42.09,0.0,2020-06-01,Felipe Santos,SP,5,cartao_credito,8,-22.19,-48.79
+67da0e428db414948c460b0f,Iniciando em programação,livros,61.73,0.0,2021-02-01,Beatriz Moraes,SP,4,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c460b1a,Dashboards com Power BI,livros,41.76,2.7546988942,2022-02-01,Juliana Costa,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c460b7a,Dashboards com Power BI,livros,55.44,3.6390253647,2021-06-01,Camila Ribeiro,SP,3,cartao_credito,10,-22.19,-48.79
+67da0e428db414948c460b93,Dashboards com Power BI,livros,46.87,0.0,2021-07-01,Beatriz Moraes,RS,5,cartao_credito,8,-30.17,-53.5
+67da0e428db414948c460c91,Ciência de dados com python,livros,72.73,1.4570927652,2023-03-02,Rafael Costa,PR,5,cartao_credito,2,-24.89,-51.55
+67da0e428db414948c460bbf,Iniciando em programação,livros,41.11,0.0,2022-08-01,Thiago Silva,ES,1,cartao_credito,1,-19.19,-40.34
+67da0e428db414948c460c01,Iniciando em programação,livros,46.79,0.0,2020-11-01,Rafael Costa,SP,4,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c460cb2,Iniciando em programação,livros,88.14,2.2776289057,2021-05-02,Rafael Costa,SP,1,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c460cb8,Dashboards com Power BI,livros,52.8,3.4984533068,2022-05-02,Juliana Costa,SP,4,boleto,1,-22.19,-48.79
+67da0e428db414948c460b46,Iniciando em programação,livros,65.86,4.4466946987,2020-04-01,Rafael Costa,SP,5,cartao_credito,4,-22.19,-48.79
+67da0e428db414948c460bf8,Ciência de dados com python,livros,88.2,4.9795105675,2022-10-01,Rafael Costa,SP,5,cartao_credito,4,-22.19,-48.79
+67da0e428db414948c460c0c,Dashboards com Power BI,livros,51.67,3.0343979645,2022-11-01,Larissa Alves,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c460c8f,Iniciando em programação,livros,88.6,5.6060986304,2023-03-02,Isabella Pereira,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c460c90,Modelagem preditiva,livros,84.08,2.0614461198,2023-03-02,Lucas Oliveira,SC,1,cartao_credito,1,-27.45,-50.95
+67da0e428db414948c460ae9,Modelagem preditiva,livros,92.45,5.6096965236,2020-01-01,Thiago Silva,BA,1,cartao_credito,3,-13.29,-41.71
+67da0e428db414948c460b0c,Ciência de dados com python,livros,72.75,1.458157705,2021-02-01,Beatriz Moraes,PR,4,cartao_credito,2,-24.89,-51.55
+67da0e428db414948c460b54,Dashboards com Power BI,livros,40.85,0.0,2021-04-01,Mariana Ferreira,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c460b9c,Iniciando em programação,livros,56.9,3.560858347,2021-07-01,Mariana Ferreira,SP,4,boleto,1,-22.19,-48.79
+67da0e428db414948c460aea,Iniciando em programação,livros,43.84,0.0,2020-01-01,Mariana Ferreira,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c460afc,Iniciando em programação,livros,63.25,3.894137208,2022-01-01,Juliana Costa,RJ,5,cartao_credito,4,-22.25,-42.66
+67da0e428db414948c460b22,Modelagem preditiva,livros,70.49,1.337819504,2023-02-01,Isabella Pereira,PE,4,cupom,1,-8.38,-37.86
+67da0e428db414948c460c03,Iniciando em programação,livros,60.27,3.4923220922,2021-11-01,Juliana Costa,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c460c4c,Dashboards com Power BI,livros,52.47,3.0826464613,2023-01-02,Felipe Santos,MG,3,cartao_credito,6,-18.1,-44.38
+67da0e428db414948c460cee,Ciência de dados com python,livros,55.49,0.0,2021-08-02,Beatriz Moraes,PA,5,cartao_credito,2,-3.79,-52.48
+67da0e428db414948c460e6e,Dashboards com Power BI,livros,39.78,2.6492698508,2021-11-03,Thiago Silva,MG,5,cartao_credito,2,-18.1,-44.38
+67da0e428db414948c460d38,Modelagem preditiva,livros,75.75,1.6178986798,2022-11-02,Felipe Santos,RJ,5,cartao_credito,2,-22.25,-42.66
+67da0e428db414948c460d6a,Ciência de dados com python,livros,95.35,5.3602265574,2021-01-03,Thiago Silva,RJ,5,cartao_credito,10,-22.25,-42.66
+67da0e428db414948c460db5,Iniciando em programação,livros,42.69,0.0,2023-03-03,Camila Ribeiro,MG,5,cartao_credito,1,-18.1,-44.38
+67da0e428db414948c460dcf,Dashboards com Power BI,livros,58.7,3.4087243154,2021-04-03,Isabella Pereira,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c460e80,Modelagem preditiva,livros,85.76,2.1509010657,2021-12-03,Rafael Costa,RJ,5,cupom,1,-22.25,-42.66
+67da0e428db414948c460d14,Modelagem preditiva,livros,79.3,1.8069255,2020-10-02,Isabella Pereira,RJ,5,cartao_credito,1,-22.25,-42.66
+67da0e428db414948c460d67,Ciência de dados com python,livros,62.53,3.6126602932,2021-01-03,Thiago Silva,PR,4,cartao_credito,1,-24.89,-51.55
+67da0e428db414948c460d74,Ciência de dados com python,livros,98.61,2.8351249077,2023-01-03,Thiago Silva,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c460d8d,Dashboards com Power BI,livros,51.19,0.0,2022-02-03,Lucas Oliveira,SP,1,cartao_credito,18,-22.19,-48.79
+67da0e428db414948c460da1,Iniciando em programação,livros,56.74,3.3043602119,2021-03-03,João Souza,SP,5,cartao_credito,10,-22.19,-48.79
+67da0e428db414948c460dee,Iniciando em programação,livros,44.09,2.6307857682,2020-06-03,Lucas Oliveira,SP,5,cartao_credito,9,-22.19,-48.79
+67da0e428db414948c460dc8,Ciência de dados com python,livros,99.15,2.8638782832,2020-04-03,Felipe Santos,MG,5,cartao_credito,7,-18.1,-44.38
+67da0e428db414948c460e21,Ciência de dados com python,livros,65.74,7.9804959394,2021-08-03,Bruno Rodrigues,RJ,5,cartao_credito,10,-22.25,-42.66
+67da0e428db414948c460ec8,Modelagem preditiva,livros,104.17,6.2337512651,2023-02-04,Felipe Santos,SP,5,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c460d87,Ciência de dados com python,livros,73.59,1.502885178,2021-02-03,Juliana Costa,RS,5,cartao_credito,8,-30.17,-53.5
+67da0e428db414948c460d98,Ciência de dados com python,livros,81.21,1.9086272539,2023-02-03,Camila Ribeiro,SP,1,boleto,1,-22.19,-48.79
+67da0e428db414948c460e74,Modelagem preditiva,livros,78.42,1.7600681474,2022-11-03,Larissa Alves,RJ,5,cartao_credito,4,-22.25,-42.66
+67da0e428db414948c460d0c,Iniciando em programação,livros,62.95,4.0389102715,2022-09-02,Larissa Alves,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c460cf1,Dashboards com Power BI,livros,42.72,0.0,2021-08-02,Rafael Costa,SP,5,cupom,1,-22.19,-48.79
+67da0e428db414948c460d63,Dashboards com Power BI,livros,40.3,2.6721187509,2021-01-03,Pedro Gomes,SP,2,cartao_credito,4,-22.19,-48.79
+67da0e428db414948c460e26,Iniciando em programação,livros,48.2,5.7303213177,2021-08-03,Juliana Costa,BA,5,cupom,1,-13.29,-41.71
+67da0e428db414948c460e30,Iniciando em programação,livros,59.69,9.5579272936,2020-09-03,Camila Ribeiro,SC,5,cartao_credito,3,-27.45,-50.95
+67da0e428db414948c460e62,Dashboards com Power BI,livros,35.72,2.7903977148,2020-11-03,Juliana Costa,SP,5,cartao_credito,4,-22.19,-48.79
+67da0e428db414948c460ecb,Modelagem preditiva,livros,91.35,5.3952172075,2023-02-04,Pedro Gomes,SP,2,cupom,1,-22.19,-48.79
+67da0e428db414948c460df3,Modelagem preditiva,livros,63.34,3.9037689728,2021-06-03,Rafael Costa,SP,5,cartao_credito,4,-22.19,-48.79
+67da0e428db414948c460e5b,Dashboards com Power BI,livros,37.98,2.3054466495,2021-10-03,Thiago Silva,RJ,5,cartao_credito,2,-22.25,-42.66
+67da0e428db414948c460ebe,Iniciando em programação,livros,60.51,0.0,2022-02-04,Larissa Alves,MT,5,boleto,1,-12.64,-55.42
+67da0e428db414948c460ced,Ciência de dados com python,livros,63.96,0.0,2020-08-02,Felipe Santos,PR,5,boleto,1,-24.89,-51.55
+67da0e428db414948c460f03,Modelagem preditiva,livros,75.34,1.5960674133,2021-06-04,Rafael Costa,MG,1,cartao_credito,1,-18.1,-44.38
+67da0e428db414948c461059,Dashboards com Power BI,livros,51.25,0.0,2022-08-05,Beatriz Moraes,SP,5,cartao_credito,5,-22.19,-48.79
+67da0e428db414948c460f4b,Ciência de dados com python,livros,70.94,4.3036065734,2021-09-04,Thiago Silva,SP,3,cartao_credito,10,-22.19,-48.79
+67da0e428db414948c4610a8,Ciência de dados com python,livros,52.92,3.7062459703,2022-11-05,Beatriz Moraes,RJ,3,cartao_credito,4,-22.25,-42.66
+67da0e428db414948c460edd,Ciência de dados com python,livros,88.05,12.4904072277,2023-03-04,João Souza,SP,3,cartao_credito,10,-22.19,-48.79
+67da0e428db414948c460fc2,Ciência de dados com python,livros,83.56,2.0337576842,2023-02-05,Larissa Alves,PE,4,cartao_credito,2,-8.38,-37.86
+67da0e428db414948c461065,Dashboards com Power BI,livros,53.0,3.3531950797,2020-09-05,Beatriz Moraes,SP,5,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c46106d,Iniciando em programação,livros,61.07,3.540570589,2021-09-05,Bruno Rodrigues,CE,5,cartao_credito,2,-5.2,-39.53
+67da0e428db414948c461076,Ciência de dados com python,livros,59.0,0.0,2022-09-05,Felipe Santos,RJ,4,cartao_credito,8,-22.25,-42.66
+67da0e428db414948c460f82,Ciência de dados com python,livros,50.73,2.9843457924,2022-11-04,Bruno Rodrigues,GO,1,cartao_credito,1,-15.98,-49.86
+67da0e428db414948c460fdf,Modelagem preditiva,livros,68.09,1.2100267242,2023-03-05,Felipe Santos,SP,5,cartao_credito,10,-22.19,-48.79
+67da0e428db414948c460f0a,Modelagem preditiva,livros,97.41,2.7712285178,2021-06-04,Thiago Silva,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c460fdb,Modelagem preditiva,livros,102.27,3.0300088969,2023-03-05,Isabella Pereira,CE,1,cartao_credito,10,-5.2,-39.53
+67da0e428db414948c461086,Modelagem preditiva,livros,66.38,3.8233121144,2021-10-05,Isabella Pereira,MA,3,cartao_credito,5,-5.42,-45.44
+67da0e428db414948c46100d,Ciência de dados com python,livros,82.98,4.7072121749,2020-06-05,Pedro Gomes,MG,3,cartao_credito,1,-18.1,-44.38
+67da0e428db414948c460ef4,Modelagem preditiva,livros,105.62,3.2083863188,2021-05-04,Bianca Santos,DF,5,cartao_credito,5,-15.83,-47.86
+67da0e428db414948c460f0e,Ciência de dados com python,livros,63.61,0.0,2022-06-04,Pedro Gomes,PR,5,cartao_credito,8,-24.89,-51.55
+67da0e428db414948c460f7a,Dashboards com Power BI,livros,41.97,10.0328273462,2022-11-04,Bianca Santos,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c46100a,Dashboards com Power BI,livros,47.02,2.7867994536,2022-05-05,Bruno Rodrigues,PE,5,cartao_credito,1,-8.38,-37.86
+67da0e428db414948c461012,Iniciando em programação,livros,59.43,0.0,2020-06-05,Felipe Santos,SP,5,cartao_credito,10,-22.19,-48.79
+67da0e428db414948c46105f,Ciência de dados com python,livros,66.91,4.5026040399,2020-09-05,Lucas Oliveira,RJ,5,boleto,1,-22.25,-42.66
+67da0e428db414948c4610a7,Iniciando em programação,livros,63.01,3.8861974656,2022-11-05,Juliana Costa,SP,3,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c46106b,Modelagem preditiva,livros,98.2,2.8132936411,2021-09-05,Felipe Santos,SP,5,cupom,1,-22.19,-48.79
+67da0e428db414948c461089,Iniciando em programação,livros,75.81,1.6210934993,2021-10-05,Felipe Santos,SP,4,boleto,1,-22.19,-48.79
+67da0e428db414948c460f1b,Iniciando em programação,livros,89.21,2.3346031867,2021-07-04,Beatriz Moraes,PR,5,cartao_credito,10,-24.89,-51.55
+67da0e428db414948c460fcc,Iniciando em programação,livros,80.4,4.5641840331,2020-03-05,Rafael Costa,MG,5,cartao_credito,2,-18.1,-44.38
+67da0e428db414948c460f2e,Ciência de dados com python,livros,57.79,0.0,2020-08-04,Juliana Costa,BA,4,boleto,1,-13.29,-41.71
+67da0e428db414948c460f65,Dashboards com Power BI,livros,43.28,0.0,2022-10-04,Thiago Silva,SP,1,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c460f96,Iniciando em programação,livros,46.11,0.0,2020-01-05,Lucas Oliveira,RS,4,boleto,1,-30.17,-53.5
+67da0e428db414948c4610bf,Modelagem preditiva,livros,87.49,2.2430183611,2021-12-05,Lucas Oliveira,SP,5,cartao_credito,8,-22.19,-48.79
+67da0e428db414948c461082,Ciência de dados com python,livros,77.26,1.6983016371,2021-10-05,Felipe Santos,RJ,1,cartao_credito,4,-22.25,-42.66
+67da0e428db414948c461091,Ciência de dados com python,livros,86.59,4.8994338145,2022-10-05,João Souza,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c461145,Modelagem preditiva,livros,94.84,5.5762096725,2022-04-06,Juliana Costa,SP,3,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c46119a,Modelagem preditiva,livros,87.27,5.1779694817,2021-08-06,Isabella Pereira,BA,5,cartao_credito,10,-13.29,-41.71
+67da0e428db414948c4611b0,Dashboards com Power BI,livros,48.51,0.0,2021-09-06,Felipe Santos,SP,4,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c46128a,Modelagem preditiva,livros,83.01,2.0044718388,2021-05-07,João Souza,SP,1,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c4611c0,Dashboards com Power BI,livros,59.46,12.2604524853,2020-10-06,Juliana Costa,PR,5,cartao_credito,1,-24.89,-51.55
+67da0e428db414948c46112f,Dashboards com Power BI,livros,45.83,0.0,2023-03-06,Pedro Gomes,RJ,2,cartao_credito,7,-22.25,-42.66
+67da0e428db414948c4610d5,Ciência de dados com python,livros,63.46,6.5428704095,2021-01-06,Juliana Costa,SP,4,boleto,1,-22.19,-48.79
+67da0e428db414948c4610da,Iniciando em programação,livros,88.47,4.9995381587,2021-01-06,Thiago Silva,MG,5,cartao_credito,8,-18.1,-44.38
+67da0e428db414948c461138,Dashboards com Power BI,livros,40.71,0.0,2020-04-06,Larissa Alves,PE,5,cartao_credito,8,-8.38,-37.86
+67da0e428db414948c461147,Dashboards com Power BI,livros,52.31,5.9491664532,2022-04-06,Bruno Rodrigues,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c4610de,Modelagem preditiva,livros,93.15,2.5443963336,2022-01-06,Bianca Santos,RJ,5,cartao_credito,2,-22.25,-42.66
+67da0e428db414948c4610f1,Modelagem preditiva,livros,91.05,2.4325776512,2020-02-06,Lucas Oliveira,PR,5,cartao_credito,3,-24.89,-51.55
+67da0e428db414948c46113c,Iniciando em programação,livros,41.11,2.7200883497,2021-04-06,Isabella Pereira,ES,4,cartao_credito,5,-19.19,-40.34
+67da0e428db414948c4610f7,Dashboards com Power BI,livros,38.14,0.0,2020-02-06,Pedro Gomes,SP,4,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c461117,Dashboards com Power BI,livros,44.51,0.0,2020-03-06,Rafael Costa,SC,3,cartao_credito,10,-27.45,-50.95
+67da0e428db414948c461133,Ciência de dados com python,livros,64.18,10.9729722065,2020-04-06,Pedro Gomes,SP,5,cartao_credito,8,-22.19,-48.79
+67da0e428db414948c461144,Ciência de dados com python,livros,79.17,1.8000033911,2022-04-06,Isabella Pereira,SP,5,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c46120b,Iniciando em programação,livros,70.62,4.2914070717,2022-12-06,Larissa Alves,SP,5,cartao_credito,10,-22.19,-48.79
+67da0e428db414948c46121f,Ciência de dados com python,livros,58.99,0.0,2021-01-07,Pedro Gomes,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c4611aa,Iniciando em programação,livros,69.15,4.5704446439,2020-09-06,Bianca Santos,MG,1,cartao_credito,2,-18.1,-44.38
+67da0e428db414948c46123f,Iniciando em programação,livros,76.05,4.580538236,2021-02-07,Larissa Alves,SP,4,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c4611d0,Dashboards com Power BI,livros,59.19,3.6779544221,2020-11-06,Larissa Alves,RS,5,cartao_credito,1,-30.17,-53.5
+67da0e428db414948c4611db,Ciência de dados com python,livros,66.03,11.0714791409,2021-11-06,Bianca Santos,PR,5,cartao_credito,10,-24.89,-51.55
+67da0e428db414948c461272,Iniciando em programação,livros,85.55,2.1397191975,2020-04-07,Thiago Silva,SP,1,cartao_credito,7,-22.19,-48.79
+67da0e428db414948c46129c,Modelagem preditiva,livros,101.63,5.6946176647,2021-06-07,Isabella Pereira,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c4612a6,Modelagem preditiva,livros,97.44,2.7728259275,2020-07-07,Bruno Rodrigues,RS,1,boleto,1,-30.17,-53.5
+67da0e428db414948c461106,Dashboards com Power BI,livros,46.28,2.7530475833,2021-02-06,Juliana Costa,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c4611be,Ciência de dados com python,livros,92.0,6.2978385734,2020-10-06,Beatriz Moraes,GO,4,cupom,1,-15.98,-49.86
+67da0e428db414948c461107,Dashboards com Power BI,livros,46.07,0.0,2022-02-06,Larissa Alves,PE,5,cartao_credito,1,-8.38,-37.86
+67da0e428db414948c461231,Ciência de dados com python,livros,56.82,0.0,2023-01-07,Bianca Santos,RJ,2,cartao_credito,1,-22.25,-42.66
+67da0e428db414948c4611b9,Dashboards com Power BI,livros,55.51,3.4868450286,2022-09-06,Bruno Rodrigues,CE,5,cartao_credito,3,-5.2,-39.53
+67da0e428db414948c46131b,Ciência de dados com python,livros,86.71,4.90017255,2022-12-07,Thiago Silva,SP,5,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c461331,Iniciando em programação,livros,86.64,5.144423877,2022-01-08,Isabella Pereira,SC,5,cartao_credito,1,-27.45,-50.95
+67da0e428db414948c461342,Dashboards com Power BI,livros,41.45,2.8940999522,2020-02-08,Lucas Oliveira,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c4612ee,Modelagem preditiva,livros,92.04,2.4852921729,2021-10-07,Beatriz Moraes,RJ,4,cartao_credito,1,-22.25,-42.66
+67da0e428db414948c4613e3,Ciência de dados com python,livros,63.42,4.0639363576,2022-07-08,Rafael Costa,MG,5,cartao_credito,3,-18.1,-44.38
+67da0e428db414948c4613ce,Ciência de dados com python,livros,75.31,1.5944700035,2022-06-08,João Souza,MG,5,cartao_debito,1,-18.1,-44.38
+67da0e428db414948c46139d,Ciência de dados com python,livros,52.36,3.676427655,2022-04-08,Rafael Costa,SP,5,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c461313,Ciência de dados com python,livros,82.17,1.9597443659,2021-12-07,Pedro Gomes,SP,4,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c461335,Modelagem preditiva,livros,97.21,2.7605791195,2022-01-08,Rafael Costa,SP,5,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c4613a5,Iniciando em programação,livros,47.99,8.9349374919,2020-05-08,Thiago Silva,MG,5,cartao_credito,4,-18.1,-44.38
+67da0e428db414948c4613c0,Dashboards com Power BI,livros,59.43,0.0,2020-06-08,Juliana Costa,DF,4,cupom,1,-15.83,-47.86
+67da0e428db414948c461322,Modelagem preditiva,livros,100.64,2.9432163006,2020-01-08,João Souza,SP,4,boleto,1,-22.19,-48.79
+67da0e428db414948c4612ef,Ciência de dados com python,livros,83.49,2.0300303948,2022-10-07,Pedro Gomes,SP,1,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c46132d,Iniciando em programação,livros,67.85,3.8959342885,2022-01-08,Rafael Costa,MG,4,cartao_credito,2,-18.1,-44.38
+67da0e428db414948c461337,Iniciando em programação,livros,68.04,11.4249349259,2022-01-08,João Souza,PR,5,boleto,1,-24.89,-51.55
+67da0e428db414948c461343,Iniciando em programação,livros,87.5,10.9010471513,2020-02-08,Camila Ribeiro,SP,5,cartao_credito,7,-22.19,-48.79
+67da0e428db414948c461428,Dashboards com Power BI,livros,52.86,9.194250341,2020-11-08,Bianca Santos,SP,5,cartao_credito,10,-22.19,-48.79
+67da0e428db414948c4613a9,Modelagem preditiva,livros,91.21,5.1397840122,2020-05-08,Mariana Ferreira,SP,4,cartao_credito,8,-22.19,-48.79
+67da0e428db414948c4612e1,Iniciando em programação,livros,65.35,1.0641299672,2022-09-07,Bianca Santos,BA,4,cartao_debito,1,-13.29,-41.71
+67da0e428db414948c461375,Ciência de dados com python,livros,62.93,0.0,2022-03-08,Mariana Ferreira,SP,5,cartao_credito,5,-22.19,-48.79
+67da0e428db414948c461413,Iniciando em programação,livros,78.44,4.4598199295,2020-10-08,João Souza,MT,4,cartao_credito,3,-12.64,-55.42
+67da0e428db414948c4613d3,Modelagem preditiva,livros,107.4,3.3031659638,2020-07-08,Lucas Oliveira,SP,5,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c461466,Ciência de dados com python,livros,55.22,0.0,2023-01-09,Bruno Rodrigues,MG,4,cartao_credito,3,-18.1,-44.38
+67da0e428db414948c461416,Iniciando em programação,livros,54.71,3.8015580852,2020-10-08,Bianca Santos,SP,1,cartao_credito,10,-22.19,-48.79
+67da0e428db414948c461443,Modelagem preditiva,livros,101.02,5.6621369998,2021-12-08,Isabella Pereira,SP,4,cartao_credito,4,-22.19,-48.79
+67da0e428db414948c46146f,Iniciando em programação,livros,41.91,3.1714292499,2021-02-09,João Souza,MG,5,cartao_credito,3,-18.1,-44.38
+67da0e428db414948c461485,Iniciando em programação,livros,40.63,2.6945297937,2023-02-09,Mariana Ferreira,MG,3,cartao_credito,10,-18.1,-44.38
+67da0e428db414948c4613d1,Iniciando em programação,livros,51.68,3.2829090508,2020-07-08,Felipe Santos,RS,4,boleto,1,-30.17,-53.5
+67da0e428db414948c46147e,Ciência de dados com python,livros,78.93,1.7872241131,2022-02-09,Lucas Oliveira,DF,5,cartao_credito,1,-15.83,-47.86
+67da0e428db414948c461326,Iniciando em programação,livros,54.49,6.0652448948,2021-01-08,Rafael Costa,SP,5,cartao_credito,7,-22.19,-48.79
+67da0e428db414948c46137d,Iniciando em programação,livros,71.45,1.3889366159,2023-03-08,Isabella Pereira,SP,5,cartao_debito,1,-22.19,-48.79
+67da0e428db414948c46139a,Dashboards com Power BI,livros,58.62,3.6524431725,2021-04-08,Larissa Alves,GO,3,cartao_credito,1,-15.98,-49.86
+67da0e428db414948c4612e4,Dashboards com Power BI,livros,35.37,0.0,2020-10-07,Bianca Santos,RS,1,cartao_credito,2,-30.17,-53.5
+67da0e428db414948c4612f0,Iniciando em programação,livros,59.31,3.6891835967,2022-10-07,Beatriz Moraes,PR,5,cartao_credito,2,-24.89,-51.55
+67da0e428db414948c461324,Dashboards com Power BI,livros,54.04,6.0412837486,2021-01-08,Mariana Ferreira,PI,4,cartao_credito,7,-6.6,-42.28
+67da0e428db414948c46139e,Modelagem preditiva,livros,102.79,5.7563841749,2022-04-08,Lucas Oliveira,SP,4,cupom,1,-22.19,-48.79
+67da0e428db414948c4613ea,Iniciando em programação,livros,76.52,4.3575857057,2022-07-08,Beatriz Moraes,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c461425,Modelagem preditiva,livros,63.16,0.0,2020-11-08,Bianca Santos,SP,4,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c4613d0,Dashboards com Power BI,livros,43.97,0.0,2022-06-08,Felipe Santos,SP,5,cupom,1,-22.19,-48.79
+67da0e428db414948c461353,Ciência de dados com python,livros,55.06,0.0,2022-02-08,Bianca Santos,PR,4,boleto,1,-24.89,-51.55
+67da0e428db414948c461390,Dashboards com Power BI,livros,58.54,4.005494063,2020-04-08,Camila Ribeiro,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c4614f9,Iniciando em programação,livros,68.41,1.2270657615,2020-07-09,Camila Ribeiro,TO,3,cupom,1,-9.46,-48.26
+67da0e428db414948c46166c,Iniciando em programação,livros,52.73,0.0,2021-10-10,Beatriz Moraes,MS,4,cartao_credito,2,-20.51,-54.54
+67da0e428db414948c461698,Ciência de dados com python,livros,67.12,1.1583771423,2022-11-10,Bruno Rodrigues,MG,1,cartao_credito,3,-18.1,-44.38
+67da0e428db414948c4614c1,Dashboards com Power BI,livros,51.18,3.4121931805,2021-04-09,Thiago Silva,BA,1,cartao_credito,3,-13.29,-41.71
+67da0e428db414948c461582,Dashboards com Power BI,livros,36.39,3.3367733707,2021-01-10,Bianca Santos,MG,5,cartao_credito,3,-18.1,-44.38
+67da0e428db414948c4615bf,Dashboards com Power BI,livros,52.91,0.0,2020-03-10,Pedro Gomes,BA,5,boleto,1,-13.29,-41.71
+67da0e428db414948c46164b,Modelagem preditiva,livros,106.3,6.1912597318,2022-08-10,Isabella Pereira,SC,1,cartao_credito,1,-27.45,-50.95
+67da0e428db414948c4614cf,Dashboards com Power BI,livros,54.74,0.0,2020-05-09,Mariana Ferreira,SP,4,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c4614fc,Modelagem preditiva,livros,95.23,6.4698263563,2021-07-09,Camila Ribeiro,SP,1,cartao_credito,4,-22.19,-48.79
+67da0e428db414948c46159b,Iniciando em programação,livros,87.98,5.6245181528,2020-02-10,Felipe Santos,SP,5,cartao_credito,4,-22.19,-48.79
+67da0e428db414948c4615c0,Modelagem preditiva,livros,70.63,4.0439609252,2020-03-10,Thiago Silva,RS,1,cartao_credito,10,-30.17,-53.5
+67da0e428db414948c461682,Iniciando em programação,livros,42.19,5.4103068982,2020-11-10,Isabella Pereira,SP,3,boleto,1,-22.19,-48.79
+67da0e428db414948c461519,Modelagem preditiva,livros,70.2,4.4249509606,2022-08-09,Thiago Silva,MG,5,cartao_credito,1,-18.1,-44.38
+67da0e428db414948c461585,Modelagem preditiva,livros,91.2,2.4405647,2021-01-10,Thiago Silva,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c4615e1,Ciência de dados com python,livros,62.19,0.0,2020-04-10,Rafael Costa,RJ,5,cartao_credito,3,-22.25,-42.66
+67da0e428db414948c46163d,Dashboards com Power BI,livros,46.91,0.0,2022-07-10,Juliana Costa,ES,5,cartao_credito,2,-19.19,-40.34
+67da0e428db414948c461674,Ciência de dados com python,livros,50.65,8.938895511,2021-10-10,Felipe Santos,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c461511,Modelagem preditiva,livros,75.7,11.8328068815,2021-08-09,Bruno Rodrigues,RJ,3,cartao_credito,1,-22.25,-42.66
+67da0e428db414948c461512,Ciência de dados com python,livros,91.53,11.1156325274,2021-08-09,Mariana Ferreira,PE,5,cartao_credito,1,-8.38,-37.86
+67da0e428db414948c46151d,Iniciando em programação,livros,55.68,0.0,2022-08-09,Rafael Costa,SP,5,cupom,1,-22.19,-48.79
+67da0e428db414948c461559,Modelagem preditiva,livros,98.44,2.8260729191,2022-11-09,Larissa Alves,RS,5,cartao_credito,2,-30.17,-53.5
+67da0e428db414948c461575,Ciência de dados com python,livros,75.13,4.5315510038,2022-12-09,Pedro Gomes,SC,4,cartao_credito,10,-27.45,-50.95
+67da0e428db414948c461570,Iniciando em programação,livros,65.5,1.0721170159,2021-12-09,Mariana Ferreira,SC,5,cartao_credito,3,-27.45,-50.95
+67da0e428db414948c4615be,Dashboards com Power BI,livros,45.17,0.0,2020-03-10,Larissa Alves,MG,5,cartao_credito,2,-18.1,-44.38
+67da0e428db414948c461615,Dashboards com Power BI,livros,35.75,0.0,2022-05-10,Lucas Oliveira,ES,2,cartao_credito,4,-19.19,-40.34
+67da0e428db414948c461695,Dashboards com Power BI,livros,44.24,0.0,2022-11-10,Larissa Alves,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c4615ee,Dashboards com Power BI,livros,40.09,2.6609368826,2021-04-10,Thiago Silva,ES,5,cartao_credito,4,-19.19,-40.34
+67da0e428db414948c46160b,Ciência de dados com python,livros,81.5,1.9240688815,2021-05-10,Camila Ribeiro,GO,5,cartao_credito,2,-15.98,-49.86
+67da0e428db414948c46153c,Modelagem preditiva,livros,67.63,4.1321985668,2020-10-09,Rafael Costa,SC,5,cartao_credito,1,-27.45,-50.95
+67da0e428db414948c4615dd,Ciência de dados com python,livros,72.96,1.4693395733,2023-03-10,Bruno Rodrigues,SP,2,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c4615d2,Dashboards com Power BI,livros,38.92,5.2361892357,2022-03-10,Thiago Silva,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c46168c,Dashboards com Power BI,livros,51.53,0.0,2021-11-10,João Souza,DF,4,cartao_credito,2,-15.83,-47.86
+67da0e428db414948c4615a2,Ciência de dados com python,livros,88.38,4.9947459295,2021-02-10,Bruno Rodrigues,ES,5,boleto,1,-19.19,-40.34
+67da0e428db414948c461635,Ciência de dados com python,livros,94.93,2.6391759786,2022-07-10,Larissa Alves,DF,2,boleto,1,-15.83,-47.86
+67da0e428db414948c4616a0,Dashboards com Power BI,livros,40.13,0.0,2020-12-10,Beatriz Moraes,RJ,5,cartao_credito,6,-22.25,-42.66
+67da0e428db414948c46151e,Modelagem preditiva,livros,91.39,2.4506816284,2020-09-09,Juliana Costa,PR,5,cartao_credito,2,-24.89,-51.55
+67da0e428db414948c4615f3,Iniciando em programação,livros,82.76,1.9911600909,2022-04-10,Rafael Costa,SP,5,cartao_credito,6,-22.19,-48.79
+67da0e428db414948c461622,Modelagem preditiva,livros,75.19,1.5880803645,2021-06-10,Isabella Pereira,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c461648,Iniciando em programação,livros,75.8,4.3192478717,2022-08-10,Isabella Pereira,MS,2,boleto,1,-20.51,-54.54
+67da0e428db414948c461656,Iniciando em programação,livros,87.31,2.2334339027,2020-09-10,Beatriz Moraes,RJ,5,boleto,1,-22.25,-42.66
+67da0e428db414948c461660,Iniciando em programação,livros,70.71,1.3495338422,2021-09-10,Pedro Gomes,MG,1,cartao_credito,3,-18.1,-44.38
+67da0e428db414948c461552,Modelagem preditiva,livros,70.03,4.2599913466,2020-11-09,Lucas Oliveira,RJ,1,boleto,1,-22.25,-42.66
+67da0e428db414948c461553,Modelagem preditiva,livros,88.02,4.969926109,2020-11-09,Lucas Oliveira,RJ,5,cupom,1,-22.25,-42.66
+67da0e428db414948c46161b,Modelagem preditiva,livros,67.78,1.1935201568,2020-06-10,Camila Ribeiro,SP,1,boleto,1,-22.19,-48.79
+67da0e428db414948c461639,Ciência de dados com python,livros,73.49,1.4975604788,2022-07-10,Bianca Santos,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c4615cf,Iniciando em programação,livros,64.99,3.7436478926,2022-03-10,Camila Ribeiro,SP,1,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c46162c,Modelagem preditiva,livros,71.33,4.0812338193,2021-07-10,Juliana Costa,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c4616f5,Iniciando em programação,livros,86.9,11.0067779349,2022-02-11,Bruno Rodrigues,BA,5,cartao_credito,4,-13.29,-41.71
+67da0e428db414948c461767,Modelagem preditiva,livros,71.85,10.2054107114,2020-07-11,Bruno Rodrigues,MG,5,cartao_credito,3,-18.1,-44.38
+67da0e428db414948c4617cd,Modelagem preditiva,livros,95.85,2.6881632109,2020-11-11,Larissa Alves,DF,5,cartao_credito,1,-15.83,-47.86
+67da0e428db414948c4617cf,Iniciando em programação,livros,75.38,4.2968841353,2021-11-11,Lucas Oliveira,SP,4,cupom,1,-22.19,-48.79
+67da0e428db414948c4616d2,Dashboards com Power BI,livros,56.23,3.2828551497,2023-01-11,Beatriz Moraes,MG,4,cartao_credito,5,-18.1,-44.38
+67da0e428db414948c461711,Ciência de dados com python,livros,56.5,3.9483028573,2022-03-11,Camila Ribeiro,MG,4,cartao_credito,3,-18.1,-44.38
+67da0e428db414948c46175f,Iniciando em programação,livros,82.16,7.5385891523,2020-07-11,Juliana Costa,PA,1,boleto,1,-3.79,-52.48
+67da0e428db414948c461717,Modelagem preditiva,livros,62.0,3.5844393877,2023-03-11,Pedro Gomes,SP,4,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c461743,Ciência de dados com python,livros,81.33,4.8568428161,2021-05-11,Beatriz Moraes,DF,5,cartao_credito,1,-15.83,-47.86
+67da0e428db414948c46185a,Modelagem preditiva,livros,60.34,3.4960493816,2023-03-12,Camila Ribeiro,SP,5,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c461843,Modelagem preditiva,livros,107.7,3.3191400613,2023-02-12,Camila Ribeiro,MG,2,cartao_credito,10,-18.1,-44.38
+67da0e428db414948c4617d7,Modelagem preditiva,livros,61.84,3.9798061109,2022-11-11,Rafael Costa,RJ,5,cartao_credito,6,-22.25,-42.66
+67da0e428db414948c4617f3,Modelagem preditiva,livros,104.25,7.2037932262,2021-12-11,Camila Ribeiro,RS,4,cartao_credito,3,-30.17,-53.5
+67da0e428db414948c4617aa,Ciência de dados com python,livros,89.51,5.2972427429,2022-09-11,Thiago Silva,CE,5,cartao_credito,2,-5.2,-39.53
+67da0e428db414948c4617b1,Iniciando em programação,livros,73.22,4.1875215369,2020-10-11,Larissa Alves,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c461700,Dashboards com Power BI,livros,45.7,0.0,2020-03-11,Larissa Alves,SP,5,cartao_credito,4,-22.19,-48.79
+67da0e428db414948c461712,Dashboards com Power BI,livros,50.06,3.1966489244,2022-03-11,Beatriz Moraes,RS,5,cartao_credito,4,-30.17,-53.5
+67da0e428db414948c461893,Iniciando em programação,livros,79.8,4.7802144545,2020-06-12,Camila Ribeiro,SC,5,cartao_credito,3,-27.45,-50.95
+67da0e428db414948c4617f6,Dashboards com Power BI,livros,39.71,3.5135533828,2022-12-11,Camila Ribeiro,PR,4,boleto,1,-24.89,-51.55
+67da0e428db414948c46184c,Dashboards com Power BI,livros,50.93,0.0,2020-03-12,Isabella Pereira,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c461718,Modelagem preditiva,livros,97.99,2.8021117729,2023-03-11,João Souza,SC,1,boleto,1,-27.45,-50.95
+67da0e428db414948c4617ba,Iniciando em programação,livros,70.49,1.337819504,2021-10-11,Bruno Rodrigues,SP,3,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c4616b6,Ciência de dados com python,livros,61.12,6.4182724491,2022-12-10,Felipe Santos,PA,1,boleto,1,-3.79,-52.48
+67da0e428db414948c4616bc,Ciência de dados com python,livros,57.43,0.0,2022-12-10,Mariana Ferreira,RJ,1,cartao_credito,10,-22.25,-42.66
+67da0e428db414948c4616d1,Iniciando em programação,livros,84.44,2.0806150368,2023-01-11,Camila Ribeiro,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c461862,Ciência de dados com python,livros,92.38,2.5033961501,2023-03-12,Bianca Santos,RJ,5,cartao_credito,1,-22.25,-42.66
+67da0e428db414948c4617cb,Ciência de dados com python,livros,63.92,11.2015988117,2020-11-11,João Souza,PE,5,cartao_credito,8,-8.38,-37.86
+67da0e428db414948c4617de,Iniciando em programação,livros,84.63,5.0373974239,2022-11-11,Felipe Santos,ES,5,cartao_credito,1,-19.19,-40.34
+67da0e428db414948c4616cf,Dashboards com Power BI,livros,40.33,0.0,2023-01-11,Rafael Costa,SP,5,cartao_credito,5,-22.19,-48.79
+67da0e428db414948c46178a,Modelagem preditiva,livros,84.54,5.0326051947,2022-08-11,Thiago Silva,SP,1,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c461792,Dashboards com Power BI,livros,42.66,0.0,2020-09-11,Camila Ribeiro,ES,5,boleto,1,-19.19,-40.34
+67da0e428db414948c461705,Iniciando em programação,livros,72.17,4.1259612922,2020-03-11,Isabella Pereira,RJ,5,boleto,1,-22.25,-42.66
+67da0e428db414948c461716,Modelagem preditiva,livros,87.93,2.2664470375,2022-03-11,Mariana Ferreira,SC,5,cartao_credito,2,-27.45,-50.95
+67da0e428db414948c461887,Ciência de dados com python,livros,56.26,6.15949207,2021-05-12,Lucas Oliveira,RS,1,cartao_credito,2,-30.17,-53.5
+67da0e428db414948c4617bc,Iniciando em programação,livros,55.98,3.2695434018,2021-10-11,Beatriz Moraes,RJ,3,boleto,1,-22.25,-42.66
+67da0e428db414948c461834,Iniciando em programação,livros,64.77,1.0332467121,2022-02-12,Bianca Santos,MG,5,cartao_credito,1,-18.1,-44.38
+67da0e428db414948c4617a0,Iniciando em programação,livros,52.77,0.0,2021-09-11,Mariana Ferreira,SP,3,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c461867,Modelagem preditiva,livros,81.06,1.9006402052,2020-04-12,Bianca Santos,SP,5,cartao_credito,10,-22.19,-48.79
+67da0e428db414948c46186f,Ciência de dados com python,livros,86.69,5.1470862266,2022-04-12,Camila Ribeiro,MG,5,cartao_credito,10,-18.1,-44.38
+67da0e428db414948c4616e2,Modelagem preditiva,livros,91.39,2.4506816284,2020-02-11,Felipe Santos,SP,1,boleto,1,-22.19,-48.79
+67da0e428db414948c461742,Dashboards com Power BI,livros,40.84,5.3384234596,2021-05-11,Beatriz Moraes,SP,5,cartao_credito,5,-22.19,-48.79
+67da0e428db414948c461890,Dashboards com Power BI,livros,50.59,12.5510584307,2022-05-12,Bianca Santos,SP,4,boleto,1,-22.19,-48.79
+67da0e428db414948c461849,Ciência de dados com python,livros,51.35,3.2653375436,2020-03-12,João Souza,RJ,4,cartao_credito,10,-22.25,-42.66
+67da0e428db414948c4616c2,Ciência de dados com python,livros,66.11,4.4600064466,2020-01-11,Camila Ribeiro,RJ,1,cartao_credito,1,-22.25,-42.66
+67da0e428db414948c46180b,Ciência de dados com python,livros,81.04,1.8995752654,2021-01-12,Pedro Gomes,RJ,5,cupom,1,-22.25,-42.66
+67da0e428db414948c461827,Modelagem preditiva,livros,64.66,3.7317272888,2021-02-12,Pedro Gomes,SP,1,cupom,1,-22.19,-48.79
+67da0e428db414948c461848,Modelagem preditiva,livros,67.23,1.1642343114,2020-03-12,Thiago Silva,SP,1,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c4619cc,Iniciando em programação,livros,89.83,5.6715924301,2021-06-13,Lucas Oliveira,RJ,5,boleto,1,-22.25,-42.66
+67da0e428db414948c4619ce,Iniciando em programação,livros,59.3,0.0,2022-06-13,Bruno Rodrigues,RS,5,cartao_credito,4,-30.17,-53.5
+67da0e428db414948c4619f1,Dashboards com Power BI,livros,55.41,0.0,2021-08-13,Pedro Gomes,SP,3,cupom,1,-22.19,-48.79
+67da0e428db414948c46189e,Modelagem preditiva,livros,83.4,4.7239250079,2022-06-12,Pedro Gomes,SC,5,cartao_credito,4,-27.45,-50.95
+67da0e428db414948c46190c,Modelagem preditiva,livros,74.29,1.5401580721,2020-11-12,João Souza,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c4619d6,Modelagem preditiva,livros,82.43,4.9202540424,2020-07-13,João Souza,PA,4,cartao_credito,1,-3.79,-52.48
+67da0e428db414948c4618ab,Iniciando em programação,livros,74.67,4.2647296747,2020-07-12,Pedro Gomes,SP,1,cartao_credito,8,-22.19,-48.79
+67da0e428db414948c461980,Modelagem preditiva,livros,68.43,1.2281307013,2022-03-13,Beatriz Moraes,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c4619ad,Dashboards com Power BI,livros,35.93,2.4442689332,2020-05-13,Rafael Costa,SP,4,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c461a6b,Ciência de dados com python,livros,59.9,3.4782716088,2020-01-14,Beatriz Moraes,CE,4,cartao_credito,6,-5.2,-39.53
+67da0e428db414948c4618e3,Ciência de dados com python,livros,60.56,0.0,2020-09-12,Larissa Alves,SP,4,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c461968,Dashboards com Power BI,livros,53.4,0.0,2023-02-13,Mariana Ferreira,MG,4,boleto,1,-18.1,-44.38
+67da0e428db414948c461976,Dashboards com Power BI,livros,48.41,0.0,2021-03-13,Isabella Pereira,RJ,5,cartao_credito,2,-22.25,-42.66
+67da0e428db414948c461918,Iniciando em programação,livros,44.94,3.7920351489,2021-11-12,Bianca Santos,RJ,3,cartao_credito,4,-22.25,-42.66
+67da0e428db414948c461970,Modelagem preditiva,livros,87.82,2.2605898684,2020-03-13,Lucas Oliveira,SP,4,cartao_debito,1,-22.19,-48.79
+67da0e428db414948c4619da,Iniciando em programação,livros,70.49,4.2844849628,2020-07-13,Juliana Costa,SE,3,boleto,1,-10.57,-37.45
+67da0e428db414948c4619d8,Dashboards com Power BI,livros,50.49,11.7828269707,2020-07-13,Juliana Costa,SP,4,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c4618e7,Iniciando em programação,livros,55.85,3.5049490058,2021-09-12,Beatriz Moraes,SP,3,cartao_credito,4,-22.19,-48.79
+67da0e428db414948c4619c7,Dashboards com Power BI,livros,43.94,8.5816081974,2021-06-13,Bianca Santos,SP,5,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c4619e9,Modelagem preditiva,livros,83.77,12.2625101037,2020-08-13,Juliana Costa,RS,5,boleto,1,-30.17,-53.5
+67da0e428db414948c461a27,Modelagem preditiva,livros,74.5,1.5513399403,2022-10-13,Larissa Alves,SE,3,cartao_credito,4,-10.57,-37.45
+67da0e428db414948c461a3d,Modelagem preditiva,livros,84.49,4.7819642287,2020-11-13,João Souza,SP,5,cartao_credito,10,-22.19,-48.79
+67da0e428db414948c461a74,Dashboards com Power BI,livros,42.94,0.0,2021-01-14,Mariana Ferreira,RJ,5,cartao_credito,1,-22.25,-42.66
+67da0e428db414948c4618d4,Modelagem preditiva,livros,87.61,7.8287852565,2022-08-12,Camila Ribeiro,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c461979,Modelagem preditiva,livros,98.22,2.814358581,2022-03-13,Mariana Ferreira,SP,4,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c461a5e,Iniciando em programação,livros,61.18,0.0,2021-12-13,Bruno Rodrigues,MG,5,cartao_credito,4,-18.1,-44.38
+67da0e428db414948c46193f,Dashboards com Power BI,livros,54.47,3.4314681574,2021-01-13,Lucas Oliveira,SP,4,boleto,1,-22.19,-48.79
+67da0e428db414948c461949,Modelagem preditiva,livros,67.46,1.1764811195,2020-02-13,Mariana Ferreira,BA,1,cartao_credito,4,-13.29,-41.71
+67da0e428db414948c46195f,Iniciando em programação,livros,78.23,4.6966166777,2023-02-13,Rafael Costa,SP,1,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c461995,Dashboards com Power BI,livros,45.31,3.0996333398,2020-04-13,Bruno Rodrigues,MG,1,cartao_credito,2,-18.1,-44.38
+67da0e428db414948c4619f4,Modelagem preditiva,livros,69.9,4.0050906213,2022-08-13,Isabella Pereira,BA,5,boleto,1,-13.29,-41.71
+67da0e428db414948c4619e6,Ciência de dados com python,livros,59.81,0.0,2020-08-13,Bruno Rodrigues,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c461a42,Iniciando em programação,livros,74.01,7.1046261708,2021-11-13,Juliana Costa,MA,4,cartao_credito,1,-5.42,-45.44
+67da0e428db414948c461ab1,Iniciando em programação,livros,59.79,0.0,2020-03-14,Felipe Santos,PR,5,cartao_credito,8,-24.89,-51.55
+67da0e428db414948c461b3a,Iniciando em programação,livros,75.78,1.6194960896,2020-09-14,Rafael Costa,BA,5,cartao_credito,6,-13.29,-41.71
+67da0e428db414948c461a93,Ciência de dados com python,livros,72.98,1.4704045131,2021-02-14,Pedro Gomes,PE,4,cartao_credito,2,-8.38,-37.86
+67da0e428db414948c461b8a,Dashboards com Power BI,livros,53.8,3.395792673,2020-01-15,João Souza,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c461b94,Iniciando em programação,livros,85.52,2.1381217877,2020-01-15,Felipe Santos,PB,3,cartao_debito,1,-7.28,-36.72
+67da0e428db414948c461c4e,Dashboards com Power BI,livros,59.49,0.0,2020-07-15,Larissa Alves,MS,5,cartao_credito,1,-20.51,-54.54
+67da0e428db414948c461a89,Iniciando em programação,livros,60.41,0.0,2020-02-14,João Souza,RJ,1,cartao_credito,1,-22.25,-42.66
+67da0e428db414948c461a8f,Modelagem preditiva,livros,93.02,14.0474215233,2020-02-14,Rafael Costa,MS,5,cartao_credito,4,-20.51,-54.54
+67da0e428db414948c461a8d,Iniciando em programação,livros,68.5,1.2318579907,2020-02-14,Felipe Santos,MG,5,cartao_credito,10,-18.1,-44.38
+67da0e428db414948c461ba0,Iniciando em programação,livros,69.45,3.9811294751,2021-01-15,Juliana Costa,SP,1,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c461bc3,Iniciando em programação,livros,56.87,0.0,2022-02-15,João Souza,CE,5,cartao_credito,2,-5.2,-39.53
+67da0e428db414948c461aeb,Iniciando em programação,livros,49.41,0.0,2021-05-14,Lucas Oliveira,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c461afe,Ciência de dados com python,livros,54.6,3.5942978917,2020-06-14,Beatriz Moraes,RS,4,cartao_credito,2,-30.17,-53.5
+67da0e428db414948c461b6d,Modelagem preditiva,livros,61.28,4.15139082,2020-11-14,Camila Ribeiro,SP,4,cartao_credito,9,-22.19,-48.79
+67da0e428db414948c461c23,Iniciando em programação,livros,46.92,2.7871256579,2021-05-15,Bruno Rodrigues,RS,5,boleto,1,-30.17,-53.5
+67da0e428db414948c461c16,Dashboards com Power BI,livros,41.88,0.0,2020-05-15,Pedro Gomes,SP,5,cartao_credito,5,-22.19,-48.79
+67da0e428db414948c461c70,Ciência de dados com python,livros,72.18,1.4278069198,2022-08-15,Isabella Pereira,PE,5,cartao_debito,1,-8.38,-37.86
+67da0e428db414948c461ac5,Ciência de dados com python,livros,53.75,3.1508026105,2022-03-14,João Souza,DF,5,cartao_credito,2,-15.83,-47.86
+67da0e428db414948c461b59,Modelagem preditiva,livros,76.09,1.6360026569,2020-10-14,Isabella Pereira,CE,5,cartao_debito,1,-5.2,-39.53
+67da0e428db414948c461b38,Iniciando em programação,livros,78.88,1.7845617635,2020-09-14,Mariana Ferreira,PE,4,cartao_credito,1,-8.38,-37.86
+67da0e428db414948c461bf3,Ciência de dados com python,livros,78.22,4.4481055914,2023-03-15,Thiago Silva,MG,5,cartao_credito,8,-18.1,-44.38
+67da0e428db414948c461c0b,Dashboards com Power BI,livros,51.61,10.5461283451,2021-04-15,Beatriz Moraes,BA,2,cartao_credito,1,-13.29,-41.71
+67da0e428db414948c461c12,Modelagem preditiva,livros,92.99,14.0458241135,2022-04-15,Beatriz Moraes,SP,5,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c461b44,Ciência de dados com python,livros,57.72,0.0,2021-09-14,Rafael Costa,GO,5,cartao_credito,3,-15.98,-49.86
+67da0e428db414948c461bf7,Dashboards com Power BI,livros,59.2,0.0,2020-04-15,Bruno Rodrigues,DF,1,cartao_credito,4,-15.83,-47.86
+67da0e428db414948c461c68,Dashboards com Power BI,livros,54.26,6.0529980868,2021-08-15,Beatriz Moraes,ES,5,cartao_credito,1,-19.19,-40.34
+67da0e428db414948c461b11,Dashboards com Power BI,livros,52.89,7.2962720973,2020-07-14,Beatriz Moraes,SC,5,cartao_credito,4,-27.45,-50.95
+67da0e428db414948c461ab7,Iniciando em programação,livros,67.63,1.185533108,2020-03-14,Bruno Rodrigues,MG,5,cartao_credito,2,-18.1,-44.38
+67da0e428db414948c461bcb,Ciência de dados com python,livros,99.48,5.5801366327,2023-02-15,Larissa Alves,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c461c1b,Dashboards com Power BI,livros,50.24,3.3621410084,2020-05-15,Bianca Santos,SP,4,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c461c27,Modelagem preditiva,livros,69.52,1.2861699222,2021-05-15,Bianca Santos,SP,5,cartao_credito,5,-22.19,-48.79
+67da0e428db414948c461c3b,Iniciando em programação,livros,57.96,3.7732077835,2021-06-15,Camila Ribeiro,SP,3,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c461c5e,Iniciando em programação,livros,88.59,14.2980945197,2022-07-15,Bruno Rodrigues,SC,1,cartao_credito,10,-27.45,-50.95
+67da0e428db414948c461a91,Ciência de dados com python,livros,57.63,3.5997286508,2020-02-14,Lucas Oliveira,SP,4,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c461b9b,Modelagem preditiva,livros,101.31,5.6775786273,2021-01-15,João Souza,MG,3,boleto,1,-18.1,-44.38
+67da0e428db414948c461aa8,Dashboards com Power BI,livros,44.69,0.0,2023-02-14,Pedro Gomes,MG,5,cartao_credito,2,-18.1,-44.38
+67da0e428db414948c461b81,Modelagem preditiva,livros,105.86,6.1629915199,2021-12-14,Felipe Santos,BA,1,cartao_debito,1,-13.29,-41.71
+67da0e428db414948c461b88,Iniciando em programação,livros,84.24,4.7686524808,2022-12-14,Mariana Ferreira,SC,2,boleto,1,-27.45,-50.95
+67da0e428db414948c461b0f,Ciência de dados com python,livros,62.12,4.2475509501,2020-07-14,Isabella Pereira,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c461b8c,Dashboards com Power BI,livros,46.99,0.0,2020-01-15,Pedro Gomes,RJ,1,cartao_credito,4,-22.25,-42.66
+67da0e428db414948c461c4b,Ciência de dados com python,livros,76.85,8.572070016,2020-07-15,Thiago Silva,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c461b7b,Iniciando em programação,livros,53.62,0.0,2021-12-14,Beatriz Moraes,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c461bf1,Iniciando em programação,livros,51.06,0.0,2023-03-15,Bruno Rodrigues,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c461c7c,Iniciando em programação,livros,62.27,0.0,2020-09-15,Beatriz Moraes,PR,5,cartao_credito,1,-24.89,-51.55
+67da0e428db414948c461d60,Modelagem preditiva,livros,98.48,2.8282027988,2020-05-16,Larissa Alves,PE,5,cartao_credito,4,-8.38,-37.86
+67da0e428db414948c461d75,Iniciando em programação,livros,56.6,3.7007918749,2020-06-16,Beatriz Moraes,SP,5,cartao_credito,9,-22.19,-48.79
+67da0e428db414948c461e4f,Ciência de dados com python,livros,79.5,5.6322511785,2021-02-17,Juliana Costa,RJ,1,boleto,1,-22.25,-42.66
+67da0e428db414948c461e70,Iniciando em programação,livros,51.91,3.2951558589,2022-03-17,Mariana Ferreira,PR,5,cartao_credito,1,-24.89,-51.55
+67da0e428db414948c461d26,Iniciando em programação,livros,51.88,0.0,2021-03-16,Beatriz Moraes,MG,5,boleto,1,-18.1,-44.38
+67da0e428db414948c461d3e,Dashboards com Power BI,livros,54.18,3.1736988169,2023-03-16,Beatriz Moraes,RJ,5,boleto,1,-22.25,-42.66
+67da0e428db414948c461d69,Dashboards com Power BI,livros,53.94,10.94979062,2021-05-16,Camila Ribeiro,DF,3,cartao_credito,3,-15.83,-47.86
+67da0e428db414948c461d76,Dashboards com Power BI,livros,42.19,2.5352673877,2020-06-16,Larissa Alves,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c461c8c,Ciência de dados com python,livros,57.46,3.5858371267,2022-09-15,Bianca Santos,RS,5,cartao_credito,1,-30.17,-53.5
+67da0e428db414948c461e07,Ciência de dados com python,livros,75.92,1.6269506684,2020-12-16,Thiago Silva,RS,5,cartao_credito,5,-30.17,-53.5
+67da0e428db414948c461e19,Iniciando em programação,livros,79.03,5.147957578,2022-12-16,Camila Ribeiro,SP,4,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c461e2b,Dashboards com Power BI,livros,50.27,2.9598521763,2021-01-17,Lucas Oliveira,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c461cea,Ciência de dados com python,livros,61.04,9.4921317537,2020-01-16,Bruno Rodrigues,SP,4,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c461d12,Modelagem preditiva,livros,82.2,4.6656795214,2021-02-16,Isabella Pereira,GO,5,cartao_credito,1,-15.98,-49.86
+67da0e428db414948c461ce8,Modelagem preditiva,livros,70.46,1.3362220943,2020-01-16,João Souza,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c461d22,Ciência de dados com python,livros,81.89,4.891500667,2020-03-16,Isabella Pereira,RJ,5,cartao_credito,3,-22.25,-42.66
+67da0e428db414948c461d70,Ciência de dados com python,livros,76.32,4.5949149238,2022-05-16,Bianca Santos,SP,5,cartao_credito,5,-22.19,-48.79
+67da0e428db414948c461e0e,Ciência de dados com python,livros,64.72,9.8257596613,2020-12-16,Pedro Gomes,SP,3,boleto,1,-22.19,-48.79
+67da0e428db414948c461c7e,Iniciando em programação,livros,58.67,7.6040397088,2021-09-15,Pedro Gomes,SP,4,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c461d2f,Ciência de dados com python,livros,78.83,10.4393957342,2022-03-16,Juliana Costa,SP,5,cartao_credito,5,-22.19,-48.79
+67da0e428db414948c461e0f,Dashboards com Power BI,livros,40.73,0.0,2020-12-16,Camila Ribeiro,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c461dd6,Iniciando em programação,livros,44.69,2.6683848666,2020-10-16,João Souza,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c461e4e,Iniciando em programação,livros,50.37,10.2376312525,2021-02-17,Felipe Santos,RJ,1,cupom,1,-22.25,-42.66
+67da0e428db414948c461e6e,Dashboards com Power BI,livros,58.27,0.0,2021-03-17,Thiago Silva,PE,2,cartao_credito,4,-8.38,-37.86
+67da0e428db414948c461d0f,Dashboards com Power BI,livros,48.04,2.841111385,2021-02-16,Larissa Alves,PB,5,cartao_credito,1,-7.28,-36.72
+67da0e428db414948c461cd2,Ciência de dados com python,livros,95.84,5.6342961997,2021-12-15,João Souza,DF,5,cartao_credito,1,-15.83,-47.86
+67da0e428db414948c461cf2,Iniciando em programação,livros,67.63,1.185533108,2021-01-16,Rafael Costa,SP,5,cartao_credito,6,-22.19,-48.79
+67da0e428db414948c461dd4,Dashboards com Power BI,livros,51.3,3.0146965776,2022-09-16,Larissa Alves,SP,5,cartao_credito,10,-22.19,-48.79
+67da0e428db414948c461df0,Iniciando em programação,livros,45.17,3.2935817854,2022-10-16,Isabella Pereira,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c461ce1,Modelagem preditiva,livros,109.33,3.4059326576,2022-12-15,Thiago Silva,RJ,5,boleto,1,-22.25,-42.66
+67da0e428db414948c461c94,Modelagem preditiva,livros,73.96,1.5225865648,2020-10-15,Bruno Rodrigues,MG,5,cupom,1,-18.1,-44.38
+67da0e428db414948c461cb8,Modelagem preditiva,livros,92.2,5.7977878002,2021-11-15,Beatriz Moraes,MG,4,cartao_credito,1,-18.1,-44.38
+67da0e428db414948c461e03,Dashboards com Power BI,livros,51.59,3.0301382052,2022-11-16,Rafael Costa,RN,5,cartao_credito,4,-5.81,-36.59
+67da0e428db414948c461e20,Dashboards com Power BI,livros,35.76,0.0,2020-01-17,Bruno Rodrigues,SP,4,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c461c9d,Iniciando em programação,livros,75.74,7.1967434663,2021-10-15,Camila Ribeiro,RS,4,cartao_credito,8,-30.17,-53.5
+67da0e428db414948c461d63,Modelagem preditiva,livros,66.14,1.1061950906,2020-05-16,Pedro Gomes,MG,5,boleto,1,-18.1,-44.38
+67da0e428db414948c461df7,Modelagem preditiva,livros,66.06,4.4059114398,2021-11-16,Bruno Rodrigues,MG,5,cartao_credito,4,-18.1,-44.38
+67da0e428db414948c461e16,Modelagem preditiva,livros,71.71,4.7581895995,2021-12-16,Juliana Costa,SP,4,cartao_credito,10,-22.19,-48.79
+67da0e428db414948c461e26,Dashboards com Power BI,livros,59.9,3.8765069472,2021-01-17,Lucas Oliveira,SP,5,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c461e7a,Modelagem preditiva,livros,83.97,10.713085271,2023-03-17,João Souza,BA,4,cartao_debito,1,-13.29,-41.71
+67da0e428db414948c461ea5,Dashboards com Power BI,livros,37.95,9.5763036169,2022-05-17,Camila Ribeiro,SP,1,cartao_credito,10,-22.19,-48.79
+67da0e428db414948c461f39,Modelagem preditiva,livros,72.95,1.4688071033,2022-11-17,Bianca Santos,RJ,5,cartao_credito,2,-22.25,-42.66
+67da0e428db414948c461f02,Iniciando em programação,livros,82.09,1.9554846065,2022-09-17,Juliana Costa,ES,3,cartao_credito,1,-19.19,-40.34
+67da0e428db414948c461f21,Modelagem preditiva,livros,98.04,2.8047741225,2020-11-17,Lucas Oliveira,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c461f8d,Iniciando em programação,livros,77.19,4.9985504563,2023-02-18,Juliana Costa,SP,4,cartao_credito,5,-22.19,-48.79
+67da0e428db414948c461fd5,Ciência de dados com python,livros,99.68,2.8920991887,2021-05-18,Beatriz Moraes,RJ,5,cartao_credito,7,-22.25,-42.66
+67da0e428db414948c46204b,Dashboards com Power BI,livros,38.47,5.2122280895,2021-10-18,Juliana Costa,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c461fdb,Ciência de dados com python,livros,52.97,3.1036190536,2022-05-18,Larissa Alves,SP,5,cartao_credito,10,-22.19,-48.79
+67da0e428db414948c462053,Ciência de dados com python,livros,63.32,0.0,2022-10-18,Camila Ribeiro,MG,5,cartao_credito,5,-18.1,-44.38
+67da0e428db414948c461f9a,Dashboards com Power BI,livros,44.57,0.0,2021-03-18,Beatriz Moraes,MG,3,cartao_credito,2,-18.1,-44.38
+67da0e428db414948c462023,Dashboards com Power BI,livros,52.18,10.3340083073,2022-08-18,Mariana Ferreira,MG,5,cartao_credito,4,-18.1,-44.38
+67da0e428db414948c462064,Ciência de dados com python,livros,72.07,1.4219497507,2021-11-18,Larissa Alves,SP,5,cartao_credito,5,-22.19,-48.79
+67da0e428db414948c461e7b,Ciência de dados com python,livros,65.52,3.7718687981,2023-03-17,Juliana Costa,CE,4,cartao_credito,1,-5.2,-39.53
+67da0e428db414948c461ee3,Dashboards com Power BI,livros,40.62,9.9649024163,2020-08-17,Bruno Rodrigues,SP,5,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c462014,Modelagem preditiva,livros,86.63,5.1390518715,2020-08-18,Bruno Rodrigues,MG,5,cartao_credito,1,-18.1,-44.38
+67da0e428db414948c461e81,Modelagem preditiva,livros,91.67,2.465590786,2020-04-17,Thiago Silva,BA,5,boleto,1,-13.29,-41.71
+67da0e428db414948c461e87,Modelagem preditiva,livros,62.81,3.6332203544,2021-04-17,Beatriz Moraes,RJ,1,cartao_credito,8,-22.25,-42.66
+67da0e428db414948c461f41,Dashboards com Power BI,livros,46.37,0.0,2020-12-17,João Souza,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c461ee7,Ciência de dados com python,livros,67.19,1.1621044317,2021-08-17,João Souza,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c461fde,Ciência de dados com python,livros,93.09,5.2455392599,2022-05-18,João Souza,PA,5,boleto,1,-3.79,-52.48
+67da0e428db414948c46203e,Modelagem preditiva,livros,86.08,5.2705131872,2022-09-18,Larissa Alves,SP,1,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c462060,Modelagem preditiva,livros,83.42,4.7249899477,2021-11-18,Camila Ribeiro,SP,5,cartao_credito,5,-22.19,-48.79
+67da0e428db414948c461f3e,Dashboards com Power BI,livros,35.23,2.4021565035,2020-12-17,Felipe Santos,GO,5,cartao_credito,10,-15.98,-49.86
+67da0e428db414948c461ec8,Dashboards com Power BI,livros,41.98,0.0,2021-07-17,Bianca Santos,SP,5,cartao_credito,10,-22.19,-48.79
+67da0e428db414948c461ff4,Modelagem preditiva,livros,87.11,2.2227845043,2022-06-18,Juliana Costa,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c462015,Modelagem preditiva,livros,67.98,4.3067426393,2020-08-18,João Souza,SP,5,cartao_credito,10,-22.19,-48.79
+67da0e428db414948c46203b,Ciência de dados com python,livros,55.2,3.2223598448,2022-09-18,Lucas Oliveira,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c461eb5,Modelagem preditiva,livros,74.26,1.5385606623,2021-06-17,Rafael Costa,RJ,5,cartao_credito,1,-22.25,-42.66
+67da0e428db414948c461f5d,Iniciando em programação,livros,48.72,11.6885797956,2020-01-18,Bianca Santos,SP,1,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c461e8c,Modelagem preditiva,livros,72.5,4.1435327995,2022-04-17,Felipe Santos,RJ,3,cartao_credito,1,-22.25,-42.66
+67da0e428db414948c461ecd,Iniciando em programação,livros,69.28,4.2200561029,2021-07-17,João Souza,BA,5,cartao_credito,2,-13.29,-41.71
+67da0e428db414948c461fee,Modelagem preditiva,livros,103.68,11.7625834753,2021-06-18,Bruno Rodrigues,MA,4,cartao_credito,4,-5.42,-45.44
+67da0e428db414948c461e7f,Dashboards com Power BI,livros,37.7,9.8094212008,2020-04-17,Thiago Silva,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c461f63,Iniciando em programação,livros,45.94,2.9772713191,2021-01-18,Lucas Oliveira,SP,5,cartao_credito,5,-22.19,-48.79
+67da0e428db414948c461fe3,Modelagem preditiva,livros,87.02,5.5219683837,2020-06-18,Larissa Alves,ES,5,cartao_credito,8,-19.19,-40.34
+67da0e428db414948c461f45,Modelagem preditiva,livros,72.21,4.3760697883,2021-12-17,Larissa Alves,MG,3,cartao_credito,1,-18.1,-44.38
+67da0e428db414948c461fa9,Ciência de dados com python,livros,55.65,0.0,2023-03-18,Rafael Costa,RJ,5,cartao_credito,1,-22.25,-42.66
+67da0e428db414948c462000,Iniciando em programação,livros,80.12,1.8505880331,2020-07-18,Bruno Rodrigues,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c462012,Ciência de dados com python,livros,92.69,5.2242404633,2022-07-18,Thiago Silva,BA,2,cartao_credito,1,-13.29,-41.71
+67da0e428db414948c461ffd,Ciência de dados com python,livros,60.51,3.7530799866,2020-07-18,Isabella Pereira,RJ,3,cartao_credito,2,-22.25,-42.66
+67da0e428db414948c4620c6,Modelagem preditiva,livros,86.12,2.1700699827,2022-03-19,Isabella Pereira,SP,5,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c4620cc,Modelagem preditiva,livros,62.1,9.6862525433,2023-03-19,João Souza,SP,3,cartao_credito,6,-22.19,-48.79
+67da0e428db414948c4620ed,Dashboards com Power BI,livros,50.06,2.948670308,2022-04-19,Bianca Santos,SP,5,cartao_credito,10,-22.19,-48.79
+67da0e428db414948c4620f3,Dashboards com Power BI,livros,53.48,3.1307750193,2020-05-19,Camila Ribeiro,SC,1,boleto,1,-27.45,-50.95
+67da0e428db414948c4620fe,Dashboards com Power BI,livros,45.14,2.9346737258,2021-05-19,Pedro Gomes,BA,5,cartao_credito,1,-13.29,-41.71
+67da0e428db414948c46219f,Modelagem preditiva,livros,84.59,5.1911751697,2020-01-20,Camila Ribeiro,SP,3,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c462136,Ciência de dados com python,livros,72.34,1.4363264385,2022-07-19,Lucas Oliveira,SP,5,cartao_credito,8,-22.19,-48.79
+67da0e428db414948c46213c,Modelagem preditiva,livros,103.81,3.112009264,2020-08-19,Rafael Costa,RJ,4,boleto,1,-22.25,-42.66
+67da0e428db414948c46215f,Ciência de dados com python,livros,94.17,12.8123203075,2021-10-19,Bianca Santos,CE,4,cartao_credito,5,-5.2,-39.53
+67da0e428db414948c4621f9,Modelagem preditiva,livros,63.15,4.2509626943,2023-03-20,Felipe Santos,GO,4,cartao_credito,1,-15.98,-49.86
+67da0e428db414948c4621c0,Modelagem preditiva,livros,69.42,1.280845223,2021-02-20,Larissa Alves,RJ,5,cartao_credito,10,-22.25,-42.66
+67da0e428db414948c4621c4,Dashboards com Power BI,livros,39.81,2.6508672606,2021-02-20,Camila Ribeiro,PE,1,cartao_credito,5,-8.38,-37.86
+67da0e428db414948c46208e,Dashboards com Power BI,livros,56.41,3.2924396082,2021-01-19,Bruno Rodrigues,RS,5,cartao_credito,7,-30.17,-53.5
+67da0e428db414948c46210c,Iniciando em programação,livros,67.8,3.8989228424,2020-06-19,Beatriz Moraes,SP,2,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c46217a,Dashboards com Power BI,livros,39.8,0.0,2021-11-19,Camila Ribeiro,GO,5,cartao_credito,1,-15.98,-49.86
+67da0e428db414948c46217e,Iniciando em programação,livros,78.08,4.4406510126,2022-11-19,Bruno Rodrigues,SC,5,cartao_credito,7,-27.45,-50.95
+67da0e428db414948c462221,Iniciando em programação,livros,83.69,12.53388862,2020-05-20,Rafael Costa,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c462069,Modelagem preditiva,livros,82.51,16.0394374802,2022-11-18,Larissa Alves,SP,3,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c462182,Iniciando em programação,livros,62.64,3.8664960787,2022-11-19,Camila Ribeiro,SC,3,cartao_credito,1,-27.45,-50.95
+67da0e428db414948c4621b5,Modelagem preditiva,livros,64.08,3.6951931302,2023-01-20,João Souza,SC,4,cartao_credito,2,-27.45,-50.95
+67da0e428db414948c4621f3,Modelagem preditiva,livros,71.75,1.4049107134,2023-03-20,Isabella Pereira,RJ,1,cartao_credito,10,-22.25,-42.66
+67da0e428db414948c4620d2,Ciência de dados com python,livros,73.36,4.5932114541,2020-04-19,Larissa Alves,MG,1,cartao_credito,8,-18.1,-44.38
+67da0e428db414948c46217f,Ciência de dados com python,livros,85.14,2.1178879309,2022-11-19,Isabella Pereira,SC,3,cartao_credito,8,-27.45,-50.95
+67da0e428db414948c46215e,Dashboards com Power BI,livros,58.68,0.0,2020-10-19,Lucas Oliveira,AL,2,cartao_credito,2,-9.62,-36.82
+67da0e428db414948c4620b8,Ciência de dados com python,livros,65.93,4.0416786811,2023-02-19,Felipe Santos,SP,3,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c4620f1,Modelagem preditiva,livros,62.52,6.4928182374,2020-05-19,Beatriz Moraes,SP,1,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c462120,Iniciando em programação,livros,43.78,2.6199301043,2020-07-19,Isabella Pereira,SC,5,boleto,1,-27.45,-50.95
+67da0e428db414948c46207e,Iniciando em programação,livros,41.3,3.0875159279,2021-12-18,Rafael Costa,SP,4,cartao_credito,7,-22.19,-48.79
+67da0e428db414948c4620b9,Iniciando em programação,livros,62.46,0.0,2020-03-19,Bruno Rodrigues,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c4621b9,Modelagem preditiva,livros,67.12,3.8627148881,2020-02-20,Beatriz Moraes,SC,5,cartao_credito,4,-27.45,-50.95
+67da0e428db414948c462164,Iniciando em programação,livros,40.4,0.0,2022-10-19,Isabella Pereira,RJ,5,cartao_credito,1,-22.25,-42.66
+67da0e428db414948c462098,Modelagem preditiva,livros,67.63,3.8842199504,2023-01-19,Lucas Oliveira,ES,4,cupom,1,-19.19,-40.34
+67da0e428db414948c462102,Dashboards com Power BI,livros,51.31,0.0,2022-05-19,Larissa Alves,PR,4,cartao_credito,3,-24.89,-51.55
+67da0e428db414948c4621ad,Dashboards com Power BI,livros,44.45,2.6499546852,2022-01-20,Bruno Rodrigues,SP,4,boleto,1,-22.19,-48.79
+67da0e428db414948c4621ee,Iniciando em programação,livros,81.58,1.9283286408,2022-03-20,Mariana Ferreira,SP,4,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c462212,Dashboards com Power BI,livros,45.5,0.0,2021-04-20,Larissa Alves,SC,5,cupom,1,-27.45,-50.95
+67da0e428db414948c462217,Iniciando em programação,livros,85.42,5.0794625473,2022-04-20,Isabella Pereira,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c4620d5,Iniciando em programação,livros,82.94,4.9474100081,2020-04-19,Mariana Ferreira,MG,5,boleto,1,-18.1,-44.38
+67da0e428db414948c46222b,Ciência de dados com python,livros,78.08,4.4406510126,2022-05-20,Bruno Rodrigues,SP,4,boleto,1,-22.19,-48.79
+67da0e428db414948c4621e7,Ciência de dados com python,livros,86.94,4.9124193581,2021-03-20,Bianca Santos,SP,5,cupom,1,-22.19,-48.79
+67da0e428db414948c4621cd,Iniciando em programação,livros,87.06,2.2201221548,2023-02-20,Bruno Rodrigues,RJ,4,cartao_credito,1,-22.25,-42.66
+67da0e428db414948c4622fc,Modelagem preditiva,livros,99.5,9.7781143756,2021-01-21,Bianca Santos,SP,5,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c4623c0,Ciência de dados com python,livros,70.63,10.1404493816,2020-08-21,Rafael Costa,DF,5,cartao_credito,1,-15.83,-47.86
+67da0e428db414948c4623e9,Dashboards com Power BI,livros,49.79,0.0,2022-09-21,Lucas Oliveira,SP,5,cupom,1,-22.19,-48.79
+67da0e428db414948c462357,Modelagem preditiva,livros,104.25,6.2380110245,2020-04-21,Bruno Rodrigues,PB,4,cartao_credito,9,-7.28,-36.72
+67da0e428db414948c462412,Iniciando em programação,livros,79.02,4.8945894265,2022-11-21,Mariana Ferreira,SP,4,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c4622fe,Ciência de dados com python,livros,54.14,0.0,2021-01-21,Felipe Santos,PR,5,cartao_credito,5,-24.89,-51.55
+67da0e428db414948c46240f,Ciência de dados com python,livros,57.04,0.0,2021-11-21,Lucas Oliveira,MG,5,cartao_credito,1,-18.1,-44.38
+67da0e428db414948c462275,Iniciando em programação,livros,69.23,4.2173937533,2021-08-20,Camila Ribeiro,MG,3,cartao_credito,1,-18.1,-44.38
+67da0e428db414948c46239c,Ciência de dados com python,livros,88.66,5.0096550871,2020-07-21,Juliana Costa,SP,3,boleto,1,-22.19,-48.79
+67da0e428db414948c4623b9,Modelagem preditiva,livros,83.98,4.754808263,2020-08-21,Mariana Ferreira,SP,5,cartao_credito,7,-22.19,-48.79
+67da0e428db414948c46240e,Iniciando em programação,livros,57.26,4.4480380854,2021-11-21,Mariana Ferreira,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c4622f3,Modelagem preditiva,livros,72.17,4.1259612922,2020-01-21,Felipe Santos,PR,1,cartao_credito,1,-24.89,-51.55
+67da0e428db414948c4623a3,Modelagem preditiva,livros,98.65,2.8372547874,2020-07-21,Rafael Costa,RJ,1,boleto,1,-22.25,-42.66
+67da0e428db414948c4623ce,Ciência de dados com python,livros,62.56,0.0,2022-08-21,Beatriz Moraes,SP,4,cartao_credito,8,-22.19,-48.79
+67da0e428db414948c46229d,Dashboards com Power BI,livros,47.48,2.8112930697,2020-10-20,Lucas Oliveira,DF,4,boleto,1,-15.83,-47.86
+67da0e428db414948c4622c4,Ciência de dados com python,livros,71.06,14.2898337019,2022-11-20,Pedro Gomes,SP,1,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c4622fd,Iniciando em programação,livros,87.49,2.2430183611,2021-01-21,Pedro Gomes,SP,5,cartao_credito,5,-22.19,-48.79
+67da0e428db414948c462352,Ciência de dados com python,livros,51.64,11.844061011,2020-04-21,Juliana Costa,PR,5,cartao_credito,10,-24.89,-51.55
+67da0e428db414948c4623ab,Modelagem preditiva,livros,76.8,1.673808021,2021-07-21,Thiago Silva,RJ,5,cupom,1,-22.25,-42.66
+67da0e428db414948c462406,Dashboards com Power BI,livros,50.3,2.961449586,2020-11-21,Thiago Silva,RS,5,boleto,1,-30.17,-53.5
+67da0e428db414948c4623fd,Dashboards com Power BI,livros,35.61,2.8359732029,2022-10-21,Bruno Rodrigues,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c462282,Ciência de dados com python,livros,63.91,4.0900273835,2020-09-20,Mariana Ferreira,RS,3,cupom,1,-30.17,-53.5
+67da0e428db414948c462375,Iniciando em programação,livros,74.13,4.2303253958,2021-05-21,Felipe Santos,RS,5,boleto,1,-30.17,-53.5
+67da0e428db414948c462408,Dashboards com Power BI,livros,53.0,3.3483555441,2020-11-21,Pedro Gomes,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c4623bc,Modelagem preditiva,livros,64.4,4.8282216053,2020-08-21,Mariana Ferreira,SP,3,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c4623fc,Modelagem preditiva,livros,65.73,1.084363824,2022-10-21,Beatriz Moraes,MG,5,cartao_credito,10,-18.1,-44.38
+67da0e428db414948c462416,Ciência de dados com python,livros,76.68,4.6092443051,2022-11-21,Isabella Pereira,GO,5,cartao_credito,8,-15.98,-49.86
+67da0e428db414948c462432,Dashboards com Power BI,livros,44.84,3.2760102782,2020-01-22,Beatriz Moraes,MS,5,boleto,1,-20.51,-54.54
+67da0e428db414948c4622b8,Ciência de dados com python,livros,81.48,5.0255770258,2020-11-20,Isabella Pereira,RJ,4,cartao_credito,3,-22.25,-42.66
+67da0e428db414948c46234a,Ciência de dados com python,livros,83.87,2.0502642516,2023-03-21,Rafael Costa,SC,1,cartao_credito,10,-27.45,-50.95
+67da0e428db414948c462422,Ciência de dados com python,livros,74.64,1.5587945191,2020-12-21,Larissa Alves,SP,3,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c4622dd,Iniciando em programação,livros,61.24,3.7871107549,2021-12-20,Beatriz Moraes,MG,5,boleto,1,-18.1,-44.38
+67da0e428db414948c46234f,Iniciando em programação,livros,76.65,4.3701587181,2020-04-21,Larissa Alves,RJ,5,cartao_credito,5,-22.25,-42.66
+67da0e428db414948c4623a2,Dashboards com Power BI,livros,46.56,5.6429962515,2020-07-21,João Souza,AM,5,cartao_credito,3,-3.47,-65.1
+67da0e428db414948c4622ea,Ciência de dados com python,livros,82.08,4.9016175954,2020-01-21,Felipe Santos,PE,2,cartao_credito,5,-8.38,-37.86
+67da0e428db414948c4622a2,Iniciando em programação,livros,63.4,3.6646360794,2020-10-20,Pedro Gomes,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c4622f6,Iniciando em programação,livros,45.31,0.0,2020-01-21,Lucas Oliveira,SP,5,cartao_credito,4,-22.19,-48.79
+67da0e428db414948c462300,Dashboards com Power BI,livros,55.61,3.2498420149,2022-01-21,Bruno Rodrigues,RS,5,cartao_credito,1,-30.17,-53.5
+67da0e428db414948c46235b,Modelagem preditiva,livros,61.02,3.5322573359,2021-04-21,Isabella Pereira,SP,4,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c462400,Dashboards com Power BI,livros,47.99,13.0614256058,2020-11-21,Bianca Santos,SP,5,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c462346,Modelagem preditiva,livros,108.98,6.3339616693,2023-03-21,Larissa Alves,SP,5,cartao_credito,5,-22.19,-48.79
+67da0e428db414948c462353,Iniciando em programação,livros,41.53,2.7424520861,2020-04-21,Felipe Santos,MG,5,cartao_credito,1,-18.1,-44.38
+67da0e428db414948c4623a6,Ciência de dados com python,livros,66.51,15.1874856147,2020-07-21,Mariana Ferreira,SP,4,boleto,1,-22.19,-48.79
+67da0e428db414948c46225c,Dashboards com Power BI,livros,58.95,0.0,2021-07-20,Bruno Rodrigues,SP,5,cartao_credito,5,-22.19,-48.79
+67da0e428db414948c4622ec,Iniciando em programação,livros,45.33,8.6556215157,2020-01-21,Lucas Oliveira,RJ,4,cartao_credito,4,-22.25,-42.66
+67da0e428db414948c4622f2,Modelagem preditiva,livros,80.45,14.789822953,2020-01-21,Thiago Silva,MG,5,cartao_credito,4,-18.1,-44.38
+67da0e428db414948c46243a,Dashboards com Power BI,livros,38.53,2.3403833984,2021-01-22,Larissa Alves,RJ,1,cupom,1,-22.25,-42.66
+67da0e428db414948c462457,Dashboards com Power BI,livros,50.11,0.0,2020-02-22,Larissa Alves,MG,4,cartao_credito,2,-18.1,-44.38
+67da0e428db414948c4624ec,Modelagem preditiva,livros,83.92,4.757264347,2021-07-22,Camila Ribeiro,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c46247f,Iniciando em programação,livros,88.51,2.2973302926,2022-03-22,Rafael Costa,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c4624d0,Modelagem preditiva,livros,85.44,4.8325488707,2020-06-22,Bianca Santos,MG,5,cartao_credito,3,-18.1,-44.38
+67da0e428db414948c46244e,Modelagem preditiva,livros,89.19,5.6889470126,2023-01-22,Beatriz Moraes,MG,2,cartao_credito,8,-18.1,-44.38
+67da0e428db414948c46248f,Ciência de dados com python,livros,60.39,4.1040009975,2023-03-22,Isabella Pereira,MS,5,cartao_credito,5,-20.51,-54.54
+67da0e428db414948c46246b,Iniciando em programação,livros,60.11,3.7269416544,2023-02-22,Juliana Costa,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c462576,Dashboards com Power BI,livros,48.1,10.3631899134,2021-01-23,Juliana Costa,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c46259e,Ciência de dados com python,livros,64.2,1.0028959269,2021-02-23,Beatriz Moraes,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c4625c5,Iniciando em programação,livros,84.77,2.098186544,2020-03-23,Camila Ribeiro,AL,5,cartao_credito,5,-9.62,-36.82
+67da0e428db414948c4625d1,Dashboards com Power BI,livros,52.05,0.0,2022-03-23,Lucas Oliveira,PE,3,cartao_credito,3,-8.38,-37.86
+67da0e428db414948c462621,Modelagem preditiva,livros,72.68,4.1531172579,2021-07-23,Bruno Rodrigues,RJ,1,cartao_credito,2,-22.25,-42.66
+67da0e428db414948c462473,Dashboards com Power BI,livros,40.27,2.6753608767,2020-03-22,Larissa Alves,SP,4,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c4625f1,Iniciando em programação,livros,69.02,4.6149551921,2021-05-23,Lucas Oliveira,MG,5,cartao_credito,1,-18.1,-44.38
+67da0e428db414948c4624d6,Ciência de dados com python,livros,64.01,0.0,2021-06-22,João Souza,MG,4,cartao_credito,6,-18.1,-44.38
+67da0e428db414948c4624d2,Modelagem preditiva,livros,69.51,3.9899751981,2021-06-22,Thiago Silva,DF,3,cartao_credito,1,-15.83,-47.86
+67da0e428db414948c462510,Iniciando em programação,livros,67.37,1.1716888902,2022-08-22,Pedro Gomes,RS,5,cartao_credito,10,-30.17,-53.5
+67da0e428db414948c462585,Dashboards com Power BI,livros,59.62,3.4577115477,2022-01-23,Juliana Costa,SP,2,cupom,1,-22.19,-48.79
+67da0e428db414948c4625a2,Dashboards com Power BI,livros,36.59,0.0,2021-02-23,Mariana Ferreira,MG,5,cartao_credito,5,-18.1,-44.38
+67da0e428db414948c4625ab,Ciência de dados com python,livros,84.13,5.0107739281,2022-02-23,Juliana Costa,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c462597,Iniciando em programação,livros,40.64,3.0523729135,2020-02-23,João Souza,RJ,5,cartao_credito,2,-22.25,-42.66
+67da0e428db414948c462455,Ciência de dados com python,livros,55.52,3.482537963,2020-02-22,Felipe Santos,SP,5,cartao_credito,10,-22.19,-48.79
+67da0e428db414948c4624d4,Dashboards com Power BI,livros,43.01,10.0921627262,2021-06-22,Larissa Alves,SP,5,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c462615,Ciência de dados com python,livros,51.8,3.6466093397,2020-07-23,Juliana Costa,SP,1,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c46261d,Iniciando em programação,livros,64.27,6.5860004727,2020-07-23,Bianca Santos,RJ,5,boleto,1,-22.25,-42.66
+67da0e428db414948c46254b,Ciência de dados com python,livros,95.25,5.5980409391,2020-11-22,Thiago Silva,SP,2,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c462540,Modelagem preditiva,livros,62.96,4.7515459375,2021-10-22,Larissa Alves,MG,4,cartao_credito,1,-18.1,-44.38
+67da0e428db414948c46257e,Dashboards com Power BI,livros,36.07,0.0,2021-01-23,Mariana Ferreira,RJ,5,boleto,1,-22.25,-42.66
+67da0e428db414948c46260e,Dashboards com Power BI,livros,42.38,2.9436196544,2022-06-23,Bianca Santos,SC,5,cartao_credito,1,-27.45,-50.95
+67da0e428db414948c462612,Ciência de dados com python,livros,81.61,7.5093033069,2022-06-23,Larissa Alves,DF,5,cartao_credito,1,-15.83,-47.86
+67da0e428db414948c46263a,Modelagem preditiva,livros,64.73,7.9267164778,2021-08-23,Isabella Pereira,RJ,5,cartao_credito,10,-22.25,-42.66
+67da0e428db414948c462579,Iniciando em programação,livros,67.79,1.1940526267,2021-01-23,Pedro Gomes,GO,5,cartao_credito,1,-15.98,-49.86
+67da0e428db414948c462629,Dashboards com Power BI,livros,49.08,2.8964882563,2022-07-23,Rafael Costa,SP,4,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c462548,Ciência de dados com python,livros,85.05,5.2156687858,2020-11-22,Bruno Rodrigues,RJ,5,cartao_credito,1,-22.25,-42.66
+67da0e428db414948c4625ce,Ciência de dados com python,livros,84.78,5.0405449371,2022-03-23,Isabella Pereira,MG,5,cartao_credito,10,-18.1,-44.38
+67da0e428db414948c46261f,Ciência de dados com python,livros,61.59,3.8105867375,2021-07-23,Pedro Gomes,MG,5,cartao_credito,1,-18.1,-44.38
+67da0e428db414948c4625cf,Dashboards com Power BI,livros,36.15,5.088695069,2022-03-23,Felipe Santos,SP,5,cartao_credito,6,-22.19,-48.79
+67da0e428db414948c462543,Dashboards com Power BI,livros,35.28,8.4241790464,2022-10-22,Lucas Oliveira,MG,4,boleto,1,-18.1,-44.38
+67da0e428db414948c46260b,Ciência de dados com python,livros,85.08,4.8133799537,2021-06-23,Thiago Silva,RJ,3,cartao_credito,10,-22.25,-42.66
+67da0e428db414948c4626ee,Ciência de dados com python,livros,68.8,3.952169834,2022-02-24,Beatriz Moraes,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c4626c7,Dashboards com Power BI,livros,54.64,0.0,2021-01-24,Bruno Rodrigues,RJ,4,cartao_credito,1,-22.25,-42.66
+67da0e428db414948c4626e7,Modelagem preditiva,livros,63.99,0.0,2021-02-24,Mariana Ferreira,RS,3,cartao_credito,2,-30.17,-53.5
+67da0e428db414948c46278d,Iniciando em programação,livros,53.7,3.3904679739,2020-09-24,Beatriz Moraes,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c4627a2,Dashboards com Power BI,livros,48.48,0.0,2020-10-24,Lucas Oliveira,SP,2,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c4627ac,Iniciando em programação,livros,83.25,2.0172511168,2021-10-24,Thiago Silva,PR,5,cartao_credito,2,-24.89,-51.55
+67da0e428db414948c4627b7,Iniciando em programação,livros,60.34,3.4960493816,2022-10-24,João Souza,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c46280b,Modelagem preditiva,livros,71.95,10.2107354105,2022-01-25,Thiago Silva,PE,3,boleto,1,-8.38,-37.86
+67da0e428db414948c4626af,Ciência de dados com python,livros,57.26,6.2127390616,2022-12-23,Lucas Oliveira,MG,5,boleto,1,-18.1,-44.38
+67da0e428db414948c46265c,Dashboards com Power BI,livros,35.04,5.0295909083,2021-09-23,Isabella Pereira,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c462693,Iniciando em programação,livros,62.08,3.8366777634,2021-11-23,Felipe Santos,MG,4,cartao_credito,1,-18.1,-44.38
+67da0e428db414948c4626ac,Modelagem preditiva,livros,74.49,4.2551452162,2021-12-23,Lucas Oliveira,SP,1,boleto,1,-22.19,-48.79
+67da0e428db414948c462660,Modelagem preditiva,livros,105.71,6.5171546566,2021-09-23,Juliana Costa,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c462710,Modelagem preditiva,livros,72.25,1.4315342092,2022-03-24,Beatriz Moraes,SP,5,cartao_credito,5,-22.19,-48.79
+67da0e428db414948c462762,Modelagem preditiva,livros,102.08,6.3238680771,2022-06-24,Beatriz Moraes,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c462767,Dashboards com Power BI,livros,50.5,0.0,2020-07-24,Bruno Rodrigues,SP,5,cartao_credito,5,-22.19,-48.79
+67da0e428db414948c4627b1,Iniciando em programação,livros,72.08,4.1268199665,2022-10-24,Mariana Ferreira,MG,4,cartao_credito,12,-18.1,-44.38
+67da0e428db414948c462800,Iniciando em programação,livros,69.96,1.3095985985,2020-01-25,Felipe Santos,PR,5,boleto,1,-24.89,-51.55
+67da0e428db414948c46264b,Modelagem preditiva,livros,104.89,3.1695160149,2020-09-23,Larissa Alves,RJ,5,cupom,1,-22.25,-42.66
+67da0e428db414948c4626bd,Modelagem preditiva,livros,103.49,3.0949702267,2020-01-24,Rafael Costa,RS,1,boleto,1,-30.17,-53.5
+67da0e428db414948c462822,Dashboards com Power BI,livros,58.85,0.0,2021-02-25,Rafael Costa,RJ,4,cartao_credito,4,-22.25,-42.66
+67da0e428db414948c462761,Ciência de dados com python,livros,66.7,1.1360134059,2022-06-24,Isabella Pereira,RJ,1,cartao_credito,2,-22.25,-42.66
+67da0e428db414948c46265f,Dashboards com Power BI,livros,54.03,0.0,2021-09-23,Rafael Costa,MG,3,cartao_credito,6,-18.1,-44.38
+67da0e428db414948c462648,Ciência de dados com python,livros,86.5,5.4942799481,2022-08-23,Camila Ribeiro,DF,1,cartao_credito,10,-15.83,-47.86
+67da0e428db414948c46264d,Dashboards com Power BI,livros,49.18,0.0,2020-09-23,Bruno Rodrigues,SP,5,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c462744,Modelagem preditiva,livros,93.95,2.5869939269,2021-05-24,Juliana Costa,SP,5,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c46274f,Modelagem preditiva,livros,84.56,12.5802135027,2022-05-24,Mariana Ferreira,RJ,5,cartao_credito,10,-22.25,-42.66
+67da0e428db414948c462780,Iniciando em programação,livros,43.28,0.0,2021-08-24,Pedro Gomes,MG,1,cartao_credito,2,-18.1,-44.38
+67da0e428db414948c4627d8,Iniciando em programação,livros,69.36,5.3460056894,2020-12-24,Isabella Pereira,RJ,5,cartao_credito,2,-22.25,-42.66
+67da0e428db414948c46280e,Iniciando em programação,livros,76.83,4.6220708895,2022-01-25,Thiago Silva,SP,5,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c46276f,Ciência de dados com python,livros,72.22,1.4299367995,2021-07-24,Mariana Ferreira,MG,5,cartao_credito,2,-18.1,-44.38
+67da0e428db414948c4627c9,Ciência de dados com python,livros,91.62,5.1672661823,2021-11-24,Mariana Ferreira,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c4626cc,Dashboards com Power BI,livros,37.55,2.9392723666,2021-01-24,Felipe Santos,SP,5,cartao_credito,4,-22.19,-48.79
+67da0e428db414948c462701,Ciência de dados com python,livros,81.49,4.8653623347,2020-03-24,Larissa Alves,RJ,1,cartao_credito,10,-22.25,-42.66
+67da0e428db414948c462688,Modelagem preditiva,livros,70.29,1.3271701057,2020-11-23,Juliana Costa,PR,4,boleto,1,-24.89,-51.55
+67da0e428db414948c462726,Dashboards com Power BI,livros,39.05,2.3624209306,2021-04-24,Isabella Pereira,RJ,4,cartao_credito,6,-22.25,-42.66
+67da0e428db414948c462729,Iniciando em programação,livros,72.84,1.4629499343,2021-04-24,Bianca Santos,SP,3,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c462758,Modelagem preditiva,livros,94.35,11.2657890437,2020-06-24,Larissa Alves,SP,4,cartao_credito,6,-22.19,-48.79
+67da0e428db414948c4627d7,Iniciando em programação,livros,43.81,3.2211658768,2020-12-24,Bruno Rodrigues,RS,5,cartao_credito,4,-30.17,-53.5
+67da0e428db414948c462807,Dashboards com Power BI,livros,36.78,2.489528876,2021-01-25,Mariana Ferreira,GO,1,cartao_credito,4,-15.98,-49.86
+67da0e428db414948c462672,Modelagem preditiva,livros,95.16,13.1446316136,2020-10-23,João Souza,SP,5,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c462692,Modelagem preditiva,livros,76.93,1.6807301299,2021-11-23,Lucas Oliveira,MG,3,boleto,1,-18.1,-44.38
+67da0e428db414948c46277c,Modelagem preditiva,livros,98.74,2.8420470166,2020-08-24,Felipe Santos,SP,5,cartao_debito,1,-22.19,-48.79
+67da0e428db414948c46275d,Modelagem preditiva,livros,83.66,2.0390823833,2021-06-24,Rafael Costa,MG,1,boleto,1,-18.1,-44.38
+67da0e428db414948c4626c2,Dashboards com Power BI,livros,57.25,4.7011846211,2021-01-24,Rafael Costa,CE,2,cartao_credito,5,-5.2,-39.53
+67da0e428db414948c46273f,Modelagem preditiva,livros,84.26,5.0128565014,2021-05-24,João Souza,RN,4,cartao_credito,2,-5.81,-36.59
+67da0e428db414948c462887,Dashboards com Power BI,livros,52.71,4.2057642736,2020-05-25,Juliana Costa,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c462847,Dashboards com Power BI,livros,58.19,0.0,2020-03-25,Rafael Costa,DF,5,boleto,1,-15.83,-47.86
+67da0e428db414948c4629ee,Ciência de dados com python,livros,66.41,3.8249095241,2020-07-26,Bianca Santos,BA,5,cartao_credito,3,-13.29,-41.71
+67da0e428db414948c46292a,Ciência de dados com python,livros,63.46,0.0,2022-11-25,Felipe Santos,PB,5,cupom,1,-7.28,-36.72
+67da0e428db414948c46288c,Modelagem preditiva,livros,74.88,1.5715737971,2021-05-25,Juliana Costa,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c4628e3,Modelagem preditiva,livros,97.35,12.9856042495,2020-09-25,Juliana Costa,MG,4,cartao_credito,1,-18.1,-44.38
+67da0e428db414948c46294f,Iniciando em programação,livros,82.27,4.9117345238,2021-01-26,Rafael Costa,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c46296b,Iniciando em programação,livros,89.81,5.3132168404,2021-02-26,Bruno Rodrigues,MG,5,cartao_credito,5,-18.1,-44.38
+67da0e428db414948c4629b4,Modelagem preditiva,livros,87.66,5.5560464583,2022-04-26,Felipe Santos,MG,1,cartao_credito,3,-18.1,-44.38
+67da0e428db414948c46284a,Modelagem preditiva,livros,92.77,5.2228493191,2021-03-25,Mariana Ferreira,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c462855,Dashboards com Power BI,livros,49.46,0.0,2022-03-25,Juliana Costa,RJ,3,cartao_credito,5,-22.25,-42.66
+67da0e428db414948c462856,Modelagem preditiva,livros,85.17,5.2220584248,2022-03-25,Camila Ribeiro,SP,4,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c46284e,Ciência de dados com python,livros,83.92,2.0529266011,2021-03-25,Lucas Oliveira,MG,3,boleto,1,-18.1,-44.38
+67da0e428db414948c4629bc,Dashboards com Power BI,livros,59.68,0.0,2022-04-26,Thiago Silva,SP,4,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c4629ed,Modelagem preditiva,livros,102.25,8.6083212135,2020-07-26,Camila Ribeiro,MG,5,cartao_credito,1,-18.1,-44.38
+67da0e428db414948c462979,Modelagem preditiva,livros,85.82,2.1540958852,2022-02-26,Lucas Oliveira,SP,2,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c4628c8,Dashboards com Power BI,livros,46.32,2.7495265595,2020-08-25,Mariana Ferreira,SP,5,cartao_credito,4,-22.19,-48.79
+67da0e428db414948c46289a,Ciência de dados com python,livros,94.06,8.1722283523,2022-05-25,Isabella Pereira,GO,1,cartao_credito,8,-15.98,-49.86
+67da0e428db414948c46294e,Iniciando em programação,livros,45.42,3.1054905089,2021-01-26,Bruno Rodrigues,RJ,4,cartao_credito,10,-22.25,-42.66
+67da0e428db414948c462924,Modelagem preditiva,livros,106.81,3.2717502388,2022-11-25,Juliana Costa,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c4628a8,Ciência de dados com python,livros,60.74,0.0,2021-06-25,Felipe Santos,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c4629b1,Modelagem preditiva,livros,87.34,2.2350313124,2021-04-26,Lucas Oliveira,SP,3,cartao_credito,8,-22.19,-48.79
+67da0e428db414948c462a0d,Iniciando em programação,livros,86.73,5.1492161063,2022-08-26,Camila Ribeiro,SP,1,cartao_credito,5,-22.19,-48.79
+67da0e428db414948c462adb,Modelagem preditiva,livros,102.74,3.055034983,2020-04-27,Lucas Oliveira,ES,3,cartao_credito,1,-19.19,-40.34
+67da0e428db414948c462b62,Dashboards com Power BI,livros,48.83,3.1311551248,2021-09-27,Camila Ribeiro,SP,1,cartao_credito,6,-22.19,-48.79
+67da0e428db414948c462bb6,Ciência de dados com python,livros,59.38,4.1016541931,2022-12-27,Camila Ribeiro,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c462a80,Iniciando em programação,livros,46.96,0.0,2022-01-27,João Souza,RS,5,cupom,1,-30.17,-53.5
+67da0e428db414948c462b49,Dashboards com Power BI,livros,54.86,0.0,2021-08-27,Bruno Rodrigues,PR,4,boleto,1,-24.89,-51.55
+67da0e428db414948c462a36,Modelagem preditiva,livros,63.13,3.8925871046,2021-10-26,Felipe Santos,MG,5,cartao_credito,1,-18.1,-44.38
+67da0e428db414948c462a84,Ciência de dados com python,livros,96.51,6.0787149911,2022-01-27,Thiago Silva,MT,5,cupom,1,-12.64,-55.42
+67da0e428db414948c462b18,Modelagem preditiva,livros,73.05,1.4741318025,2022-06-27,Pedro Gomes,SP,4,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c462a48,Dashboards com Power BI,livros,35.87,11.0043559535,2021-11-26,Mariana Ferreira,SP,4,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c462ad7,Dashboards com Power BI,livros,48.56,0.0,2023-03-27,Thiago Silva,CE,1,cartao_credito,1,-5.2,-39.53
+67da0e428db414948c462b4e,Dashboards com Power BI,livros,55.86,0.0,2022-08-27,Isabella Pereira,MA,1,cartao_credito,1,-5.42,-45.44
+67da0e428db414948c462bd3,Ciência de dados com python,livros,95.68,2.6791112223,2023-01-28,Thiago Silva,SP,5,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c462a98,Modelagem preditiva,livros,108.86,3.3809065716,2021-02-27,Mariana Ferreira,RJ,1,cupom,1,-22.25,-42.66
+67da0e428db414948c462ae5,Iniciando em programação,livros,86.68,5.5038644066,2021-04-27,Rafael Costa,ES,4,cartao_credito,1,-19.19,-40.34
+67da0e428db414948c462b3c,Iniciando em programação,livros,77.57,5.0187843131,2020-08-27,Felipe Santos,SP,5,cartao_credito,10,-22.19,-48.79
+67da0e428db414948c462bc8,Iniciando em programação,livros,70.34,4.0285192976,2021-01-28,Mariana Ferreira,PI,1,cartao_debito,1,-6.6,-42.28
+67da0e428db414948c462beb,Iniciando em programação,livros,45.87,3.3308546795,2022-02-28,Beatriz Moraes,SP,4,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c462b44,Ciência de dados com python,livros,82.73,1.9895626811,2021-08-27,Bianca Santos,SP,5,cartao_debito,1,-22.19,-48.79
+67da0e428db414948c462b04,Dashboards com Power BI,livros,38.12,0.0,2022-05-27,Lucas Oliveira,SP,4,cupom,1,-22.19,-48.79
+67da0e428db414948c462bc7,Dashboards com Power BI,livros,46.61,8.7237776649,2021-01-28,Felipe Santos,RJ,4,cartao_credito,1,-22.25,-42.66
+67da0e428db414948c462ac4,Ciência de dados com python,livros,87.44,5.1870214703,2021-03-27,Mariana Ferreira,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c462b0a,Dashboards com Power BI,livros,42.15,0.0,2020-06-27,Camila Ribeiro,MG,5,boleto,1,-18.1,-44.38
+67da0e428db414948c462b84,Iniciando em programação,livros,52.05,5.9353222354,2022-10-27,Mariana Ferreira,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c462b8c,Ciência de dados com python,livros,59.0,0.0,2020-11-27,Isabella Pereira,SP,5,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c462bfe,Iniciando em programação,livros,47.72,0.0,2020-03-28,Larissa Alves,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c462c01,Iniciando em programação,livros,61.89,3.8217212994,2021-03-28,Lucas Oliveira,CE,3,cartao_credito,6,-5.2,-39.53
+67da0e428db414948c462a58,Modelagem preditiva,livros,74.15,5.3473797734,2020-12-26,Larissa Alves,DF,5,cartao_credito,1,-15.83,-47.86
+67da0e428db414948c462ad8,Modelagem preditiva,livros,71.75,4.708886822,2020-04-27,Lucas Oliveira,SP,5,cartao_credito,4,-22.19,-48.79
+67da0e428db414948c462bb9,Dashboards com Power BI,livros,39.22,0.0,2020-01-28,Lucas Oliveira,ES,5,cartao_credito,6,-19.19,-40.34
+67da0e428db414948c462ab2,Modelagem preditiva,livros,72.93,1.4677421635,2023-02-27,Bianca Santos,SC,5,cartao_credito,1,-27.45,-50.95
+67da0e428db414948c462b7f,Modelagem preditiva,livros,81.35,1.9160818327,2022-10-27,Thiago Silva,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c462bae,Modelagem preditiva,livros,83.1,7.5886413244,2021-12-27,Larissa Alves,SP,4,cupom,1,-22.19,-48.79
+67da0e428db414948c462b9a,Ciência de dados com python,livros,54.57,0.0,2020-12-27,Beatriz Moraes,SP,5,cartao_credito,6,-22.19,-48.79
+67da0e428db414948c462a5e,Modelagem preditiva,livros,103.85,3.1141391437,2021-12-26,João Souza,RJ,1,boleto,1,-22.25,-42.66
+67da0e428db414948c462ac0,Ciência de dados com python,livros,58.27,3.3914790125,2021-03-27,Bianca Santos,SP,1,boleto,1,-22.19,-48.79
+67da0e428db414948c462b75,Modelagem preditiva,livros,70.14,4.0235208028,2021-10-27,Juliana Costa,RJ,5,cartao_credito,4,-22.25,-42.66
+67da0e428db414948c462c14,Modelagem preditiva,livros,93.37,6.3707869519,2023-03-28,Felipe Santos,RJ,5,cartao_debito,1,-22.25,-42.66
+67da0e428db414948c462c11,Iniciando em programação,livros,88.87,7.8958764659,2022-03-28,Lucas Oliveira,ES,5,cartao_credito,10,-19.19,-40.34
+67da0e428db414948c462a6b,Ciência de dados com python,livros,81.27,1.9118220734,2022-12-26,Juliana Costa,RJ,5,cartao_credito,4,-22.25,-42.66
+67da0e428db414948c462bcc,Modelagem preditiva,livros,105.58,5.9049432815,2021-01-28,Bruno Rodrigues,DF,5,cartao_credito,3,-15.83,-47.86
+67da0e428db414948c462d1d,Modelagem preditiva,livros,96.5,5.6645996786,2021-03-29,João Souza,SP,5,cartao_credito,4,-22.19,-48.79
+67da0e428db414948c462d91,Dashboards com Power BI,livros,44.68,0.0,2021-07-29,Larissa Alves,SP,5,cupom,1,-22.19,-48.79
+67da0e428db414948c462c72,Iniciando em programação,livros,59.37,4.1011217232,2022-07-28,Larissa Alves,SP,3,cartao_credito,7,-22.19,-48.79
+67da0e428db414948c462c7c,Dashboards com Power BI,livros,58.97,9.5195894596,2021-08-28,Bruno Rodrigues,SC,4,cartao_credito,7,-27.45,-50.95
+67da0e428db414948c462cfd,Iniciando em programação,livros,68.29,14.1423395352,2022-01-29,Rafael Costa,MG,5,cartao_credito,1,-18.1,-44.38
+67da0e428db414948c462c70,Iniciando em programação,livros,56.37,3.5326374414,2022-07-28,Bruno Rodrigues,PE,5,boleto,1,-8.38,-37.86
+67da0e428db414948c462c2d,Iniciando em programação,livros,55.92,0.0,2022-04-28,Bruno Rodrigues,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c462ca5,Iniciando em programação,livros,76.49,4.6039669123,2021-10-28,Pedro Gomes,SP,5,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c462ced,Ciência de dados com python,livros,88.69,7.8862920074,2020-01-29,Lucas Oliveira,ES,5,cartao_credito,1,-19.19,-40.34
+67da0e428db414948c462cd7,Modelagem preditiva,livros,103.94,3.1189313729,2022-12-28,Larissa Alves,SP,2,boleto,1,-22.19,-48.79
+67da0e428db414948c462d4d,Iniciando em programação,livros,82.77,4.9383580196,2022-04-29,Bianca Santos,PR,5,cartao_credito,4,-24.89,-51.55
+67da0e428db414948c462de8,Iniciando em programação,livros,80.68,1.8804063484,2020-11-29,Pedro Gomes,RJ,4,cartao_credito,1,-22.25,-42.66
+67da0e428db414948c462c3d,Dashboards com Power BI,livros,55.69,0.0,2021-05-28,Isabella Pereira,SP,4,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c462d10,Iniciando em programação,livros,63.31,5.0238613902,2020-02-29,João Souza,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c462dcf,Dashboards com Power BI,livros,36.9,2.495918515,2020-10-29,Bruno Rodrigues,RJ,1,boleto,1,-22.25,-42.66
+67da0e428db414948c462c79,Modelagem preditiva,livros,104.15,3.1301132411,2020-08-28,Bianca Santos,BA,4,cartao_credito,4,-13.29,-41.71
+67da0e428db414948c462ca0,Iniciando em programação,livros,66.74,1.1381432855,2020-10-28,Thiago Silva,PA,3,cartao_credito,1,-3.79,-52.48
+67da0e428db414948c462d42,Modelagem preditiva,livros,91.79,5.4186458838,2020-04-29,Rafael Costa,BA,5,cartao_credito,8,-13.29,-41.71
+67da0e428db414948c462d7f,Modelagem preditiva,livros,86.33,2.1812518509,2022-06-29,Juliana Costa,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c462c33,Iniciando em programação,livros,61.29,4.1519232899,2020-05-28,Larissa Alves,DF,5,cartao_credito,1,-15.83,-47.86
+67da0e428db414948c462c5d,Iniciando em programação,livros,54.99,3.4543170574,2022-06-28,Juliana Costa,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c462c5e,Dashboards com Power BI,livros,48.2,2.8496309037,2022-06-28,Lucas Oliveira,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c462c41,Iniciando em programação,livros,82.14,4.9048124148,2022-05-28,Rafael Costa,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c462d80,Iniciando em programação,livros,65.58,4.0182026984,2022-06-29,Bruno Rodrigues,SP,4,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c462c42,Ciência de dados com python,livros,93.61,5.5155554085,2022-05-28,Isabella Pereira,PA,3,boleto,1,-3.79,-52.48
+67da0e428db414948c462cbc,Dashboards com Power BI,livros,39.63,8.4897926421,2021-11-28,Pedro Gomes,RJ,4,cupom,1,-22.25,-42.66
+67da0e428db414948c462c44,Dashboards com Power BI,livros,58.9,3.4193737137,2022-05-28,Juliana Costa,MG,4,boleto,1,-18.1,-44.38
+67da0e428db414948c462d01,Iniciando em programação,livros,57.33,0.0,2022-01-29,Pedro Gomes,SC,4,cartao_debito,1,-27.45,-50.95
+67da0e428db414948c462de6,Modelagem preditiva,livros,85.2,2.1210827504,2020-11-29,João Souza,SP,4,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c462e05,Dashboards com Power BI,livros,49.8,0.0,2021-12-29,Isabella Pereira,RJ,1,cartao_credito,6,-22.25,-42.66
+67da0e428db414948c462d14,Ciência de dados com python,livros,62.52,0.0,2020-03-29,Bruno Rodrigues,SC,5,cartao_credito,2,-27.45,-50.95
+67da0e428db414948c462d36,Iniciando em programação,livros,41.19,3.5923589304,2023-03-29,Bianca Santos,BA,5,cartao_credito,4,-13.29,-41.71
+67da0e428db414948c462d29,Modelagem preditiva,livros,62.38,3.8526518609,2022-03-29,Bianca Santos,CE,1,cupom,1,-5.2,-39.53
+67da0e428db414948c462ddc,Modelagem preditiva,livros,64.3,1.008220626,2022-10-29,Bruno Rodrigues,PR,5,cupom,1,-24.89,-51.55
+67da0e428db414948c462e3b,Modelagem preditiva,livros,93.04,5.4852046232,2022-03-30,Juliana Costa,RJ,4,cartao_credito,2,-22.25,-42.66
+67da0e428db414948c462eaf,Ciência de dados com python,livros,62.49,0.0,2022-08-30,Isabella Pereira,RJ,1,cartao_credito,2,-22.25,-42.66
+67da0e428db414948c462f80,Ciência de dados com python,livros,59.49,3.4507894388,2022-07-31,Beatriz Moraes,MT,3,boleto,1,-12.64,-55.42
+67da0e428db414948c462f8e,Modelagem preditiva,livros,109.17,6.7013892476,2021-08-31,Felipe Santos,MG,3,cartao_credito,3,-18.1,-44.38
+67da0e428db414948c462f9a,Modelagem preditiva,livros,94.89,5.5788720221,2022-08-31,Pedro Gomes,SP,5,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c462ef3,Modelagem preditiva,livros,87.69,5.5576438681,2020-11-30,Mariana Ferreira,PE,4,cartao_credito,4,-8.38,-37.86
+67da0e428db414948c462fc0,Dashboards com Power BI,livros,54.85,3.4517020142,2022-12-31,Lucas Oliveira,RJ,5,cartao_credito,3,-22.25,-42.66
+67da0e428db414948c462f35,Modelagem preditiva,livros,89.63,2.3569669232,2021-01-31,Larissa Alves,RJ,4,cartao_credito,1,-22.25,-42.66
+67da0e428db414948c462f6c,Modelagem preditiva,livros,108.34,6.0519049783,2021-05-31,Pedro Gomes,RS,4,boleto,1,-30.17,-53.5
+67da0e428db414948c462f73,Ciência de dados com python,livros,80.93,1.8937180963,2020-07-31,Bianca Santos,RJ,3,boleto,1,-22.25,-42.66
+67da0e428db414948c462e9f,Iniciando em programação,livros,57.45,3.9474548422,2022-07-30,Mariana Ferreira,SP,5,cartao_credito,4,-22.19,-48.79
+67da0e428db414948c462f2a,Modelagem preditiva,livros,90.1,5.328658468,2020-01-31,Camila Ribeiro,MG,4,cartao_credito,1,-18.1,-44.38
+67da0e428db414948c462e11,Dashboards com Power BI,livros,53.48,3.1307750193,2020-01-30,Isabella Pereira,PR,4,cupom,1,-24.89,-51.55
+67da0e428db414948c462e85,Dashboards com Power BI,livros,35.61,0.0,2021-06-30,Thiago Silva,RJ,5,cartao_credito,6,-22.25,-42.66
+67da0e428db414948c462e86,Iniciando em programação,livros,60.5,3.5045689003,2021-06-30,Felipe Santos,PA,4,cartao_credito,1,-3.79,-52.48
+67da0e428db414948c462ef0,Iniciando em programação,livros,77.69,1.7211978435,2022-10-30,Camila Ribeiro,RJ,5,cartao_credito,5,-22.25,-42.66
+67da0e428db414948c462f4c,Iniciando em programação,livros,84.44,5.8952913169,2020-03-31,Bruno Rodrigues,DF,5,cartao_credito,3,-15.83,-47.86
+67da0e428db414948c462f88,Ciência de dados com python,livros,81.58,4.6326663866,2020-08-31,Juliana Costa,SP,5,cartao_credito,2,-22.19,-48.79
+67da0e428db414948c462ee5,Dashboards com Power BI,livros,46.14,0.0,2021-10-30,Camila Ribeiro,SP,4,cartao_credito,1,-22.19,-48.79
+67da0e428db414948c462f3f,Dashboards com Power BI,livros,38.6,2.5864384007,2022-01-31,Pedro Gomes,RS,5,boleto,1,-30.17,-53.5
+67da0e428db414948c462efd,Dashboards com Power BI,livros,37.26,8.2259182935,2021-11-30,Isabella Pereira,RS,1,cartao_credito,10,-30.17,-53.5
+67da0e428db414948c462f10,Modelagem preditiva,livros,77.65,4.6657334226,2020-12-30,Pedro Gomes,SP,4,boleto,1,-22.19,-48.79
+67da0e428db414948c462e25,Modelagem preditiva,livros,100.54,13.1554621527,2022-01-30,Beatriz Moraes,SP,5,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c462e55,Iniciando em programação,livros,88.55,5.246125631,2021-04-30,Rafael Costa,RN,1,cartao_credito,6,-5.81,-36.59
+67da0e428db414948c462edf,Iniciando em programação,livros,76.39,10.3094730747,2021-10-30,Mariana Ferreira,MG,5,cartao_credito,1,-18.1,-44.38
+67da0e428db414948c462f84,Dashboards com Power BI,livros,41.27,2.7286078683,2022-07-31,João Souza,SC,5,cartao_credito,12,-27.45,-50.95
+67da0e428db414948c462e93,Dashboards com Power BI,livros,47.91,0.0,2020-07-30,Bruno Rodrigues,PR,4,boleto,1,-24.89,-51.55
+67da0e428db414948c462f06,Iniciando em programação,livros,78.85,4.8855374379,2022-11-30,Camila Ribeiro,PR,5,cartao_credito,2,-24.89,-51.55
+67da0e428db414948c462e76,Iniciando em programação,livros,44.3,0.0,2022-05-30,Felipe Santos,CE,5,boleto,1,-5.2,-39.53
+67da0e428db414948c462ecc,Iniciando em programação,livros,81.41,10.714451951,2022-09-30,Thiago Silva,ES,1,cartao_credito,10,-19.19,-40.34
+67da0e428db414948c462eda,Modelagem preditiva,livros,60.24,3.4907246825,2022-09-30,Beatriz Moraes,SC,4,cartao_credito,1,-27.45,-50.95
+67da0e428db414948c462ee2,Ciência de dados com python,livros,67.91,1.2004422657,2021-10-30,Lucas Oliveira,SP,1,cartao_credito,3,-22.19,-48.79
+67da0e428db414948c462e59,Iniciando em programação,livros,50.01,4.315676402,2021-04-30,João Souza,SP,5,boleto,1,-22.19,-48.79
+67da0e428db414948c462f04,Dashboards com Power BI,livros,40.85,0.0,2022-11-30,Bruno Rodrigues,RJ,5,cupom,1,-22.25,-42.66
+67da0e428db414948c462f5c,Modelagem preditiva,livros,70.68,1.3479364324,2023-03-31,Thiago Silva,RS,3,cartao_credito,3,-30.17,-53.5
+67da0e428db414948c462f44,Modelagem preditiva,livros,98.96,5.5524481971,2023-01-31,Pedro Gomes,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e3447047e,Iniciando em programação,livros,63.25,3.894137208,2022-01-01,Juliana Costa,RJ,5,cartao_credito,4,-22.25,-42.66
+6855f7c9f04c452e3447049d,Ciência de dados com python,livros,82.15,1.958679426,2023-02-01,Bianca Santos,SP,5,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e3447053c,Modelagem preditiva,livros,101.54,14.5010858917,2021-08-01,Rafael Costa,DF,3,cartao_credito,4,-15.83,-47.86
+6855f7c9f04c452e34470541,Iniciando em programação,livros,41.11,0.0,2022-08-01,Thiago Silva,ES,1,cartao_credito,1,-19.19,-40.34
+6855f7c9f04c452e3447046b,Modelagem preditiva,livros,92.45,5.6096965236,2020-01-01,Thiago Silva,BA,1,cartao_credito,3,-13.29,-41.71
+6855f7c9f04c452e34470491,Iniciando em programação,livros,61.73,0.0,2021-02-01,Beatriz Moraes,SP,4,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34470494,Dashboards com Power BI,livros,57.63,9.3105595123,2022-02-01,Bianca Santos,SP,3,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e344704a5,Dashboards com Power BI,livros,40.98,0.0,2023-02-01,Beatriz Moraes,RJ,5,cartao_credito,1,-22.25,-42.66
+6855f7c9f04c452e344704be,Ciência de dados com python,livros,50.51,10.2450858314,2022-03-01,Thiago Silva,MG,1,cartao_credito,6,-18.1,-44.38
+6855f7c9f04c452e344704c4,Dashboards com Power BI,livros,43.35,3.2481049178,2023-03-01,Rafael Costa,BA,5,cartao_credito,2,-13.29,-41.71
+6855f7c9f04c452e344704c8,Iniciando em programação,livros,65.86,4.4466946987,2020-04-01,Rafael Costa,SP,5,cartao_credito,4,-22.19,-48.79
+6855f7c9f04c452e344704e9,Ciência de dados com python,livros,58.61,4.0606540096,2021-05-01,Beatriz Moraes,PR,4,cartao_credito,1,-24.89,-51.55
+6855f7c9f04c452e344704f5,Dashboards com Power BI,livros,46.58,0.0,2020-06-01,Rafael Costa,PR,1,cartao_credito,4,-24.89,-51.55
+6855f7c9f04c452e344704fc,Dashboards com Power BI,livros,55.44,3.6390253647,2021-06-01,Camila Ribeiro,SP,3,cartao_credito,10,-22.19,-48.79
+6855f7c9f04c452e3447057c,Dashboards com Power BI,livros,54.59,3.18987918,2022-10-01,Juliana Costa,SP,3,cartao_credito,8,-22.19,-48.79
+6855f7c9f04c452e3447058e,Dashboards com Power BI,livros,51.67,3.0343979645,2022-11-01,Larissa Alves,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e3447059b,Ciência de dados com python,livros,94.87,5.5826466179,2021-12-01,Isabella Pereira,CE,1,cartao_credito,7,-5.2,-39.53
+6855f7c9f04c452e34470634,Iniciando em programação,livros,88.14,2.2776289057,2021-05-02,Rafael Costa,SP,1,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34470636,Dashboards com Power BI,livros,47.26,0.0,2021-05-02,Isabella Pereira,RJ,2,cartao_credito,10,-22.25,-42.66
+6855f7c9f04c452e3447046c,Iniciando em programação,livros,43.84,0.0,2020-01-01,Mariana Ferreira,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e344704a4,Modelagem preditiva,livros,70.49,1.337819504,2023-02-01,Isabella Pereira,PE,4,cupom,1,-8.38,-37.86
+6855f7c9f04c452e344704c2,Modelagem preditiva,livros,71.64,1.3990535443,2023-03-01,Mariana Ferreira,SP,4,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e344704d6,Dashboards com Power BI,livros,40.85,0.0,2021-04-01,Mariana Ferreira,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e344704dc,Ciência de dados com python,livros,75.04,1.5800933158,2022-04-01,Bianca Santos,RO,2,cartao_credito,7,-10.83,-63.34
+6855f7c9f04c452e344704f7,Dashboards com Power BI,livros,42.09,0.0,2020-06-01,Felipe Santos,SP,5,cartao_credito,8,-22.19,-48.79
+6855f7c9f04c452e3447051e,Iniciando em programação,livros,56.9,3.560858347,2021-07-01,Mariana Ferreira,SP,4,boleto,1,-22.19,-48.79
+6855f7c9f04c452e3447052f,Iniciando em programação,livros,55.86,6.1381932733,2020-08-01,Pedro Gomes,CE,3,cartao_credito,9,-5.2,-39.53
+6855f7c9f04c452e3447048c,Ciência de dados com python,livros,86.13,5.2731755368,2021-02-01,Camila Ribeiro,RJ,4,cartao_credito,3,-22.25,-42.66
+6855f7c9f04c452e3447048e,Ciência de dados com python,livros,72.75,1.458157705,2021-02-01,Beatriz Moraes,PR,4,cartao_credito,2,-24.89,-51.55
+6855f7c9f04c452e34470498,Ciência de dados com python,livros,79.28,1.8058605601,2022-02-01,Lucas Oliveira,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e3447049c,Dashboards com Power BI,livros,41.76,2.7546988942,2022-02-01,Juliana Costa,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e344704d4,Iniciando em programação,livros,83.18,5.1160969115,2021-04-01,Isabella Pereira,SP,3,cartao_credito,4,-22.19,-48.79
+6855f7c9f04c452e34470515,Dashboards com Power BI,livros,46.87,0.0,2021-07-01,Beatriz Moraes,RS,5,cartao_credito,8,-30.17,-53.5
+6855f7c9f04c452e34470527,Modelagem preditiva,livros,105.99,3.2280877057,2022-07-01,Thiago Silva,SP,1,cartao_credito,4,-22.19,-48.79
+6855f7c9f04c452e3447056e,Ciência de dados com python,livros,80.32,1.8612374314,2021-10-01,Rafael Costa,SP,4,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e3447057a,Ciência de dados com python,livros,88.2,4.9795105675,2022-10-01,Rafael Costa,SP,5,cartao_credito,4,-22.19,-48.79
+6855f7c9f04c452e34470582,Iniciando em programação,livros,40.74,0.0,2020-11-01,Felipe Santos,SP,5,cartao_credito,8,-22.19,-48.79
+6855f7c9f04c452e34470583,Iniciando em programação,livros,46.79,0.0,2020-11-01,Rafael Costa,SP,4,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e34470585,Iniciando em programação,livros,60.27,3.4923220922,2021-11-01,Juliana Costa,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e344705a7,Modelagem preditiva,livros,79.82,1.8346139356,2022-12-01,Felipe Santos,CE,5,cartao_credito,1,-5.2,-39.53
+6855f7c9f04c452e344705ce,Dashboards com Power BI,livros,52.47,3.0826464613,2023-01-02,Felipe Santos,MG,3,cartao_credito,6,-18.1,-44.38
+6855f7c9f04c452e34470613,Ciência de dados com python,livros,72.73,1.4570927652,2023-03-02,Rafael Costa,PR,5,cartao_credito,2,-24.89,-51.55
+6855f7c9f04c452e3447063a,Dashboards com Power BI,livros,52.8,3.4984533068,2022-05-02,Juliana Costa,SP,4,boleto,1,-22.19,-48.79
+6855f7c9f04c452e3447057f,Iniciando em programação,livros,64.22,4.3079369753,2020-11-01,Thiago Silva,CE,1,boleto,1,-5.2,-39.53
+6855f7c9f04c452e3447058a,Iniciando em programação,livros,70.05,6.8937680841,2022-11-01,Pedro Gomes,SP,4,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e344705b4,Dashboards com Power BI,livros,49.69,10.4438941213,2020-01-02,Bruno Rodrigues,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e344705ea,Modelagem preditiva,livros,64.69,3.7276737951,2022-02-02,Larissa Alves,SP,5,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e34470620,Modelagem preditiva,livros,61.12,3.7855606515,2021-04-02,Isabella Pereira,BA,5,cartao_credito,10,-13.29,-41.71
+6855f7c9f04c452e344705c7,Modelagem preditiva,livros,95.7,9.5757758076,2022-01-02,Juliana Costa,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34470611,Iniciando em programação,livros,88.6,5.6060986304,2023-03-02,Isabella Pereira,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34470612,Modelagem preditiva,livros,84.08,2.0614461198,2023-03-02,Lucas Oliveira,SC,1,cartao_credito,1,-27.45,-50.95
+6855f7c9f04c452e3447068e,Iniciando em programação,livros,62.95,4.0389102715,2022-09-02,Larissa Alves,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e344706ba,Modelagem preditiva,livros,75.75,1.6178986798,2022-11-02,Felipe Santos,RJ,5,cartao_credito,2,-22.25,-42.66
+6855f7c9f04c452e34470709,Ciência de dados com python,livros,73.59,1.502885178,2021-02-03,Juliana Costa,RS,5,cartao_credito,8,-30.17,-53.5
+6855f7c9f04c452e3447070f,Dashboards com Power BI,livros,51.19,0.0,2022-02-03,Lucas Oliveira,SP,1,cartao_credito,18,-22.19,-48.79
+6855f7c9f04c452e34470723,Iniciando em programação,livros,56.74,3.3043602119,2021-03-03,João Souza,SP,5,cartao_credito,10,-22.19,-48.79
+6855f7c9f04c452e34470737,Iniciando em programação,livros,42.69,0.0,2023-03-03,Camila Ribeiro,MG,5,cartao_credito,1,-18.1,-44.38
+6855f7c9f04c452e34470670,Ciência de dados com python,livros,55.49,0.0,2021-08-02,Beatriz Moraes,PA,5,cartao_credito,2,-3.79,-52.48
+6855f7c9f04c452e34470696,Modelagem preditiva,livros,79.3,1.8069255,2020-10-02,Isabella Pereira,RJ,5,cartao_credito,1,-22.25,-42.66
+6855f7c9f04c452e344706f6,Ciência de dados com python,livros,98.61,2.8351249077,2023-01-03,Thiago Silva,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e3447071a,Ciência de dados com python,livros,81.21,1.9086272539,2023-02-03,Camila Ribeiro,SP,1,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34470751,Dashboards com Power BI,livros,58.7,3.4087243154,2021-04-03,Isabella Pereira,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e344707a3,Ciência de dados com python,livros,65.74,7.9804959394,2021-08-03,Bruno Rodrigues,RJ,5,cartao_credito,10,-22.25,-42.66
+6855f7c9f04c452e344707b2,Iniciando em programação,livros,59.69,9.5579272936,2020-09-03,Camila Ribeiro,SC,5,cartao_credito,3,-27.45,-50.95
+6855f7c9f04c452e344707f6,Modelagem preditiva,livros,78.42,1.7600681474,2022-11-03,Larissa Alves,RJ,5,cartao_credito,4,-22.25,-42.66
+6855f7c9f04c452e3447084d,Modelagem preditiva,livros,91.35,5.3952172075,2023-02-04,Pedro Gomes,SP,2,cupom,1,-22.19,-48.79
+6855f7c9f04c452e34470770,Iniciando em programação,livros,44.09,2.6307857682,2020-06-03,Lucas Oliveira,SP,5,cartao_credito,9,-22.19,-48.79
+6855f7c9f04c452e344707dd,Dashboards com Power BI,livros,37.98,2.3054466495,2021-10-03,Thiago Silva,RJ,5,cartao_credito,2,-22.25,-42.66
+6855f7c9f04c452e344707e4,Dashboards com Power BI,livros,35.72,2.7903977148,2020-11-03,Juliana Costa,SP,5,cartao_credito,4,-22.19,-48.79
+6855f7c9f04c452e34470802,Modelagem preditiva,livros,85.76,2.1509010657,2021-12-03,Rafael Costa,RJ,5,cupom,1,-22.25,-42.66
+6855f7c9f04c452e34470840,Iniciando em programação,livros,60.51,0.0,2022-02-04,Larissa Alves,MT,5,boleto,1,-12.64,-55.42
+6855f7c9f04c452e3447066f,Ciência de dados com python,livros,63.96,0.0,2020-08-02,Felipe Santos,PR,5,boleto,1,-24.89,-51.55
+6855f7c9f04c452e344706e9,Ciência de dados com python,livros,62.53,3.6126602932,2021-01-03,Thiago Silva,PR,4,cartao_credito,1,-24.89,-51.55
+6855f7c9f04c452e344706ec,Ciência de dados com python,livros,95.35,5.3602265574,2021-01-03,Thiago Silva,RJ,5,cartao_credito,10,-22.25,-42.66
+6855f7c9f04c452e3447074a,Ciência de dados com python,livros,99.15,2.8638782832,2020-04-03,Felipe Santos,MG,5,cartao_credito,7,-18.1,-44.38
+6855f7c9f04c452e34470673,Dashboards com Power BI,livros,42.72,0.0,2021-08-02,Rafael Costa,SP,5,cupom,1,-22.19,-48.79
+6855f7c9f04c452e344706e5,Dashboards com Power BI,livros,40.3,2.6721187509,2021-01-03,Pedro Gomes,SP,2,cartao_credito,4,-22.19,-48.79
+6855f7c9f04c452e344707f0,Dashboards com Power BI,livros,39.78,2.6492698508,2021-11-03,Thiago Silva,MG,5,cartao_credito,2,-18.1,-44.38
+6855f7c9f04c452e34470775,Modelagem preditiva,livros,63.34,3.9037689728,2021-06-03,Rafael Costa,SP,5,cartao_credito,4,-22.19,-48.79
+6855f7c9f04c452e344707a8,Iniciando em programação,livros,48.2,5.7303213177,2021-08-03,Juliana Costa,BA,5,cupom,1,-13.29,-41.71
+6855f7c9f04c452e3447084a,Modelagem preditiva,livros,104.17,6.2337512651,2023-02-04,Felipe Santos,SP,5,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e34470876,Modelagem preditiva,livros,105.62,3.2083863188,2021-05-04,Bianca Santos,DF,5,cartao_credito,5,-15.83,-47.86
+6855f7c9f04c452e34470885,Modelagem preditiva,livros,75.34,1.5960674133,2021-06-04,Rafael Costa,MG,1,cartao_credito,1,-18.1,-44.38
+6855f7c9f04c452e3447088c,Modelagem preditiva,livros,97.41,2.7712285178,2021-06-04,Thiago Silva,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e344708e7,Dashboards com Power BI,livros,43.28,0.0,2022-10-04,Thiago Silva,SP,1,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e344708fc,Dashboards com Power BI,livros,41.97,10.0328273462,2022-11-04,Bianca Santos,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34470890,Ciência de dados com python,livros,63.61,0.0,2022-06-04,Pedro Gomes,PR,5,cartao_credito,8,-24.89,-51.55
+6855f7c9f04c452e3447089d,Iniciando em programação,livros,89.21,2.3346031867,2021-07-04,Beatriz Moraes,PR,5,cartao_credito,10,-24.89,-51.55
+6855f7c9f04c452e34470904,Ciência de dados com python,livros,50.73,2.9843457924,2022-11-04,Bruno Rodrigues,GO,1,cartao_credito,1,-15.98,-49.86
+6855f7c9f04c452e34470918,Iniciando em programação,livros,46.11,0.0,2020-01-05,Lucas Oliveira,RS,4,boleto,1,-30.17,-53.5
+6855f7c9f04c452e34470944,Ciência de dados com python,livros,83.56,2.0337576842,2023-02-05,Larissa Alves,PE,4,cartao_credito,2,-8.38,-37.86
+6855f7c9f04c452e3447094e,Iniciando em programação,livros,80.4,4.5641840331,2020-03-05,Rafael Costa,MG,5,cartao_credito,2,-18.1,-44.38
+6855f7c9f04c452e3447098f,Ciência de dados com python,livros,82.98,4.7072121749,2020-06-05,Pedro Gomes,MG,3,cartao_credito,1,-18.1,-44.38
+6855f7c9f04c452e34470a08,Modelagem preditiva,livros,66.38,3.8233121144,2021-10-05,Isabella Pereira,MA,3,cartao_credito,5,-5.42,-45.44
+6855f7c9f04c452e344709db,Dashboards com Power BI,livros,51.25,0.0,2022-08-05,Beatriz Moraes,SP,5,cartao_credito,5,-22.19,-48.79
+6855f7c9f04c452e344709e1,Ciência de dados com python,livros,66.91,4.5026040399,2020-09-05,Lucas Oliveira,RJ,5,boleto,1,-22.25,-42.66
+6855f7c9f04c452e344709ed,Modelagem preditiva,livros,98.2,2.8132936411,2021-09-05,Felipe Santos,SP,5,cupom,1,-22.19,-48.79
+6855f7c9f04c452e344709f8,Ciência de dados com python,livros,59.0,0.0,2022-09-05,Felipe Santos,RJ,4,cartao_credito,8,-22.25,-42.66
+6855f7c9f04c452e34470a0b,Iniciando em programação,livros,75.81,1.6210934993,2021-10-05,Felipe Santos,SP,4,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34470a29,Iniciando em programação,livros,63.01,3.8861974656,2022-11-05,Juliana Costa,SP,3,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e34470a2a,Ciência de dados com python,livros,52.92,3.7062459703,2022-11-05,Beatriz Moraes,RJ,3,cartao_credito,4,-22.25,-42.66
+6855f7c9f04c452e34470a41,Modelagem preditiva,livros,87.49,2.2430183611,2021-12-05,Lucas Oliveira,SP,5,cartao_credito,8,-22.19,-48.79
+6855f7c9f04c452e3447085f,Ciência de dados com python,livros,88.05,12.4904072277,2023-03-04,João Souza,SP,3,cartao_credito,10,-22.19,-48.79
+6855f7c9f04c452e344708b0,Ciência de dados com python,livros,57.79,0.0,2020-08-04,Juliana Costa,BA,4,boleto,1,-13.29,-41.71
+6855f7c9f04c452e344708cd,Ciência de dados com python,livros,70.94,4.3036065734,2021-09-04,Thiago Silva,SP,3,cartao_credito,10,-22.19,-48.79
+6855f7c9f04c452e3447095d,Modelagem preditiva,livros,102.27,3.0300088969,2023-03-05,Isabella Pereira,CE,1,cartao_credito,10,-5.2,-39.53
+6855f7c9f04c452e34470961,Modelagem preditiva,livros,68.09,1.2100267242,2023-03-05,Felipe Santos,SP,5,cartao_credito,10,-22.19,-48.79
+6855f7c9f04c452e3447098c,Dashboards com Power BI,livros,47.02,2.7867994536,2022-05-05,Bruno Rodrigues,PE,5,cartao_credito,1,-8.38,-37.86
+6855f7c9f04c452e344709e7,Dashboards com Power BI,livros,53.0,3.3531950797,2020-09-05,Beatriz Moraes,SP,5,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e344709ef,Iniciando em programação,livros,61.07,3.540570589,2021-09-05,Bruno Rodrigues,CE,5,cartao_credito,2,-5.2,-39.53
+6855f7c9f04c452e34470a13,Ciência de dados com python,livros,86.59,4.8994338145,2022-10-05,João Souza,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34470994,Iniciando em programação,livros,59.43,0.0,2020-06-05,Felipe Santos,SP,5,cartao_credito,10,-22.19,-48.79
+6855f7c9f04c452e34470a04,Ciência de dados com python,livros,77.26,1.6983016371,2021-10-05,Felipe Santos,RJ,1,cartao_credito,4,-22.25,-42.66
+6855f7c9f04c452e34470a73,Modelagem preditiva,livros,91.05,2.4325776512,2020-02-06,Lucas Oliveira,PR,5,cartao_credito,3,-24.89,-51.55
+6855f7c9f04c452e34470a88,Dashboards com Power BI,livros,46.28,2.7530475833,2021-02-06,Juliana Costa,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34470a99,Dashboards com Power BI,livros,44.51,0.0,2020-03-06,Rafael Costa,SC,3,cartao_credito,10,-27.45,-50.95
+6855f7c9f04c452e34470aba,Dashboards com Power BI,livros,40.71,0.0,2020-04-06,Larissa Alves,PE,5,cartao_credito,8,-8.38,-37.86
+6855f7c9f04c452e34470b40,Ciência de dados com python,livros,92.0,6.2978385734,2020-10-06,Beatriz Moraes,GO,4,cupom,1,-15.98,-49.86
+6855f7c9f04c452e34470bf4,Iniciando em programação,livros,85.55,2.1397191975,2020-04-07,Thiago Silva,SP,1,cartao_credito,7,-22.19,-48.79
+6855f7c9f04c452e34470c1e,Modelagem preditiva,livros,101.63,5.6946176647,2021-06-07,Isabella Pereira,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34470a57,Ciência de dados com python,livros,63.46,6.5428704095,2021-01-06,Juliana Costa,SP,4,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34470ac9,Dashboards com Power BI,livros,52.31,5.9491664532,2022-04-06,Bruno Rodrigues,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34470b1c,Modelagem preditiva,livros,87.27,5.1779694817,2021-08-06,Isabella Pereira,BA,5,cartao_credito,10,-13.29,-41.71
+6855f7c9f04c452e34470a60,Modelagem preditiva,livros,93.15,2.5443963336,2022-01-06,Bianca Santos,RJ,5,cartao_credito,2,-22.25,-42.66
+6855f7c9f04c452e34470ab1,Dashboards com Power BI,livros,45.83,0.0,2023-03-06,Pedro Gomes,RJ,2,cartao_credito,7,-22.25,-42.66
+6855f7c9f04c452e34470ab5,Ciência de dados com python,livros,64.18,10.9729722065,2020-04-06,Pedro Gomes,SP,5,cartao_credito,8,-22.19,-48.79
+6855f7c9f04c452e34470ac6,Ciência de dados com python,livros,79.17,1.8000033911,2022-04-06,Isabella Pereira,SP,5,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e34470b3b,Dashboards com Power BI,livros,55.51,3.4868450286,2022-09-06,Bruno Rodrigues,CE,5,cartao_credito,3,-5.2,-39.53
+6855f7c9f04c452e34470b52,Dashboards com Power BI,livros,59.19,3.6779544221,2020-11-06,Larissa Alves,RS,5,cartao_credito,1,-30.17,-53.5
+6855f7c9f04c452e34470b5d,Ciência de dados com python,livros,66.03,11.0714791409,2021-11-06,Bianca Santos,PR,5,cartao_credito,10,-24.89,-51.55
+6855f7c9f04c452e34470b8d,Iniciando em programação,livros,70.62,4.2914070717,2022-12-06,Larissa Alves,SP,5,cartao_credito,10,-22.19,-48.79
+6855f7c9f04c452e34470bb3,Ciência de dados com python,livros,56.82,0.0,2023-01-07,Bianca Santos,RJ,2,cartao_credito,1,-22.25,-42.66
+6855f7c9f04c452e34470b42,Dashboards com Power BI,livros,59.46,12.2604524853,2020-10-06,Juliana Costa,PR,5,cartao_credito,1,-24.89,-51.55
+6855f7c9f04c452e34470ba1,Ciência de dados com python,livros,58.99,0.0,2021-01-07,Pedro Gomes,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34470a5c,Iniciando em programação,livros,88.47,4.9995381587,2021-01-06,Thiago Silva,MG,5,cartao_credito,8,-18.1,-44.38
+6855f7c9f04c452e34470a79,Dashboards com Power BI,livros,38.14,0.0,2020-02-06,Pedro Gomes,SP,4,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e34470a89,Dashboards com Power BI,livros,46.07,0.0,2022-02-06,Larissa Alves,PE,5,cartao_credito,1,-8.38,-37.86
+6855f7c9f04c452e34470abe,Iniciando em programação,livros,41.11,2.7200883497,2021-04-06,Isabella Pereira,ES,4,cartao_credito,5,-19.19,-40.34
+6855f7c9f04c452e34470ac7,Modelagem preditiva,livros,94.84,5.5762096725,2022-04-06,Juliana Costa,SP,3,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34470b2c,Iniciando em programação,livros,69.15,4.5704446439,2020-09-06,Bianca Santos,MG,1,cartao_credito,2,-18.1,-44.38
+6855f7c9f04c452e34470b32,Dashboards com Power BI,livros,48.51,0.0,2021-09-06,Felipe Santos,SP,4,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e34470bc1,Iniciando em programação,livros,76.05,4.580538236,2021-02-07,Larissa Alves,SP,4,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34470c0c,Modelagem preditiva,livros,83.01,2.0044718388,2021-05-07,João Souza,SP,1,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e34470c28,Modelagem preditiva,livros,97.44,2.7728259275,2020-07-07,Bruno Rodrigues,RS,1,boleto,1,-30.17,-53.5
+6855f7c9f04c452e34470c63,Iniciando em programação,livros,65.35,1.0641299672,2022-09-07,Bianca Santos,BA,4,cartao_debito,1,-13.29,-41.71
+6855f7c9f04c452e34470c66,Dashboards com Power BI,livros,35.37,0.0,2020-10-07,Bianca Santos,RS,1,cartao_credito,2,-30.17,-53.5
+6855f7c9f04c452e34470c71,Ciência de dados com python,livros,83.49,2.0300303948,2022-10-07,Pedro Gomes,SP,1,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34470c72,Iniciando em programação,livros,59.31,3.6891835967,2022-10-07,Beatriz Moraes,PR,5,cartao_credito,2,-24.89,-51.55
+6855f7c9f04c452e34470c9d,Ciência de dados com python,livros,86.71,4.90017255,2022-12-07,Thiago Silva,SP,5,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e34470cf7,Ciência de dados com python,livros,62.93,0.0,2022-03-08,Mariana Ferreira,SP,5,cartao_credito,5,-22.19,-48.79
+6855f7c9f04c452e34470cff,Iniciando em programação,livros,71.45,1.3889366159,2023-03-08,Isabella Pereira,SP,5,cartao_debito,1,-22.19,-48.79
+6855f7c9f04c452e34470d12,Dashboards com Power BI,livros,58.54,4.005494063,2020-04-08,Camila Ribeiro,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34470c70,Modelagem preditiva,livros,92.04,2.4852921729,2021-10-07,Beatriz Moraes,RJ,4,cartao_credito,1,-22.25,-42.66
+6855f7c9f04c452e34470ca4,Modelagem preditiva,livros,100.64,2.9432163006,2020-01-08,João Souza,SP,4,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34470cb3,Iniciando em programação,livros,86.64,5.144423877,2022-01-08,Isabella Pereira,SC,5,cartao_credito,1,-27.45,-50.95
+6855f7c9f04c452e34470cd5,Ciência de dados com python,livros,55.06,0.0,2022-02-08,Bianca Santos,PR,4,boleto,1,-24.89,-51.55
+6855f7c9f04c452e34470d2b,Modelagem preditiva,livros,91.21,5.1397840122,2020-05-08,Mariana Ferreira,SP,4,cartao_credito,8,-22.19,-48.79
+6855f7c9f04c452e34470d52,Dashboards com Power BI,livros,43.97,0.0,2022-06-08,Felipe Santos,SP,5,cupom,1,-22.19,-48.79
+6855f7c9f04c452e34470d53,Iniciando em programação,livros,51.68,3.2829090508,2020-07-08,Felipe Santos,RS,4,boleto,1,-30.17,-53.5
+6855f7c9f04c452e34470d95,Iniciando em programação,livros,78.44,4.4598199295,2020-10-08,João Souza,MT,4,cartao_credito,3,-12.64,-55.42
+6855f7c9f04c452e34470daa,Dashboards com Power BI,livros,52.86,9.194250341,2020-11-08,Bianca Santos,SP,5,cartao_credito,10,-22.19,-48.79
+6855f7c9f04c452e34470df1,Iniciando em programação,livros,41.91,3.1714292499,2021-02-09,João Souza,MG,5,cartao_credito,3,-18.1,-44.38
+6855f7c9f04c452e34470dc5,Modelagem preditiva,livros,101.02,5.6621369998,2021-12-08,Isabella Pereira,SP,4,cartao_credito,4,-22.19,-48.79
+6855f7c9f04c452e34470de8,Ciência de dados com python,livros,55.22,0.0,2023-01-09,Bruno Rodrigues,MG,4,cartao_credito,3,-18.1,-44.38
+6855f7c9f04c452e34470c95,Ciência de dados com python,livros,82.17,1.9597443659,2021-12-07,Pedro Gomes,SP,4,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34470cb7,Modelagem preditiva,livros,97.21,2.7605791195,2022-01-08,Rafael Costa,SP,5,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e34470cc4,Dashboards com Power BI,livros,41.45,2.8940999522,2020-02-08,Lucas Oliveira,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34470cc5,Iniciando em programação,livros,87.5,10.9010471513,2020-02-08,Camila Ribeiro,SP,5,cartao_credito,7,-22.19,-48.79
+6855f7c9f04c452e34470d1c,Dashboards com Power BI,livros,58.62,3.6524431725,2021-04-08,Larissa Alves,GO,3,cartao_credito,1,-15.98,-49.86
+6855f7c9f04c452e34470d27,Iniciando em programação,livros,47.99,8.9349374919,2020-05-08,Thiago Silva,MG,5,cartao_credito,4,-18.1,-44.38
+6855f7c9f04c452e34470ca6,Dashboards com Power BI,livros,54.04,6.0412837486,2021-01-08,Mariana Ferreira,PI,4,cartao_credito,7,-6.6,-42.28
+6855f7c9f04c452e34470ca8,Iniciando em programação,livros,54.49,6.0652448948,2021-01-08,Rafael Costa,SP,5,cartao_credito,7,-22.19,-48.79
+6855f7c9f04c452e34470caf,Iniciando em programação,livros,67.85,3.8959342885,2022-01-08,Rafael Costa,MG,4,cartao_credito,2,-18.1,-44.38
+6855f7c9f04c452e34470cb9,Iniciando em programação,livros,68.04,11.4249349259,2022-01-08,João Souza,PR,5,boleto,1,-24.89,-51.55
+6855f7c9f04c452e34470d1f,Ciência de dados com python,livros,52.36,3.676427655,2022-04-08,Rafael Costa,SP,5,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e34470d50,Ciência de dados com python,livros,75.31,1.5944700035,2022-06-08,João Souza,MG,5,cartao_debito,1,-18.1,-44.38
+6855f7c9f04c452e34470d55,Modelagem preditiva,livros,107.4,3.3031659638,2020-07-08,Lucas Oliveira,SP,5,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e34470d65,Ciência de dados com python,livros,63.42,4.0639363576,2022-07-08,Rafael Costa,MG,5,cartao_credito,3,-18.1,-44.38
+6855f7c9f04c452e34470da7,Modelagem preditiva,livros,63.16,0.0,2020-11-08,Bianca Santos,SP,4,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34470e07,Iniciando em programação,livros,40.63,2.6945297937,2023-02-09,Mariana Ferreira,MG,3,cartao_credito,10,-18.1,-44.38
+6855f7c9f04c452e34470d20,Modelagem preditiva,livros,102.79,5.7563841749,2022-04-08,Lucas Oliveira,SP,4,cupom,1,-22.19,-48.79
+6855f7c9f04c452e34470d42,Dashboards com Power BI,livros,59.43,0.0,2020-06-08,Juliana Costa,DF,4,cupom,1,-15.83,-47.86
+6855f7c9f04c452e34470d6c,Iniciando em programação,livros,76.52,4.3575857057,2022-07-08,Beatriz Moraes,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34470d98,Iniciando em programação,livros,54.71,3.8015580852,2020-10-08,Bianca Santos,SP,1,cartao_credito,10,-22.19,-48.79
+6855f7c9f04c452e34470e00,Ciência de dados com python,livros,78.93,1.7872241131,2022-02-09,Lucas Oliveira,DF,5,cartao_credito,1,-15.83,-47.86
+6855f7c9f04c452e34470e7e,Modelagem preditiva,livros,95.23,6.4698263563,2021-07-09,Camila Ribeiro,SP,1,cartao_credito,4,-22.19,-48.79
+6855f7c9f04c452e34470e94,Ciência de dados com python,livros,91.53,11.1156325274,2021-08-09,Mariana Ferreira,PE,5,cartao_credito,1,-8.38,-37.86
+6855f7c9f04c452e34470f07,Modelagem preditiva,livros,91.2,2.4405647,2021-01-10,Thiago Silva,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34470f8d,Ciência de dados com python,livros,81.5,1.9240688815,2021-05-10,Camila Ribeiro,GO,5,cartao_credito,2,-15.98,-49.86
+6855f7c9f04c452e34470f97,Dashboards com Power BI,livros,35.75,0.0,2022-05-10,Lucas Oliveira,ES,2,cartao_credito,4,-19.19,-40.34
+6855f7c9f04c452e34470f9d,Modelagem preditiva,livros,67.78,1.1935201568,2020-06-10,Camila Ribeiro,SP,1,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34470fa4,Modelagem preditiva,livros,75.19,1.5880803645,2021-06-10,Isabella Pereira,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34470fbb,Ciência de dados com python,livros,73.49,1.4975604788,2022-07-10,Bianca Santos,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471004,Iniciando em programação,livros,42.19,5.4103068982,2020-11-10,Isabella Pereira,SP,3,boleto,1,-22.19,-48.79
+6855f7c9f04c452e3447100e,Dashboards com Power BI,livros,51.53,0.0,2021-11-10,João Souza,DF,4,cartao_credito,2,-15.83,-47.86
+6855f7c9f04c452e34470e93,Modelagem preditiva,livros,75.7,11.8328068815,2021-08-09,Bruno Rodrigues,RJ,3,cartao_credito,1,-22.25,-42.66
+6855f7c9f04c452e34470e9b,Modelagem preditiva,livros,70.2,4.4249509606,2022-08-09,Thiago Silva,MG,5,cartao_credito,1,-18.1,-44.38
+6855f7c9f04c452e34470ea0,Modelagem preditiva,livros,91.39,2.4506816284,2020-09-09,Juliana Costa,PR,5,cartao_credito,2,-24.89,-51.55
+6855f7c9f04c452e34470f42,Modelagem preditiva,livros,70.63,4.0439609252,2020-03-10,Thiago Silva,RS,1,cartao_credito,10,-30.17,-53.5
+6855f7c9f04c452e34470f70,Dashboards com Power BI,livros,40.09,2.6609368826,2021-04-10,Thiago Silva,ES,5,cartao_credito,4,-19.19,-40.34
+6855f7c9f04c452e34470fca,Iniciando em programação,livros,75.8,4.3192478717,2022-08-10,Isabella Pereira,MS,2,boleto,1,-20.51,-54.54
+6855f7c9f04c452e34470fcd,Modelagem preditiva,livros,106.3,6.1912597318,2022-08-10,Isabella Pereira,SC,1,cartao_credito,1,-27.45,-50.95
+6855f7c9f04c452e34471017,Dashboards com Power BI,livros,44.24,0.0,2022-11-10,Larissa Alves,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e3447101a,Ciência de dados com python,livros,67.12,1.1583771423,2022-11-10,Bruno Rodrigues,MG,1,cartao_credito,3,-18.1,-44.38
+6855f7c9f04c452e34470e51,Dashboards com Power BI,livros,54.74,0.0,2020-05-09,Mariana Ferreira,SP,4,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34470e7b,Iniciando em programação,livros,68.41,1.2270657615,2020-07-09,Camila Ribeiro,TO,3,cupom,1,-9.46,-48.26
+6855f7c9f04c452e34470e9f,Iniciando em programação,livros,55.68,0.0,2022-08-09,Rafael Costa,SP,5,cupom,1,-22.19,-48.79
+6855f7c9f04c452e34470ebe,Modelagem preditiva,livros,67.63,4.1321985668,2020-10-09,Rafael Costa,SC,5,cartao_credito,1,-27.45,-50.95
+6855f7c9f04c452e34470ef7,Ciência de dados com python,livros,75.13,4.5315510038,2022-12-09,Pedro Gomes,SC,4,cartao_credito,10,-27.45,-50.95
+6855f7c9f04c452e34470f24,Ciência de dados com python,livros,88.38,4.9947459295,2021-02-10,Bruno Rodrigues,ES,5,boleto,1,-19.19,-40.34
+6855f7c9f04c452e34470f40,Dashboards com Power BI,livros,45.17,0.0,2020-03-10,Larissa Alves,MG,5,cartao_credito,2,-18.1,-44.38
+6855f7c9f04c452e34470f51,Iniciando em programação,livros,64.99,3.7436478926,2022-03-10,Camila Ribeiro,SP,1,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e34470f63,Ciência de dados com python,livros,62.19,0.0,2020-04-10,Rafael Costa,RJ,5,cartao_credito,3,-22.25,-42.66
+6855f7c9f04c452e34470f75,Iniciando em programação,livros,82.76,1.9911600909,2022-04-10,Rafael Costa,SP,5,cartao_credito,6,-22.19,-48.79
+6855f7c9f04c452e34470fd8,Iniciando em programação,livros,87.31,2.2334339027,2020-09-10,Beatriz Moraes,RJ,5,boleto,1,-22.25,-42.66
+6855f7c9f04c452e34470fe2,Iniciando em programação,livros,70.71,1.3495338422,2021-09-10,Pedro Gomes,MG,1,cartao_credito,3,-18.1,-44.38
+6855f7c9f04c452e34470fee,Iniciando em programação,livros,52.73,0.0,2021-10-10,Beatriz Moraes,MS,4,cartao_credito,2,-20.51,-54.54
+6855f7c9f04c452e34470ff6,Ciência de dados com python,livros,50.65,8.938895511,2021-10-10,Felipe Santos,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471022,Dashboards com Power BI,livros,40.13,0.0,2020-12-10,Beatriz Moraes,RJ,5,cartao_credito,6,-22.25,-42.66
+6855f7c9f04c452e34470e43,Dashboards com Power BI,livros,51.18,3.4121931805,2021-04-09,Thiago Silva,BA,1,cartao_credito,3,-13.29,-41.71
+6855f7c9f04c452e34470ed4,Modelagem preditiva,livros,70.03,4.2599913466,2020-11-09,Lucas Oliveira,RJ,1,boleto,1,-22.25,-42.66
+6855f7c9f04c452e34470ed5,Modelagem preditiva,livros,88.02,4.969926109,2020-11-09,Lucas Oliveira,RJ,5,cupom,1,-22.25,-42.66
+6855f7c9f04c452e34470edb,Modelagem preditiva,livros,98.44,2.8260729191,2022-11-09,Larissa Alves,RS,5,cartao_credito,2,-30.17,-53.5
+6855f7c9f04c452e34470ef2,Iniciando em programação,livros,65.5,1.0721170159,2021-12-09,Mariana Ferreira,SC,5,cartao_credito,3,-27.45,-50.95
+6855f7c9f04c452e34470f04,Dashboards com Power BI,livros,36.39,3.3367733707,2021-01-10,Bianca Santos,MG,5,cartao_credito,3,-18.1,-44.38
+6855f7c9f04c452e34470f1d,Iniciando em programação,livros,87.98,5.6245181528,2020-02-10,Felipe Santos,SP,5,cartao_credito,4,-22.19,-48.79
+6855f7c9f04c452e34470f41,Dashboards com Power BI,livros,52.91,0.0,2020-03-10,Pedro Gomes,BA,5,boleto,1,-13.29,-41.71
+6855f7c9f04c452e34470f54,Dashboards com Power BI,livros,38.92,5.2361892357,2022-03-10,Thiago Silva,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34470f5f,Ciência de dados com python,livros,72.96,1.4693395733,2023-03-10,Bruno Rodrigues,SP,2,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e34470fae,Modelagem preditiva,livros,71.33,4.0812338193,2021-07-10,Juliana Costa,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34470fb7,Ciência de dados com python,livros,94.93,2.6391759786,2022-07-10,Larissa Alves,DF,2,boleto,1,-15.83,-47.86
+6855f7c9f04c452e34470fbf,Dashboards com Power BI,livros,46.91,0.0,2022-07-10,Juliana Costa,ES,5,cartao_credito,2,-19.19,-40.34
+6855f7c9f04c452e34471044,Ciência de dados com python,livros,66.11,4.4600064466,2020-01-11,Camila Ribeiro,RJ,1,cartao_credito,1,-22.25,-42.66
+6855f7c9f04c452e34471064,Modelagem preditiva,livros,91.39,2.4506816284,2020-02-11,Felipe Santos,SP,1,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34471082,Dashboards com Power BI,livros,45.7,0.0,2020-03-11,Larissa Alves,SP,5,cartao_credito,4,-22.19,-48.79
+6855f7c9f04c452e34471093,Ciência de dados com python,livros,56.5,3.9483028573,2022-03-11,Camila Ribeiro,MG,4,cartao_credito,3,-18.1,-44.38
+6855f7c9f04c452e344710c4,Dashboards com Power BI,livros,40.84,5.3384234596,2021-05-11,Beatriz Moraes,SP,5,cartao_credito,5,-22.19,-48.79
+6855f7c9f04c452e344710e1,Iniciando em programação,livros,82.16,7.5385891523,2020-07-11,Juliana Costa,PA,1,boleto,1,-3.79,-52.48
+6855f7c9f04c452e34471077,Iniciando em programação,livros,86.9,11.0067779349,2022-02-11,Bruno Rodrigues,BA,5,cartao_credito,4,-13.29,-41.71
+6855f7c9f04c452e34471087,Iniciando em programação,livros,72.17,4.1259612922,2020-03-11,Isabella Pereira,RJ,5,boleto,1,-22.25,-42.66
+6855f7c9f04c452e34471098,Modelagem preditiva,livros,87.93,2.2664470375,2022-03-11,Mariana Ferreira,SC,5,cartao_credito,2,-27.45,-50.95
+6855f7c9f04c452e344710c5,Ciência de dados com python,livros,81.33,4.8568428161,2021-05-11,Beatriz Moraes,DF,5,cartao_credito,1,-15.83,-47.86
+6855f7c9f04c452e344710e9,Modelagem preditiva,livros,71.85,10.2054107114,2020-07-11,Bruno Rodrigues,MG,5,cartao_credito,3,-18.1,-44.38
+6855f7c9f04c452e34471114,Dashboards com Power BI,livros,42.66,0.0,2020-09-11,Camila Ribeiro,ES,5,boleto,1,-19.19,-40.34
+6855f7c9f04c452e3447113c,Iniciando em programação,livros,70.49,1.337819504,2021-10-11,Bruno Rodrigues,SP,3,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e344711a9,Modelagem preditiva,livros,64.66,3.7317272888,2021-02-12,Pedro Gomes,SP,1,cupom,1,-22.19,-48.79
+6855f7c9f04c452e344711ca,Modelagem preditiva,livros,67.23,1.1642343114,2020-03-12,Thiago Silva,SP,1,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e344711e9,Modelagem preditiva,livros,81.06,1.9006402052,2020-04-12,Bianca Santos,SP,5,cartao_credito,10,-22.19,-48.79
+6855f7c9f04c452e344711f1,Ciência de dados com python,livros,86.69,5.1470862266,2022-04-12,Camila Ribeiro,MG,5,cartao_credito,10,-18.1,-44.38
+6855f7c9f04c452e34471215,Iniciando em programação,livros,79.8,4.7802144545,2020-06-12,Camila Ribeiro,SC,5,cartao_credito,3,-27.45,-50.95
+6855f7c9f04c452e3447110c,Modelagem preditiva,livros,84.54,5.0326051947,2022-08-11,Thiago Silva,SP,1,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e34471122,Iniciando em programação,livros,52.77,0.0,2021-09-11,Mariana Ferreira,SP,3,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471159,Modelagem preditiva,livros,61.84,3.9798061109,2022-11-11,Rafael Costa,RJ,5,cartao_credito,6,-22.25,-42.66
+6855f7c9f04c452e34471175,Modelagem preditiva,livros,104.25,7.2037932262,2021-12-11,Camila Ribeiro,RS,4,cartao_credito,3,-30.17,-53.5
+6855f7c9f04c452e3447118d,Ciência de dados com python,livros,81.04,1.8995752654,2021-01-12,Pedro Gomes,RJ,5,cupom,1,-22.25,-42.66
+6855f7c9f04c452e344711ce,Dashboards com Power BI,livros,50.93,0.0,2020-03-12,Isabella Pereira,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471038,Ciência de dados com python,livros,61.12,6.4182724491,2022-12-10,Felipe Santos,PA,1,boleto,1,-3.79,-52.48
+6855f7c9f04c452e3447103e,Ciência de dados com python,livros,57.43,0.0,2022-12-10,Mariana Ferreira,RJ,1,cartao_credito,10,-22.25,-42.66
+6855f7c9f04c452e34471054,Dashboards com Power BI,livros,56.23,3.2828551497,2023-01-11,Beatriz Moraes,MG,4,cartao_credito,5,-18.1,-44.38
+6855f7c9f04c452e34471094,Dashboards com Power BI,livros,50.06,3.1966489244,2022-03-11,Beatriz Moraes,RS,5,cartao_credito,4,-30.17,-53.5
+6855f7c9f04c452e3447109a,Modelagem preditiva,livros,97.99,2.8021117729,2023-03-11,João Souza,SC,1,boleto,1,-27.45,-50.95
+6855f7c9f04c452e34471051,Dashboards com Power BI,livros,40.33,0.0,2023-01-11,Rafael Costa,SP,5,cartao_credito,5,-22.19,-48.79
+6855f7c9f04c452e34471053,Iniciando em programação,livros,84.44,2.0806150368,2023-01-11,Camila Ribeiro,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471099,Modelagem preditiva,livros,62.0,3.5844393877,2023-03-11,Pedro Gomes,SP,4,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e34471133,Iniciando em programação,livros,73.22,4.1875215369,2020-10-11,Larissa Alves,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e3447114d,Ciência de dados com python,livros,63.92,11.2015988117,2020-11-11,João Souza,PE,5,cartao_credito,8,-8.38,-37.86
+6855f7c9f04c452e34471151,Iniciando em programação,livros,75.38,4.2968841353,2021-11-11,Lucas Oliveira,SP,4,cupom,1,-22.19,-48.79
+6855f7c9f04c452e34471160,Iniciando em programação,livros,84.63,5.0373974239,2022-11-11,Felipe Santos,ES,5,cartao_credito,1,-19.19,-40.34
+6855f7c9f04c452e34471178,Dashboards com Power BI,livros,39.71,3.5135533828,2022-12-11,Camila Ribeiro,PR,4,boleto,1,-24.89,-51.55
+6855f7c9f04c452e344711c5,Modelagem preditiva,livros,107.7,3.3191400613,2023-02-12,Camila Ribeiro,MG,2,cartao_credito,10,-18.1,-44.38
+6855f7c9f04c452e344711e4,Ciência de dados com python,livros,92.38,2.5033961501,2023-03-12,Bianca Santos,RJ,5,cartao_credito,1,-22.25,-42.66
+6855f7c9f04c452e3447112c,Ciência de dados com python,livros,89.51,5.2972427429,2022-09-11,Thiago Silva,CE,5,cartao_credito,2,-5.2,-39.53
+6855f7c9f04c452e3447113e,Iniciando em programação,livros,55.98,3.2695434018,2021-10-11,Beatriz Moraes,RJ,3,boleto,1,-22.25,-42.66
+6855f7c9f04c452e3447114f,Modelagem preditiva,livros,95.85,2.6881632109,2020-11-11,Larissa Alves,DF,5,cartao_credito,1,-15.83,-47.86
+6855f7c9f04c452e344711b6,Iniciando em programação,livros,64.77,1.0332467121,2022-02-12,Bianca Santos,MG,5,cartao_credito,1,-18.1,-44.38
+6855f7c9f04c452e344711cb,Ciência de dados com python,livros,51.35,3.2653375436,2020-03-12,João Souza,RJ,4,cartao_credito,10,-22.25,-42.66
+6855f7c9f04c452e344711dc,Modelagem preditiva,livros,60.34,3.4960493816,2023-03-12,Camila Ribeiro,SP,5,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e34471209,Ciência de dados com python,livros,56.26,6.15949207,2021-05-12,Lucas Oliveira,RS,1,cartao_credito,2,-30.17,-53.5
+6855f7c9f04c452e34471212,Dashboards com Power BI,livros,50.59,12.5510584307,2022-05-12,Bianca Santos,SP,4,boleto,1,-22.19,-48.79
+6855f7c9f04c452e3447122d,Iniciando em programação,livros,74.67,4.2647296747,2020-07-12,Pedro Gomes,SP,1,cartao_credito,8,-22.19,-48.79
+6855f7c9f04c452e34471256,Modelagem preditiva,livros,87.61,7.8287852565,2022-08-12,Camila Ribeiro,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e3447128e,Modelagem preditiva,livros,74.29,1.5401580721,2020-11-12,João Souza,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e3447129a,Iniciando em programação,livros,44.94,3.7920351489,2021-11-12,Bianca Santos,RJ,3,cartao_credito,4,-22.25,-42.66
+6855f7c9f04c452e344712e1,Iniciando em programação,livros,78.23,4.6966166777,2023-02-13,Rafael Costa,SP,1,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e344712f2,Modelagem preditiva,livros,87.82,2.2605898684,2020-03-13,Lucas Oliveira,SP,4,cartao_debito,1,-22.19,-48.79
+6855f7c9f04c452e344712fb,Modelagem preditiva,livros,98.22,2.814358581,2022-03-13,Mariana Ferreira,SP,4,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e34471317,Dashboards com Power BI,livros,45.31,3.0996333398,2020-04-13,Bruno Rodrigues,MG,1,cartao_credito,2,-18.1,-44.38
+6855f7c9f04c452e34471220,Modelagem preditiva,livros,83.4,4.7239250079,2022-06-12,Pedro Gomes,SC,5,cartao_credito,4,-27.45,-50.95
+6855f7c9f04c452e34471265,Ciência de dados com python,livros,60.56,0.0,2020-09-12,Larissa Alves,SP,4,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e344712c1,Dashboards com Power BI,livros,54.47,3.4314681574,2021-01-13,Lucas Oliveira,SP,4,boleto,1,-22.19,-48.79
+6855f7c9f04c452e3447134e,Iniciando em programação,livros,89.83,5.6715924301,2021-06-13,Lucas Oliveira,RJ,5,boleto,1,-22.25,-42.66
+6855f7c9f04c452e3447136b,Modelagem preditiva,livros,83.77,12.2625101037,2020-08-13,Juliana Costa,RS,5,boleto,1,-30.17,-53.5
+6855f7c9f04c452e344713ed,Ciência de dados com python,livros,59.9,3.4782716088,2020-01-14,Beatriz Moraes,CE,4,cartao_credito,6,-5.2,-39.53
+6855f7c9f04c452e344713f6,Dashboards com Power BI,livros,42.94,0.0,2021-01-14,Mariana Ferreira,RJ,5,cartao_credito,1,-22.25,-42.66
+6855f7c9f04c452e34471349,Dashboards com Power BI,livros,43.94,8.5816081974,2021-06-13,Bianca Santos,SP,5,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e34471350,Iniciando em programação,livros,59.3,0.0,2022-06-13,Bruno Rodrigues,RS,5,cartao_credito,4,-30.17,-53.5
+6855f7c9f04c452e3447135a,Dashboards com Power BI,livros,50.49,11.7828269707,2020-07-13,Juliana Costa,SP,4,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471368,Ciência de dados com python,livros,59.81,0.0,2020-08-13,Bruno Rodrigues,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34471376,Modelagem preditiva,livros,69.9,4.0050906213,2022-08-13,Isabella Pereira,BA,5,boleto,1,-13.29,-41.71
+6855f7c9f04c452e344713c4,Iniciando em programação,livros,74.01,7.1046261708,2021-11-13,Juliana Costa,MA,4,cartao_credito,1,-5.42,-45.44
+6855f7c9f04c452e344712ea,Dashboards com Power BI,livros,53.4,0.0,2023-02-13,Mariana Ferreira,MG,4,boleto,1,-18.1,-44.38
+6855f7c9f04c452e344712f8,Dashboards com Power BI,livros,48.41,0.0,2021-03-13,Isabella Pereira,RJ,5,cartao_credito,2,-22.25,-42.66
+6855f7c9f04c452e34471302,Modelagem preditiva,livros,68.43,1.2281307013,2022-03-13,Beatriz Moraes,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471373,Dashboards com Power BI,livros,55.41,0.0,2021-08-13,Pedro Gomes,SP,3,cupom,1,-22.19,-48.79
+6855f7c9f04c452e344713bf,Modelagem preditiva,livros,84.49,4.7819642287,2020-11-13,João Souza,SP,5,cartao_credito,10,-22.19,-48.79
+6855f7c9f04c452e34471269,Iniciando em programação,livros,55.85,3.5049490058,2021-09-12,Beatriz Moraes,SP,3,cartao_credito,4,-22.19,-48.79
+6855f7c9f04c452e344712cb,Modelagem preditiva,livros,67.46,1.1764811195,2020-02-13,Mariana Ferreira,BA,1,cartao_credito,4,-13.29,-41.71
+6855f7c9f04c452e3447132f,Dashboards com Power BI,livros,35.93,2.4442689332,2020-05-13,Rafael Costa,SP,4,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e34471358,Modelagem preditiva,livros,82.43,4.9202540424,2020-07-13,João Souza,PA,4,cartao_credito,1,-3.79,-52.48
+6855f7c9f04c452e3447135c,Iniciando em programação,livros,70.49,4.2844849628,2020-07-13,Juliana Costa,SE,3,boleto,1,-10.57,-37.45
+6855f7c9f04c452e344713a9,Modelagem preditiva,livros,74.5,1.5513399403,2022-10-13,Larissa Alves,SE,3,cartao_credito,4,-10.57,-37.45
+6855f7c9f04c452e344713e0,Iniciando em programação,livros,61.18,0.0,2021-12-13,Bruno Rodrigues,MG,5,cartao_credito,4,-18.1,-44.38
+6855f7c9f04c452e3447142a,Dashboards com Power BI,livros,44.69,0.0,2023-02-14,Pedro Gomes,MG,5,cartao_credito,2,-18.1,-44.38
+6855f7c9f04c452e344714ba,Iniciando em programação,livros,78.88,1.7845617635,2020-09-14,Mariana Ferreira,PE,4,cartao_credito,1,-8.38,-37.86
+6855f7c9f04c452e344714c6,Ciência de dados com python,livros,57.72,0.0,2021-09-14,Rafael Costa,GO,5,cartao_credito,3,-15.98,-49.86
+6855f7c9f04c452e344714ef,Modelagem preditiva,livros,61.28,4.15139082,2020-11-14,Camila Ribeiro,SP,4,cartao_credito,9,-22.19,-48.79
+6855f7c9f04c452e34471503,Modelagem preditiva,livros,105.86,6.1629915199,2021-12-14,Felipe Santos,BA,1,cartao_debito,1,-13.29,-41.71
+6855f7c9f04c452e3447140b,Iniciando em programação,livros,60.41,0.0,2020-02-14,João Souza,RJ,1,cartao_credito,1,-22.25,-42.66
+6855f7c9f04c452e3447140f,Iniciando em programação,livros,68.5,1.2318579907,2020-02-14,Felipe Santos,MG,5,cartao_credito,10,-18.1,-44.38
+6855f7c9f04c452e34471415,Ciência de dados com python,livros,72.98,1.4704045131,2021-02-14,Pedro Gomes,PE,4,cartao_credito,2,-8.38,-37.86
+6855f7c9f04c452e34471433,Iniciando em programação,livros,59.79,0.0,2020-03-14,Felipe Santos,PR,5,cartao_credito,8,-24.89,-51.55
+6855f7c9f04c452e3447146d,Iniciando em programação,livros,49.41,0.0,2021-05-14,Lucas Oliveira,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34471480,Ciência de dados com python,livros,54.6,3.5942978917,2020-06-14,Beatriz Moraes,RS,4,cartao_credito,2,-30.17,-53.5
+6855f7c9f04c452e344714bc,Iniciando em programação,livros,75.78,1.6194960896,2020-09-14,Rafael Costa,BA,5,cartao_credito,6,-13.29,-41.71
+6855f7c9f04c452e3447158d,Dashboards com Power BI,livros,51.61,10.5461283451,2021-04-15,Beatriz Moraes,BA,2,cartao_credito,1,-13.29,-41.71
+6855f7c9f04c452e34471598,Dashboards com Power BI,livros,41.88,0.0,2020-05-15,Pedro Gomes,SP,5,cartao_credito,5,-22.19,-48.79
+6855f7c9f04c452e3447159d,Dashboards com Power BI,livros,50.24,3.3621410084,2020-05-15,Bianca Santos,SP,4,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e344715bd,Iniciando em programação,livros,57.96,3.7732077835,2021-06-15,Camila Ribeiro,SP,3,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e3447151d,Modelagem preditiva,livros,101.31,5.6775786273,2021-01-15,João Souza,MG,3,boleto,1,-18.1,-44.38
+6855f7c9f04c452e344715cd,Ciência de dados com python,livros,76.85,8.572070016,2020-07-15,Thiago Silva,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471413,Ciência de dados com python,livros,57.63,3.5997286508,2020-02-14,Lucas Oliveira,SP,4,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e344715e0,Iniciando em programação,livros,88.59,14.2980945197,2022-07-15,Bruno Rodrigues,SC,1,cartao_credito,10,-27.45,-50.95
+6855f7c9f04c452e344715fe,Iniciando em programação,livros,62.27,0.0,2020-09-15,Beatriz Moraes,PR,5,cartao_credito,1,-24.89,-51.55
+6855f7c9f04c452e34471411,Modelagem preditiva,livros,93.02,14.0474215233,2020-02-14,Rafael Costa,MS,5,cartao_credito,4,-20.51,-54.54
+6855f7c9f04c452e34471439,Iniciando em programação,livros,67.63,1.185533108,2020-03-14,Bruno Rodrigues,MG,5,cartao_credito,2,-18.1,-44.38
+6855f7c9f04c452e34471447,Ciência de dados com python,livros,53.75,3.1508026105,2022-03-14,João Souza,DF,5,cartao_credito,2,-15.83,-47.86
+6855f7c9f04c452e34471491,Ciência de dados com python,livros,62.12,4.2475509501,2020-07-14,Isabella Pereira,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34471493,Dashboards com Power BI,livros,52.89,7.2962720973,2020-07-14,Beatriz Moraes,SC,5,cartao_credito,4,-27.45,-50.95
+6855f7c9f04c452e344714db,Modelagem preditiva,livros,76.09,1.6360026569,2020-10-14,Isabella Pereira,CE,5,cartao_debito,1,-5.2,-39.53
+6855f7c9f04c452e344714fd,Iniciando em programação,livros,53.62,0.0,2021-12-14,Beatriz Moraes,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e3447150e,Dashboards com Power BI,livros,46.99,0.0,2020-01-15,Pedro Gomes,RJ,1,cartao_credito,4,-22.25,-42.66
+6855f7c9f04c452e3447150a,Iniciando em programação,livros,84.24,4.7686524808,2022-12-14,Mariana Ferreira,SC,2,boleto,1,-27.45,-50.95
+6855f7c9f04c452e3447150c,Dashboards com Power BI,livros,53.8,3.395792673,2020-01-15,João Souza,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34471516,Iniciando em programação,livros,85.52,2.1381217877,2020-01-15,Felipe Santos,PB,3,cartao_debito,1,-7.28,-36.72
+6855f7c9f04c452e34471522,Iniciando em programação,livros,69.45,3.9811294751,2021-01-15,Juliana Costa,SP,1,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e3447154d,Ciência de dados com python,livros,99.48,5.5801366327,2023-02-15,Larissa Alves,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34471573,Iniciando em programação,livros,51.06,0.0,2023-03-15,Bruno Rodrigues,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471575,Ciência de dados com python,livros,78.22,4.4481055914,2023-03-15,Thiago Silva,MG,5,cartao_credito,8,-18.1,-44.38
+6855f7c9f04c452e34471594,Modelagem preditiva,livros,92.99,14.0458241135,2022-04-15,Beatriz Moraes,SP,5,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e344715a5,Iniciando em programação,livros,46.92,2.7871256579,2021-05-15,Bruno Rodrigues,RS,5,boleto,1,-30.17,-53.5
+6855f7c9f04c452e344715a9,Modelagem preditiva,livros,69.52,1.2861699222,2021-05-15,Bianca Santos,SP,5,cartao_credito,5,-22.19,-48.79
+6855f7c9f04c452e344715ea,Dashboards com Power BI,livros,54.26,6.0529980868,2021-08-15,Beatriz Moraes,ES,5,cartao_credito,1,-19.19,-40.34
+6855f7c9f04c452e34471545,Iniciando em programação,livros,56.87,0.0,2022-02-15,João Souza,CE,5,cartao_credito,2,-5.2,-39.53
+6855f7c9f04c452e34471579,Dashboards com Power BI,livros,59.2,0.0,2020-04-15,Bruno Rodrigues,DF,1,cartao_credito,4,-15.83,-47.86
+6855f7c9f04c452e344715d0,Dashboards com Power BI,livros,59.49,0.0,2020-07-15,Larissa Alves,MS,5,cartao_credito,1,-20.51,-54.54
+6855f7c9f04c452e344715f2,Ciência de dados com python,livros,72.18,1.4278069198,2022-08-15,Isabella Pereira,PE,5,cartao_debito,1,-8.38,-37.86
+6855f7c9f04c452e34471654,Ciência de dados com python,livros,95.84,5.6342961997,2021-12-15,João Souza,DF,5,cartao_credito,1,-15.83,-47.86
+6855f7c9f04c452e34471694,Modelagem preditiva,livros,82.2,4.6656795214,2021-02-16,Isabella Pereira,GO,5,cartao_credito,1,-15.98,-49.86
+6855f7c9f04c452e344716a4,Ciência de dados com python,livros,81.89,4.891500667,2020-03-16,Isabella Pereira,RJ,5,cartao_credito,3,-22.25,-42.66
+6855f7c9f04c452e34471756,Dashboards com Power BI,livros,51.3,3.0146965776,2022-09-16,Larissa Alves,SP,5,cartao_credito,10,-22.19,-48.79
+6855f7c9f04c452e34471772,Iniciando em programação,livros,45.17,3.2935817854,2022-10-16,Isabella Pereira,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34471791,Dashboards com Power BI,livros,40.73,0.0,2020-12-16,Camila Ribeiro,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34471798,Modelagem preditiva,livros,71.71,4.7581895995,2021-12-16,Juliana Costa,SP,4,cartao_credito,10,-22.19,-48.79
+6855f7c9f04c452e344716e2,Modelagem preditiva,livros,98.48,2.8282027988,2020-05-16,Larissa Alves,PE,5,cartao_credito,4,-8.38,-37.86
+6855f7c9f04c452e344716e5,Modelagem preditiva,livros,66.14,1.1061950906,2020-05-16,Pedro Gomes,MG,5,boleto,1,-18.1,-44.38
+6855f7c9f04c452e344717a2,Dashboards com Power BI,livros,35.76,0.0,2020-01-17,Bruno Rodrigues,SP,4,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471600,Iniciando em programação,livros,58.67,7.6040397088,2021-09-15,Pedro Gomes,SP,4,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e3447160e,Ciência de dados com python,livros,57.46,3.5858371267,2022-09-15,Bianca Santos,RS,5,cartao_credito,1,-30.17,-53.5
+6855f7c9f04c452e34471616,Modelagem preditiva,livros,73.96,1.5225865648,2020-10-15,Bruno Rodrigues,MG,5,cupom,1,-18.1,-44.38
+6855f7c9f04c452e3447166c,Ciência de dados com python,livros,61.04,9.4921317537,2020-01-16,Bruno Rodrigues,SP,4,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e34471691,Dashboards com Power BI,livros,48.04,2.841111385,2021-02-16,Larissa Alves,PB,5,cartao_credito,1,-7.28,-36.72
+6855f7c9f04c452e344716a8,Iniciando em programação,livros,51.88,0.0,2021-03-16,Beatriz Moraes,MG,5,boleto,1,-18.1,-44.38
+6855f7c9f04c452e344716b1,Ciência de dados com python,livros,78.83,10.4393957342,2022-03-16,Juliana Costa,SP,5,cartao_credito,5,-22.19,-48.79
+6855f7c9f04c452e344716eb,Dashboards com Power BI,livros,53.94,10.94979062,2021-05-16,Camila Ribeiro,DF,3,cartao_credito,3,-15.83,-47.86
+6855f7c9f04c452e344716f2,Ciência de dados com python,livros,76.32,4.5949149238,2022-05-16,Bianca Santos,SP,5,cartao_credito,5,-22.19,-48.79
+6855f7c9f04c452e344716f7,Iniciando em programação,livros,56.6,3.7007918749,2020-06-16,Beatriz Moraes,SP,5,cartao_credito,9,-22.19,-48.79
+6855f7c9f04c452e344716f8,Dashboards com Power BI,livros,42.19,2.5352673877,2020-06-16,Larissa Alves,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471785,Dashboards com Power BI,livros,51.59,3.0301382052,2022-11-16,Rafael Costa,RN,5,cartao_credito,4,-5.81,-36.59
+6855f7c9f04c452e34471789,Ciência de dados com python,livros,75.92,1.6269506684,2020-12-16,Thiago Silva,RS,5,cartao_credito,5,-30.17,-53.5
+6855f7c9f04c452e3447179b,Iniciando em programação,livros,79.03,5.147957578,2022-12-16,Camila Ribeiro,SP,4,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e344717a8,Dashboards com Power BI,livros,59.9,3.8765069472,2021-01-17,Lucas Oliveira,SP,5,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e344717d0,Iniciando em programação,livros,50.37,10.2376312525,2021-02-17,Felipe Santos,RJ,1,cupom,1,-22.25,-42.66
+6855f7c9f04c452e344717f0,Dashboards com Power BI,livros,58.27,0.0,2021-03-17,Thiago Silva,PE,2,cartao_credito,4,-8.38,-37.86
+6855f7c9f04c452e344717f2,Iniciando em programação,livros,51.91,3.2951558589,2022-03-17,Mariana Ferreira,PR,5,cartao_credito,1,-24.89,-51.55
+6855f7c9f04c452e3447161f,Iniciando em programação,livros,75.74,7.1967434663,2021-10-15,Camila Ribeiro,RS,4,cartao_credito,8,-30.17,-53.5
+6855f7c9f04c452e3447163a,Modelagem preditiva,livros,92.2,5.7977878002,2021-11-15,Beatriz Moraes,MG,4,cartao_credito,1,-18.1,-44.38
+6855f7c9f04c452e34471663,Modelagem preditiva,livros,109.33,3.4059326576,2022-12-15,Thiago Silva,RJ,5,boleto,1,-22.25,-42.66
+6855f7c9f04c452e3447166a,Modelagem preditiva,livros,70.46,1.3362220943,2020-01-16,João Souza,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471674,Iniciando em programação,livros,67.63,1.185533108,2021-01-16,Rafael Costa,SP,5,cartao_credito,6,-22.19,-48.79
+6855f7c9f04c452e344716c0,Dashboards com Power BI,livros,54.18,3.1736988169,2023-03-16,Beatriz Moraes,RJ,5,boleto,1,-22.25,-42.66
+6855f7c9f04c452e34471758,Iniciando em programação,livros,44.69,2.6683848666,2020-10-16,João Souza,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34471779,Modelagem preditiva,livros,66.06,4.4059114398,2021-11-16,Bruno Rodrigues,MG,5,cartao_credito,4,-18.1,-44.38
+6855f7c9f04c452e34471790,Ciência de dados com python,livros,64.72,9.8257596613,2020-12-16,Pedro Gomes,SP,3,boleto,1,-22.19,-48.79
+6855f7c9f04c452e344717ad,Dashboards com Power BI,livros,50.27,2.9598521763,2021-01-17,Lucas Oliveira,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e344717d1,Ciência de dados com python,livros,79.5,5.6322511785,2021-02-17,Juliana Costa,RJ,1,boleto,1,-22.25,-42.66
+6855f7c9f04c452e3447180e,Modelagem preditiva,livros,72.5,4.1435327995,2022-04-17,Felipe Santos,RJ,3,cartao_credito,1,-22.25,-42.66
+6855f7c9f04c452e34471827,Dashboards com Power BI,livros,37.95,9.5763036169,2022-05-17,Camila Ribeiro,SP,1,cartao_credito,10,-22.19,-48.79
+6855f7c9f04c452e34471869,Ciência de dados com python,livros,67.19,1.1621044317,2021-08-17,João Souza,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471865,Dashboards com Power BI,livros,40.62,9.9649024163,2020-08-17,Bruno Rodrigues,SP,5,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e3447190f,Iniciando em programação,livros,77.19,4.9985504563,2023-02-18,Juliana Costa,SP,4,cartao_credito,5,-22.19,-48.79
+6855f7c9f04c452e3447195d,Ciência de dados com python,livros,52.97,3.1036190536,2022-05-18,Larissa Alves,SP,5,cartao_credito,10,-22.19,-48.79
+6855f7c9f04c452e34471965,Modelagem preditiva,livros,87.02,5.5219683837,2020-06-18,Larissa Alves,ES,5,cartao_credito,8,-19.19,-40.34
+6855f7c9f04c452e34471996,Modelagem preditiva,livros,86.63,5.1390518715,2020-08-18,Bruno Rodrigues,MG,5,cartao_credito,1,-18.1,-44.38
+6855f7c9f04c452e34471997,Modelagem preditiva,livros,67.98,4.3067426393,2020-08-18,João Souza,SP,5,cartao_credito,10,-22.19,-48.79
+6855f7c9f04c452e3447191c,Dashboards com Power BI,livros,44.57,0.0,2021-03-18,Beatriz Moraes,MG,3,cartao_credito,2,-18.1,-44.38
+6855f7c9f04c452e34471957,Ciência de dados com python,livros,99.68,2.8920991887,2021-05-18,Beatriz Moraes,RJ,5,cartao_credito,7,-22.25,-42.66
+6855f7c9f04c452e34471960,Ciência de dados com python,livros,93.09,5.2455392599,2022-05-18,João Souza,PA,5,boleto,1,-3.79,-52.48
+6855f7c9f04c452e344719bd,Ciência de dados com python,livros,55.2,3.2223598448,2022-09-18,Lucas Oliveira,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e344719cd,Dashboards com Power BI,livros,38.47,5.2122280895,2021-10-18,Juliana Costa,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e344719e6,Ciência de dados com python,livros,72.07,1.4219497507,2021-11-18,Larissa Alves,SP,5,cartao_credito,5,-22.19,-48.79
+6855f7c9f04c452e344717fc,Modelagem preditiva,livros,83.97,10.713085271,2023-03-17,João Souza,BA,4,cartao_debito,1,-13.29,-41.71
+6855f7c9f04c452e344717fd,Ciência de dados com python,livros,65.52,3.7718687981,2023-03-17,Juliana Costa,CE,4,cartao_credito,1,-5.2,-39.53
+6855f7c9f04c452e34471801,Dashboards com Power BI,livros,37.7,9.8094212008,2020-04-17,Thiago Silva,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471809,Modelagem preditiva,livros,62.81,3.6332203544,2021-04-17,Beatriz Moraes,RJ,1,cartao_credito,8,-22.25,-42.66
+6855f7c9f04c452e34471837,Modelagem preditiva,livros,74.26,1.5385606623,2021-06-17,Rafael Costa,RJ,5,cartao_credito,1,-22.25,-42.66
+6855f7c9f04c452e34471884,Iniciando em programação,livros,82.09,1.9554846065,2022-09-17,Juliana Costa,ES,3,cartao_credito,1,-19.19,-40.34
+6855f7c9f04c452e34471803,Modelagem preditiva,livros,91.67,2.465590786,2020-04-17,Thiago Silva,BA,5,boleto,1,-13.29,-41.71
+6855f7c9f04c452e3447184a,Dashboards com Power BI,livros,41.98,0.0,2021-07-17,Bianca Santos,SP,5,cartao_credito,10,-22.19,-48.79
+6855f7c9f04c452e3447184f,Iniciando em programação,livros,69.28,4.2200561029,2021-07-17,João Souza,BA,5,cartao_credito,2,-13.29,-41.71
+6855f7c9f04c452e344718a3,Modelagem preditiva,livros,98.04,2.8047741225,2020-11-17,Lucas Oliveira,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e344718bb,Modelagem preditiva,livros,72.95,1.4688071033,2022-11-17,Bianca Santos,RJ,5,cartao_credito,2,-22.25,-42.66
+6855f7c9f04c452e344718c0,Dashboards com Power BI,livros,35.23,2.4021565035,2020-12-17,Felipe Santos,GO,5,cartao_credito,10,-15.98,-49.86
+6855f7c9f04c452e344718c3,Dashboards com Power BI,livros,46.37,0.0,2020-12-17,João Souza,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e344718c7,Modelagem preditiva,livros,72.21,4.3760697883,2021-12-17,Larissa Alves,MG,3,cartao_credito,1,-18.1,-44.38
+6855f7c9f04c452e344718df,Iniciando em programação,livros,48.72,11.6885797956,2020-01-18,Bianca Santos,SP,1,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e3447192b,Ciência de dados com python,livros,55.65,0.0,2023-03-18,Rafael Costa,RJ,5,cartao_credito,1,-22.25,-42.66
+6855f7c9f04c452e3447197f,Ciência de dados com python,livros,60.51,3.7530799866,2020-07-18,Isabella Pereira,RJ,3,cartao_credito,2,-22.25,-42.66
+6855f7c9f04c452e344719a5,Dashboards com Power BI,livros,52.18,10.3340083073,2022-08-18,Mariana Ferreira,MG,5,cartao_credito,4,-18.1,-44.38
+6855f7c9f04c452e344718e5,Iniciando em programação,livros,45.94,2.9772713191,2021-01-18,Lucas Oliveira,SP,5,cartao_credito,5,-22.19,-48.79
+6855f7c9f04c452e34471970,Modelagem preditiva,livros,103.68,11.7625834753,2021-06-18,Bruno Rodrigues,MA,4,cartao_credito,4,-5.42,-45.44
+6855f7c9f04c452e34471976,Modelagem preditiva,livros,87.11,2.2227845043,2022-06-18,Juliana Costa,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471982,Iniciando em programação,livros,80.12,1.8505880331,2020-07-18,Bruno Rodrigues,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34471994,Ciência de dados com python,livros,92.69,5.2242404633,2022-07-18,Thiago Silva,BA,2,cartao_credito,1,-13.29,-41.71
+6855f7c9f04c452e344719c0,Modelagem preditiva,livros,86.08,5.2705131872,2022-09-18,Larissa Alves,SP,1,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e344719d5,Ciência de dados com python,livros,63.32,0.0,2022-10-18,Camila Ribeiro,MG,5,cartao_credito,5,-18.1,-44.38
+6855f7c9f04c452e344719e2,Modelagem preditiva,livros,83.42,4.7249899477,2021-11-18,Camila Ribeiro,SP,5,cartao_credito,5,-22.19,-48.79
+6855f7c9f04c452e34471a3a,Ciência de dados com python,livros,65.93,4.0416786811,2023-02-19,Felipe Santos,SP,3,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471a4e,Modelagem preditiva,livros,62.1,9.6862525433,2023-03-19,João Souza,SP,3,cartao_credito,6,-22.19,-48.79
+6855f7c9f04c452e34471a54,Ciência de dados com python,livros,73.36,4.5932114541,2020-04-19,Larissa Alves,MG,1,cartao_credito,8,-18.1,-44.38
+6855f7c9f04c452e34471a80,Dashboards com Power BI,livros,45.14,2.9346737258,2021-05-19,Pedro Gomes,BA,5,cartao_credito,1,-13.29,-41.71
+6855f7c9f04c452e34471a8e,Iniciando em programação,livros,67.8,3.8989228424,2020-06-19,Beatriz Moraes,SP,2,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e34471a3b,Iniciando em programação,livros,62.46,0.0,2020-03-19,Bruno Rodrigues,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34471a57,Iniciando em programação,livros,82.94,4.9474100081,2020-04-19,Mariana Ferreira,MG,5,boleto,1,-18.1,-44.38
+6855f7c9f04c452e34471a84,Dashboards com Power BI,livros,51.31,0.0,2022-05-19,Larissa Alves,PR,4,cartao_credito,3,-24.89,-51.55
+6855f7c9f04c452e34471aa2,Iniciando em programação,livros,43.78,2.6199301043,2020-07-19,Isabella Pereira,SC,5,boleto,1,-27.45,-50.95
+6855f7c9f04c452e34471abe,Modelagem preditiva,livros,103.81,3.112009264,2020-08-19,Rafael Costa,RJ,4,boleto,1,-22.25,-42.66
+6855f7c9f04c452e34471ae0,Dashboards com Power BI,livros,58.68,0.0,2020-10-19,Lucas Oliveira,AL,2,cartao_credito,2,-9.62,-36.82
+6855f7c9f04c452e34471b00,Iniciando em programação,livros,78.08,4.4406510126,2022-11-19,Bruno Rodrigues,SC,5,cartao_credito,7,-27.45,-50.95
+6855f7c9f04c452e34471b21,Modelagem preditiva,livros,84.59,5.1911751697,2020-01-20,Camila Ribeiro,SP,3,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471b7b,Modelagem preditiva,livros,63.15,4.2509626943,2023-03-20,Felipe Santos,GO,4,cartao_credito,1,-15.98,-49.86
+6855f7c9f04c452e34471bad,Ciência de dados com python,livros,78.08,4.4406510126,2022-05-20,Bruno Rodrigues,SP,4,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34471b4f,Iniciando em programação,livros,87.06,2.2201221548,2023-02-20,Bruno Rodrigues,RJ,4,cartao_credito,1,-22.25,-42.66
+6855f7c9f04c452e34471b99,Iniciando em programação,livros,85.42,5.0794625473,2022-04-20,Isabella Pereira,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e344719eb,Modelagem preditiva,livros,82.51,16.0394374802,2022-11-18,Larissa Alves,SP,3,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471a6f,Dashboards com Power BI,livros,50.06,2.948670308,2022-04-19,Bianca Santos,SP,5,cartao_credito,10,-22.19,-48.79
+6855f7c9f04c452e34471a73,Modelagem preditiva,livros,62.52,6.4928182374,2020-05-19,Beatriz Moraes,SP,1,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e34471a75,Dashboards com Power BI,livros,53.48,3.1307750193,2020-05-19,Camila Ribeiro,SC,1,boleto,1,-27.45,-50.95
+6855f7c9f04c452e34471a00,Iniciando em programação,livros,41.3,3.0875159279,2021-12-18,Rafael Costa,SP,4,cartao_credito,7,-22.19,-48.79
+6855f7c9f04c452e34471a10,Dashboards com Power BI,livros,56.41,3.2924396082,2021-01-19,Bruno Rodrigues,RS,5,cartao_credito,7,-30.17,-53.5
+6855f7c9f04c452e34471a1a,Modelagem preditiva,livros,67.63,3.8842199504,2023-01-19,Lucas Oliveira,ES,4,cupom,1,-19.19,-40.34
+6855f7c9f04c452e34471a48,Modelagem preditiva,livros,86.12,2.1700699827,2022-03-19,Isabella Pereira,SP,5,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e34471ab8,Ciência de dados com python,livros,72.34,1.4363264385,2022-07-19,Lucas Oliveira,SP,5,cartao_credito,8,-22.19,-48.79
+6855f7c9f04c452e34471b04,Iniciando em programação,livros,62.64,3.8664960787,2022-11-19,Camila Ribeiro,SC,3,cartao_credito,1,-27.45,-50.95
+6855f7c9f04c452e34471b2f,Dashboards com Power BI,livros,44.45,2.6499546852,2022-01-20,Bruno Rodrigues,SP,4,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34471b37,Modelagem preditiva,livros,64.08,3.6951931302,2023-01-20,João Souza,SC,4,cartao_credito,2,-27.45,-50.95
+6855f7c9f04c452e34471b75,Modelagem preditiva,livros,71.75,1.4049107134,2023-03-20,Isabella Pereira,RJ,1,cartao_credito,10,-22.25,-42.66
+6855f7c9f04c452e34471b94,Dashboards com Power BI,livros,45.5,0.0,2021-04-20,Larissa Alves,SC,5,cupom,1,-27.45,-50.95
+6855f7c9f04c452e34471ae1,Ciência de dados com python,livros,94.17,12.8123203075,2021-10-19,Bianca Santos,CE,4,cartao_credito,5,-5.2,-39.53
+6855f7c9f04c452e34471ae6,Iniciando em programação,livros,40.4,0.0,2022-10-19,Isabella Pereira,RJ,5,cartao_credito,1,-22.25,-42.66
+6855f7c9f04c452e34471afc,Dashboards com Power BI,livros,39.8,0.0,2021-11-19,Camila Ribeiro,GO,5,cartao_credito,1,-15.98,-49.86
+6855f7c9f04c452e34471b01,Ciência de dados com python,livros,85.14,2.1178879309,2022-11-19,Isabella Pereira,SC,3,cartao_credito,8,-27.45,-50.95
+6855f7c9f04c452e34471b3b,Modelagem preditiva,livros,67.12,3.8627148881,2020-02-20,Beatriz Moraes,SC,5,cartao_credito,4,-27.45,-50.95
+6855f7c9f04c452e34471b42,Modelagem preditiva,livros,69.42,1.280845223,2021-02-20,Larissa Alves,RJ,5,cartao_credito,10,-22.25,-42.66
+6855f7c9f04c452e34471b46,Dashboards com Power BI,livros,39.81,2.6508672606,2021-02-20,Camila Ribeiro,PE,1,cartao_credito,5,-8.38,-37.86
+6855f7c9f04c452e34471b69,Ciência de dados com python,livros,86.94,4.9124193581,2021-03-20,Bianca Santos,SP,5,cupom,1,-22.19,-48.79
+6855f7c9f04c452e34471b70,Iniciando em programação,livros,81.58,1.9283286408,2022-03-20,Mariana Ferreira,SP,4,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471ba3,Iniciando em programação,livros,83.69,12.53388862,2020-05-20,Rafael Costa,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471bf7,Iniciando em programação,livros,69.23,4.2173937533,2021-08-20,Camila Ribeiro,MG,3,cartao_credito,1,-18.1,-44.38
+6855f7c9f04c452e34471c24,Iniciando em programação,livros,63.4,3.6646360794,2020-10-20,Pedro Gomes,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34471c3a,Ciência de dados com python,livros,81.48,5.0255770258,2020-11-20,Isabella Pereira,RJ,4,cartao_credito,3,-22.25,-42.66
+6855f7c9f04c452e34471c7f,Iniciando em programação,livros,87.49,2.2430183611,2021-01-21,Pedro Gomes,SP,5,cartao_credito,5,-22.19,-48.79
+6855f7c9f04c452e34471c80,Ciência de dados com python,livros,54.14,0.0,2021-01-21,Felipe Santos,PR,5,cartao_credito,5,-24.89,-51.55
+6855f7c9f04c452e34471cd1,Iniciando em programação,livros,76.65,4.3701587181,2020-04-21,Larissa Alves,RJ,5,cartao_credito,5,-22.25,-42.66
+6855f7c9f04c452e34471cd5,Iniciando em programação,livros,41.53,2.7424520861,2020-04-21,Felipe Santos,MG,5,cartao_credito,1,-18.1,-44.38
+6855f7c9f04c452e34471d3e,Modelagem preditiva,livros,64.4,4.8282216053,2020-08-21,Mariana Ferreira,SP,3,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471d91,Ciência de dados com python,livros,57.04,0.0,2021-11-21,Lucas Oliveira,MG,5,cartao_credito,1,-18.1,-44.38
+6855f7c9f04c452e34471d94,Iniciando em programação,livros,79.02,4.8945894265,2022-11-21,Mariana Ferreira,SP,4,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e34471c5f,Iniciando em programação,livros,61.24,3.7871107549,2021-12-20,Beatriz Moraes,MG,5,boleto,1,-18.1,-44.38
+6855f7c9f04c452e34471c6e,Iniciando em programação,livros,45.33,8.6556215157,2020-01-21,Lucas Oliveira,RJ,4,cartao_credito,4,-22.25,-42.66
+6855f7c9f04c452e34471c75,Modelagem preditiva,livros,72.17,4.1259612922,2020-01-21,Felipe Santos,PR,1,cartao_credito,1,-24.89,-51.55
+6855f7c9f04c452e34471c78,Iniciando em programação,livros,45.31,0.0,2020-01-21,Lucas Oliveira,SP,5,cartao_credito,4,-22.19,-48.79
+6855f7c9f04c452e34471c7e,Modelagem preditiva,livros,99.5,9.7781143756,2021-01-21,Bianca Santos,SP,5,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e34471cc8,Modelagem preditiva,livros,108.98,6.3339616693,2023-03-21,Larissa Alves,SP,5,cartao_credito,5,-22.19,-48.79
+6855f7c9f04c452e34471cd4,Ciência de dados com python,livros,51.64,11.844061011,2020-04-21,Juliana Costa,PR,5,cartao_credito,10,-24.89,-51.55
+6855f7c9f04c452e34471cd9,Modelagem preditiva,livros,104.25,6.2380110245,2020-04-21,Bruno Rodrigues,PB,4,cartao_credito,9,-7.28,-36.72
+6855f7c9f04c452e34471bde,Dashboards com Power BI,livros,58.95,0.0,2021-07-20,Bruno Rodrigues,SP,5,cartao_credito,5,-22.19,-48.79
+6855f7c9f04c452e34471c04,Ciência de dados com python,livros,63.91,4.0900273835,2020-09-20,Mariana Ferreira,RS,3,cupom,1,-30.17,-53.5
+6855f7c9f04c452e34471c1f,Dashboards com Power BI,livros,47.48,2.8112930697,2020-10-20,Lucas Oliveira,DF,4,boleto,1,-15.83,-47.86
+6855f7c9f04c452e34471c74,Modelagem preditiva,livros,80.45,14.789822953,2020-01-21,Thiago Silva,MG,5,cartao_credito,4,-18.1,-44.38
+6855f7c9f04c452e34471d28,Ciência de dados com python,livros,66.51,15.1874856147,2020-07-21,Mariana Ferreira,SP,4,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34471d88,Dashboards com Power BI,livros,50.3,2.961449586,2020-11-21,Thiago Silva,RS,5,boleto,1,-30.17,-53.5
+6855f7c9f04c452e34471da4,Ciência de dados com python,livros,74.64,1.5587945191,2020-12-21,Larissa Alves,SP,3,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471db4,Dashboards com Power BI,livros,44.84,3.2760102782,2020-01-22,Beatriz Moraes,MS,5,boleto,1,-20.51,-54.54
+6855f7c9f04c452e34471ccc,Ciência de dados com python,livros,83.87,2.0502642516,2023-03-21,Rafael Costa,SC,1,cartao_credito,10,-27.45,-50.95
+6855f7c9f04c452e34471cf7,Iniciando em programação,livros,74.13,4.2303253958,2021-05-21,Felipe Santos,RS,5,boleto,1,-30.17,-53.5
+6855f7c9f04c452e34471d1e,Ciência de dados com python,livros,88.66,5.0096550871,2020-07-21,Juliana Costa,SP,3,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34471d25,Modelagem preditiva,livros,98.65,2.8372547874,2020-07-21,Rafael Costa,RJ,1,boleto,1,-22.25,-42.66
+6855f7c9f04c452e34471d2d,Modelagem preditiva,livros,76.8,1.673808021,2021-07-21,Thiago Silva,RJ,5,cupom,1,-22.25,-42.66
+6855f7c9f04c452e34471d3b,Modelagem preditiva,livros,83.98,4.754808263,2020-08-21,Mariana Ferreira,SP,5,cartao_credito,7,-22.19,-48.79
+6855f7c9f04c452e34471d42,Ciência de dados com python,livros,70.63,10.1404493816,2020-08-21,Rafael Costa,DF,5,cartao_credito,1,-15.83,-47.86
+6855f7c9f04c452e34471d50,Ciência de dados com python,livros,62.56,0.0,2022-08-21,Beatriz Moraes,SP,4,cartao_credito,8,-22.19,-48.79
+6855f7c9f04c452e34471d7e,Modelagem preditiva,livros,65.73,1.084363824,2022-10-21,Beatriz Moraes,MG,5,cartao_credito,10,-18.1,-44.38
+6855f7c9f04c452e34471d7f,Dashboards com Power BI,livros,35.61,2.8359732029,2022-10-21,Bruno Rodrigues,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471d90,Iniciando em programação,livros,57.26,4.4480380854,2021-11-21,Mariana Ferreira,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34471d98,Ciência de dados com python,livros,76.68,4.6092443051,2022-11-21,Isabella Pereira,GO,5,cartao_credito,8,-15.98,-49.86
+6855f7c9f04c452e34471c46,Ciência de dados com python,livros,71.06,14.2898337019,2022-11-20,Pedro Gomes,SP,1,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471c6c,Ciência de dados com python,livros,82.08,4.9016175954,2020-01-21,Felipe Santos,PE,2,cartao_credito,5,-8.38,-37.86
+6855f7c9f04c452e34471c82,Dashboards com Power BI,livros,55.61,3.2498420149,2022-01-21,Bruno Rodrigues,RS,5,cartao_credito,1,-30.17,-53.5
+6855f7c9f04c452e34471cdd,Modelagem preditiva,livros,61.02,3.5322573359,2021-04-21,Isabella Pereira,SP,4,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471d24,Dashboards com Power BI,livros,46.56,5.6429962515,2020-07-21,João Souza,AM,5,cartao_credito,3,-3.47,-65.1
+6855f7c9f04c452e34471d6b,Dashboards com Power BI,livros,49.79,0.0,2022-09-21,Lucas Oliveira,SP,5,cupom,1,-22.19,-48.79
+6855f7c9f04c452e34471d82,Dashboards com Power BI,livros,47.99,13.0614256058,2020-11-21,Bianca Santos,SP,5,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e34471d8a,Dashboards com Power BI,livros,53.0,3.3483555441,2020-11-21,Pedro Gomes,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471dbc,Dashboards com Power BI,livros,38.53,2.3403833984,2021-01-22,Larissa Alves,RJ,1,cupom,1,-22.25,-42.66
+6855f7c9f04c452e34471dd0,Modelagem preditiva,livros,89.19,5.6889470126,2023-01-22,Beatriz Moraes,MG,2,cartao_credito,8,-18.1,-44.38
+6855f7c9f04c452e34471dd7,Ciência de dados com python,livros,55.52,3.482537963,2020-02-22,Felipe Santos,SP,5,cartao_credito,10,-22.19,-48.79
+6855f7c9f04c452e34471e11,Ciência de dados com python,livros,60.39,4.1040009975,2023-03-22,Isabella Pereira,MS,5,cartao_credito,5,-20.51,-54.54
+6855f7c9f04c452e34471e92,Iniciando em programação,livros,67.37,1.1716888902,2022-08-22,Pedro Gomes,RS,5,cartao_credito,10,-30.17,-53.5
+6855f7c9f04c452e34471ef8,Dashboards com Power BI,livros,48.1,10.3631899134,2021-01-23,Juliana Costa,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34471f07,Dashboards com Power BI,livros,59.62,3.4577115477,2022-01-23,Juliana Costa,SP,2,cupom,1,-22.19,-48.79
+6855f7c9f04c452e34471f19,Iniciando em programação,livros,40.64,3.0523729135,2020-02-23,João Souza,RJ,5,cartao_credito,2,-22.25,-42.66
+6855f7c9f04c452e34471f20,Ciência de dados com python,livros,64.2,1.0028959269,2021-02-23,Beatriz Moraes,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471f8d,Ciência de dados com python,livros,85.08,4.8133799537,2021-06-23,Thiago Silva,RJ,3,cartao_credito,10,-22.25,-42.66
+6855f7c9f04c452e34471f90,Dashboards com Power BI,livros,42.38,2.9436196544,2022-06-23,Bianca Santos,SC,5,cartao_credito,1,-27.45,-50.95
+6855f7c9f04c452e34471f94,Ciência de dados com python,livros,81.61,7.5093033069,2022-06-23,Larissa Alves,DF,5,cartao_credito,1,-15.83,-47.86
+6855f7c9f04c452e34471fab,Dashboards com Power BI,livros,49.08,2.8964882563,2022-07-23,Rafael Costa,SP,4,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e34471e54,Modelagem preditiva,livros,69.51,3.9899751981,2021-06-22,Thiago Silva,DF,3,cartao_credito,1,-15.83,-47.86
+6855f7c9f04c452e34471ded,Iniciando em programação,livros,60.11,3.7269416544,2023-02-22,Juliana Costa,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34471df5,Dashboards com Power BI,livros,40.27,2.6753608767,2020-03-22,Larissa Alves,SP,4,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e34471e52,Modelagem preditiva,livros,85.44,4.8325488707,2020-06-22,Bianca Santos,MG,5,cartao_credito,3,-18.1,-44.38
+6855f7c9f04c452e34471e58,Ciência de dados com python,livros,64.01,0.0,2021-06-22,João Souza,MG,4,cartao_credito,6,-18.1,-44.38
+6855f7c9f04c452e34471ec2,Modelagem preditiva,livros,62.96,4.7515459375,2021-10-22,Larissa Alves,MG,4,cartao_credito,1,-18.1,-44.38
+6855f7c9f04c452e34471ec5,Dashboards com Power BI,livros,35.28,8.4241790464,2022-10-22,Lucas Oliveira,MG,4,boleto,1,-18.1,-44.38
+6855f7c9f04c452e34471dd9,Dashboards com Power BI,livros,50.11,0.0,2020-02-22,Larissa Alves,MG,4,cartao_credito,2,-18.1,-44.38
+6855f7c9f04c452e34471e01,Iniciando em programação,livros,88.51,2.2973302926,2022-03-22,Rafael Costa,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471e56,Dashboards com Power BI,livros,43.01,10.0921627262,2021-06-22,Larissa Alves,SP,5,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e34471e6e,Modelagem preditiva,livros,83.92,4.757264347,2021-07-22,Camila Ribeiro,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34471eca,Ciência de dados com python,livros,85.05,5.2156687858,2020-11-22,Bruno Rodrigues,RJ,5,cartao_credito,1,-22.25,-42.66
+6855f7c9f04c452e34471ecd,Ciência de dados com python,livros,95.25,5.5980409391,2020-11-22,Thiago Silva,SP,2,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e34471f24,Dashboards com Power BI,livros,36.59,0.0,2021-02-23,Mariana Ferreira,MG,5,cartao_credito,5,-18.1,-44.38
+6855f7c9f04c452e34471f47,Iniciando em programação,livros,84.77,2.098186544,2020-03-23,Camila Ribeiro,AL,5,cartao_credito,5,-9.62,-36.82
+6855f7c9f04c452e34471f50,Ciência de dados com python,livros,84.78,5.0405449371,2022-03-23,Isabella Pereira,MG,5,cartao_credito,10,-18.1,-44.38
+6855f7c9f04c452e34471f51,Dashboards com Power BI,livros,36.15,5.088695069,2022-03-23,Felipe Santos,SP,5,cartao_credito,6,-22.19,-48.79
+6855f7c9f04c452e34471f73,Iniciando em programação,livros,69.02,4.6149551921,2021-05-23,Lucas Oliveira,MG,5,cartao_credito,1,-18.1,-44.38
+6855f7c9f04c452e34471f97,Ciência de dados com python,livros,51.8,3.6466093397,2020-07-23,Juliana Costa,SP,1,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e34471fbc,Modelagem preditiva,livros,64.73,7.9267164778,2021-08-23,Isabella Pereira,RJ,5,cartao_credito,10,-22.25,-42.66
+6855f7c9f04c452e34471efb,Iniciando em programação,livros,67.79,1.1940526267,2021-01-23,Pedro Gomes,GO,5,cartao_credito,1,-15.98,-49.86
+6855f7c9f04c452e34471f00,Dashboards com Power BI,livros,36.07,0.0,2021-01-23,Mariana Ferreira,RJ,5,boleto,1,-22.25,-42.66
+6855f7c9f04c452e34471f2d,Ciência de dados com python,livros,84.13,5.0107739281,2022-02-23,Juliana Costa,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34471f53,Dashboards com Power BI,livros,52.05,0.0,2022-03-23,Lucas Oliveira,PE,3,cartao_credito,3,-8.38,-37.86
+6855f7c9f04c452e34471f9f,Iniciando em programação,livros,64.27,6.5860004727,2020-07-23,Bianca Santos,RJ,5,boleto,1,-22.25,-42.66
+6855f7c9f04c452e34471fa1,Ciência de dados com python,livros,61.59,3.8105867375,2021-07-23,Pedro Gomes,MG,5,cartao_credito,1,-18.1,-44.38
+6855f7c9f04c452e34471fa3,Modelagem preditiva,livros,72.68,4.1531172579,2021-07-23,Bruno Rodrigues,RJ,1,cartao_credito,2,-22.25,-42.66
+6855f7c9f04c452e34471fca,Ciência de dados com python,livros,86.5,5.4942799481,2022-08-23,Camila Ribeiro,DF,1,cartao_credito,10,-15.83,-47.86
+6855f7c9f04c452e34471fcf,Dashboards com Power BI,livros,49.18,0.0,2020-09-23,Bruno Rodrigues,SP,5,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e34471fe2,Modelagem preditiva,livros,105.71,6.5171546566,2021-09-23,Juliana Costa,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e3447204e,Dashboards com Power BI,livros,37.55,2.9392723666,2021-01-24,Felipe Santos,SP,5,cartao_credito,4,-22.19,-48.79
+6855f7c9f04c452e34472070,Ciência de dados com python,livros,68.8,3.952169834,2022-02-24,Beatriz Moraes,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e344720ab,Iniciando em programação,livros,72.84,1.4629499343,2021-04-24,Bianca Santos,SP,3,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e344720c6,Modelagem preditiva,livros,93.95,2.5869939269,2021-05-24,Juliana Costa,SP,5,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e344720f1,Ciência de dados com python,livros,72.22,1.4299367995,2021-07-24,Mariana Ferreira,MG,5,cartao_credito,2,-18.1,-44.38
+6855f7c9f04c452e34472133,Iniciando em programação,livros,72.08,4.1268199665,2022-10-24,Mariana Ferreira,MG,4,cartao_credito,12,-18.1,-44.38
+6855f7c9f04c452e34472189,Dashboards com Power BI,livros,36.78,2.489528876,2021-01-25,Mariana Ferreira,GO,1,cartao_credito,4,-15.98,-49.86
+6855f7c9f04c452e34472190,Iniciando em programação,livros,76.83,4.6220708895,2022-01-25,Thiago Silva,SP,5,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e344721a4,Dashboards com Power BI,livros,58.85,0.0,2021-02-25,Rafael Costa,RJ,4,cartao_credito,4,-22.25,-42.66
+6855f7c9f04c452e34471fde,Dashboards com Power BI,livros,35.04,5.0295909083,2021-09-23,Isabella Pereira,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e3447202e,Modelagem preditiva,livros,74.49,4.2551452162,2021-12-23,Lucas Oliveira,SP,1,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34472083,Ciência de dados com python,livros,81.49,4.8653623347,2020-03-24,Larissa Alves,RJ,1,cartao_credito,10,-22.25,-42.66
+6855f7c9f04c452e344720a8,Dashboards com Power BI,livros,39.05,2.3624209306,2021-04-24,Isabella Pereira,RJ,4,cartao_credito,6,-22.25,-42.66
+6855f7c9f04c452e344720c1,Modelagem preditiva,livros,84.26,5.0128565014,2021-05-24,João Souza,RN,4,cartao_credito,2,-5.81,-36.59
+6855f7c9f04c452e3447214b,Ciência de dados com python,livros,91.62,5.1672661823,2021-11-24,Mariana Ferreira,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34472159,Iniciando em programação,livros,43.81,3.2211658768,2020-12-24,Bruno Rodrigues,RS,5,cartao_credito,4,-30.17,-53.5
+6855f7c9f04c452e3447215a,Iniciando em programação,livros,69.36,5.3460056894,2020-12-24,Isabella Pereira,RJ,5,cartao_credito,2,-22.25,-42.66
+6855f7c9f04c452e34471fcd,Modelagem preditiva,livros,104.89,3.1695160149,2020-09-23,Larissa Alves,RJ,5,cupom,1,-22.25,-42.66
+6855f7c9f04c452e34471fe1,Dashboards com Power BI,livros,54.03,0.0,2021-09-23,Rafael Costa,MG,3,cartao_credito,6,-18.1,-44.38
+6855f7c9f04c452e34472031,Ciência de dados com python,livros,57.26,6.2127390616,2022-12-23,Lucas Oliveira,MG,5,boleto,1,-18.1,-44.38
+6855f7c9f04c452e344720d1,Modelagem preditiva,livros,84.56,12.5802135027,2022-05-24,Mariana Ferreira,RJ,5,cartao_credito,10,-22.25,-42.66
+6855f7c9f04c452e344720da,Modelagem preditiva,livros,94.35,11.2657890437,2020-06-24,Larissa Alves,SP,4,cartao_credito,6,-22.19,-48.79
+6855f7c9f04c452e344720e3,Ciência de dados com python,livros,66.7,1.1360134059,2022-06-24,Isabella Pereira,RJ,1,cartao_credito,2,-22.25,-42.66
+6855f7c9f04c452e344720fe,Modelagem preditiva,livros,98.74,2.8420470166,2020-08-24,Felipe Santos,SP,5,cartao_debito,1,-22.19,-48.79
+6855f7c9f04c452e34472102,Iniciando em programação,livros,43.28,0.0,2021-08-24,Pedro Gomes,MG,1,cartao_credito,2,-18.1,-44.38
+6855f7c9f04c452e34472139,Iniciando em programação,livros,60.34,3.4960493816,2022-10-24,João Souza,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34472182,Iniciando em programação,livros,69.96,1.3095985985,2020-01-25,Felipe Santos,PR,5,boleto,1,-24.89,-51.55
+6855f7c9f04c452e3447218d,Modelagem preditiva,livros,71.95,10.2107354105,2022-01-25,Thiago Silva,PE,3,boleto,1,-8.38,-37.86
+6855f7c9f04c452e34471ff4,Modelagem preditiva,livros,95.16,13.1446316136,2020-10-23,João Souza,SP,5,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e3447200a,Modelagem preditiva,livros,70.29,1.3271701057,2020-11-23,Juliana Costa,PR,4,boleto,1,-24.89,-51.55
+6855f7c9f04c452e34472014,Modelagem preditiva,livros,76.93,1.6807301299,2021-11-23,Lucas Oliveira,MG,3,boleto,1,-18.1,-44.38
+6855f7c9f04c452e34472015,Iniciando em programação,livros,62.08,3.8366777634,2021-11-23,Felipe Santos,MG,4,cartao_credito,1,-18.1,-44.38
+6855f7c9f04c452e3447203f,Modelagem preditiva,livros,103.49,3.0949702267,2020-01-24,Rafael Costa,RS,1,boleto,1,-30.17,-53.5
+6855f7c9f04c452e34472044,Dashboards com Power BI,livros,57.25,4.7011846211,2021-01-24,Rafael Costa,CE,2,cartao_credito,5,-5.2,-39.53
+6855f7c9f04c452e34472049,Dashboards com Power BI,livros,54.64,0.0,2021-01-24,Bruno Rodrigues,RJ,4,cartao_credito,1,-22.25,-42.66
+6855f7c9f04c452e34472069,Modelagem preditiva,livros,63.99,0.0,2021-02-24,Mariana Ferreira,RS,3,cartao_credito,2,-30.17,-53.5
+6855f7c9f04c452e34472092,Modelagem preditiva,livros,72.25,1.4315342092,2022-03-24,Beatriz Moraes,SP,5,cartao_credito,5,-22.19,-48.79
+6855f7c9f04c452e344720df,Modelagem preditiva,livros,83.66,2.0390823833,2021-06-24,Rafael Costa,MG,1,boleto,1,-18.1,-44.38
+6855f7c9f04c452e344720e4,Modelagem preditiva,livros,102.08,6.3238680771,2022-06-24,Beatriz Moraes,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e344720e9,Dashboards com Power BI,livros,50.5,0.0,2020-07-24,Bruno Rodrigues,SP,5,cartao_credito,5,-22.19,-48.79
+6855f7c9f04c452e3447210f,Iniciando em programação,livros,53.7,3.3904679739,2020-09-24,Beatriz Moraes,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34472124,Dashboards com Power BI,livros,48.48,0.0,2020-10-24,Lucas Oliveira,SP,2,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e3447212e,Iniciando em programação,livros,83.25,2.0172511168,2021-10-24,Thiago Silva,PR,5,cartao_credito,2,-24.89,-51.55
+6855f7c9f04c452e34472209,Dashboards com Power BI,livros,52.71,4.2057642736,2020-05-25,Juliana Costa,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e344722d0,Iniciando em programação,livros,45.42,3.1054905089,2021-01-26,Bruno Rodrigues,RJ,4,cartao_credito,10,-22.25,-42.66
+6855f7c9f04c452e34472336,Modelagem preditiva,livros,87.66,5.5560464583,2022-04-26,Felipe Santos,MG,1,cartao_credito,3,-18.1,-44.38
+6855f7c9f04c452e3447233e,Dashboards com Power BI,livros,59.68,0.0,2022-04-26,Thiago Silva,SP,4,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e34472370,Ciência de dados com python,livros,66.41,3.8249095241,2020-07-26,Bianca Santos,BA,5,cartao_credito,3,-13.29,-41.71
+6855f7c9f04c452e3447238f,Iniciando em programação,livros,86.73,5.1492161063,2022-08-26,Camila Ribeiro,SP,1,cartao_credito,5,-22.19,-48.79
+6855f7c9f04c452e344721c9,Dashboards com Power BI,livros,58.19,0.0,2020-03-25,Rafael Costa,DF,5,boleto,1,-15.83,-47.86
+6855f7c9f04c452e344721d7,Dashboards com Power BI,livros,49.46,0.0,2022-03-25,Juliana Costa,RJ,3,cartao_credito,5,-22.25,-42.66
+6855f7c9f04c452e3447220e,Modelagem preditiva,livros,74.88,1.5715737971,2021-05-25,Juliana Costa,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e3447224a,Dashboards com Power BI,livros,46.32,2.7495265595,2020-08-25,Mariana Ferreira,SP,5,cartao_credito,4,-22.19,-48.79
+6855f7c9f04c452e34472265,Modelagem preditiva,livros,97.35,12.9856042495,2020-09-25,Juliana Costa,MG,4,cartao_credito,1,-18.1,-44.38
+6855f7c9f04c452e344722a6,Modelagem preditiva,livros,106.81,3.2717502388,2022-11-25,Juliana Costa,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e344722ac,Ciência de dados com python,livros,63.46,0.0,2022-11-25,Felipe Santos,PB,5,cupom,1,-7.28,-36.72
+6855f7c9f04c452e344722d1,Iniciando em programação,livros,82.27,4.9117345238,2021-01-26,Rafael Costa,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e344722ed,Iniciando em programação,livros,89.81,5.3132168404,2021-02-26,Bruno Rodrigues,MG,5,cartao_credito,5,-18.1,-44.38
+6855f7c9f04c452e344722fb,Modelagem preditiva,livros,85.82,2.1540958852,2022-02-26,Lucas Oliveira,SP,2,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e3447236f,Modelagem preditiva,livros,102.25,8.6083212135,2020-07-26,Camila Ribeiro,MG,5,cartao_credito,1,-18.1,-44.38
+6855f7c9f04c452e344721cc,Modelagem preditiva,livros,92.77,5.2228493191,2021-03-25,Mariana Ferreira,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e344721d0,Ciência de dados com python,livros,83.92,2.0529266011,2021-03-25,Lucas Oliveira,MG,3,boleto,1,-18.1,-44.38
+6855f7c9f04c452e344721d8,Modelagem preditiva,livros,85.17,5.2220584248,2022-03-25,Camila Ribeiro,SP,4,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e3447221c,Ciência de dados com python,livros,94.06,8.1722283523,2022-05-25,Isabella Pereira,GO,1,cartao_credito,8,-15.98,-49.86
+6855f7c9f04c452e3447222a,Ciência de dados com python,livros,60.74,0.0,2021-06-25,Felipe Santos,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34472333,Modelagem preditiva,livros,87.34,2.2350313124,2021-04-26,Lucas Oliveira,SP,3,cartao_credito,8,-22.19,-48.79
+6855f7c9f04c452e344723e0,Modelagem preditiva,livros,103.85,3.1141391437,2021-12-26,João Souza,RJ,1,boleto,1,-22.25,-42.66
+6855f7c9f04c452e34472434,Modelagem preditiva,livros,72.93,1.4677421635,2023-02-27,Bianca Santos,SC,5,cartao_credito,1,-27.45,-50.95
+6855f7c9f04c452e34472442,Ciência de dados com python,livros,58.27,3.3914790125,2021-03-27,Bianca Santos,SP,1,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34472459,Dashboards com Power BI,livros,48.56,0.0,2023-03-27,Thiago Silva,CE,1,cartao_credito,1,-5.2,-39.53
+6855f7c9f04c452e344724be,Iniciando em programação,livros,77.57,5.0187843131,2020-08-27,Felipe Santos,SP,5,cartao_credito,10,-22.19,-48.79
+6855f7c9f04c452e344724f7,Modelagem preditiva,livros,70.14,4.0235208028,2021-10-27,Juliana Costa,RJ,5,cartao_credito,4,-22.25,-42.66
+6855f7c9f04c452e3447250e,Ciência de dados com python,livros,59.0,0.0,2020-11-27,Isabella Pereira,SP,5,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e3447254a,Iniciando em programação,livros,70.34,4.0285192976,2021-01-28,Mariana Ferreira,PI,1,cartao_debito,1,-6.6,-42.28
+6855f7c9f04c452e34472593,Iniciando em programação,livros,88.87,7.8958764659,2022-03-28,Lucas Oliveira,ES,5,cartao_credito,10,-19.19,-40.34
+6855f7c9f04c452e344723b8,Modelagem preditiva,livros,63.13,3.8925871046,2021-10-26,Felipe Santos,MG,5,cartao_credito,1,-18.1,-44.38
+6855f7c9f04c452e344723da,Modelagem preditiva,livros,74.15,5.3473797734,2020-12-26,Larissa Alves,DF,5,cartao_credito,1,-15.83,-47.86
+6855f7c9f04c452e344723ed,Ciência de dados com python,livros,81.27,1.9118220734,2022-12-26,Juliana Costa,RJ,5,cartao_credito,4,-22.25,-42.66
+6855f7c9f04c452e34472402,Iniciando em programação,livros,46.96,0.0,2022-01-27,João Souza,RS,5,cupom,1,-30.17,-53.5
+6855f7c9f04c452e3447248c,Dashboards com Power BI,livros,42.15,0.0,2020-06-27,Camila Ribeiro,MG,5,boleto,1,-18.1,-44.38
+6855f7c9f04c452e344724c6,Ciência de dados com python,livros,82.73,1.9895626811,2021-08-27,Bianca Santos,SP,5,cartao_debito,1,-22.19,-48.79
+6855f7c9f04c452e344724d0,Dashboards com Power BI,livros,55.86,0.0,2022-08-27,Isabella Pereira,MA,1,cartao_credito,1,-5.42,-45.44
+6855f7c9f04c452e344724e4,Dashboards com Power BI,livros,48.83,3.1311551248,2021-09-27,Camila Ribeiro,SP,1,cartao_credito,6,-22.19,-48.79
+6855f7c9f04c452e3447251c,Ciência de dados com python,livros,54.57,0.0,2020-12-27,Beatriz Moraes,SP,5,cartao_credito,6,-22.19,-48.79
+6855f7c9f04c452e34472530,Modelagem preditiva,livros,83.1,7.5886413244,2021-12-27,Larissa Alves,SP,4,cupom,1,-22.19,-48.79
+6855f7c9f04c452e34472538,Ciência de dados com python,livros,59.38,4.1016541931,2022-12-27,Camila Ribeiro,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e3447253b,Dashboards com Power BI,livros,39.22,0.0,2020-01-28,Lucas Oliveira,ES,5,cartao_credito,6,-19.19,-40.34
+6855f7c9f04c452e34472580,Iniciando em programação,livros,47.72,0.0,2020-03-28,Larissa Alves,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e344723ca,Dashboards com Power BI,livros,35.87,11.0043559535,2021-11-26,Mariana Ferreira,SP,4,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e3447241a,Modelagem preditiva,livros,108.86,3.3809065716,2021-02-27,Mariana Ferreira,RJ,1,cupom,1,-22.25,-42.66
+6855f7c9f04c452e34472446,Ciência de dados com python,livros,87.44,5.1870214703,2021-03-27,Mariana Ferreira,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e3447245a,Modelagem preditiva,livros,71.75,4.708886822,2020-04-27,Lucas Oliveira,SP,5,cartao_credito,4,-22.19,-48.79
+6855f7c9f04c452e344724cb,Dashboards com Power BI,livros,54.86,0.0,2021-08-27,Bruno Rodrigues,PR,4,boleto,1,-24.89,-51.55
+6855f7c9f04c452e34472549,Dashboards com Power BI,livros,46.61,8.7237776649,2021-01-28,Felipe Santos,RJ,4,cartao_credito,1,-22.25,-42.66
+6855f7c9f04c452e34472583,Iniciando em programação,livros,61.89,3.8217212994,2021-03-28,Lucas Oliveira,CE,3,cartao_credito,6,-5.2,-39.53
+6855f7c9f04c452e34472406,Ciência de dados com python,livros,96.51,6.0787149911,2022-01-27,Thiago Silva,MT,5,cupom,1,-12.64,-55.42
+6855f7c9f04c452e3447245d,Modelagem preditiva,livros,102.74,3.055034983,2020-04-27,Lucas Oliveira,ES,3,cartao_credito,1,-19.19,-40.34
+6855f7c9f04c452e34472467,Iniciando em programação,livros,86.68,5.5038644066,2021-04-27,Rafael Costa,ES,4,cartao_credito,1,-19.19,-40.34
+6855f7c9f04c452e34472486,Dashboards com Power BI,livros,38.12,0.0,2022-05-27,Lucas Oliveira,SP,4,cupom,1,-22.19,-48.79
+6855f7c9f04c452e3447249a,Modelagem preditiva,livros,73.05,1.4741318025,2022-06-27,Pedro Gomes,SP,4,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e34472501,Modelagem preditiva,livros,81.35,1.9160818327,2022-10-27,Thiago Silva,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34472506,Iniciando em programação,livros,52.05,5.9353222354,2022-10-27,Mariana Ferreira,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e3447254e,Modelagem preditiva,livros,105.58,5.9049432815,2021-01-28,Bruno Rodrigues,DF,5,cartao_credito,3,-15.83,-47.86
+6855f7c9f04c452e34472555,Ciência de dados com python,livros,95.68,2.6791112223,2023-01-28,Thiago Silva,SP,5,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e3447256d,Iniciando em programação,livros,45.87,3.3308546795,2022-02-28,Beatriz Moraes,SP,4,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e34472596,Modelagem preditiva,livros,93.37,6.3707869519,2023-03-28,Felipe Santos,RJ,5,cartao_debito,1,-22.25,-42.66
+6855f7c9f04c452e344725b5,Iniciando em programação,livros,61.29,4.1519232899,2020-05-28,Larissa Alves,DF,5,cartao_credito,1,-15.83,-47.86
+6855f7c9f04c452e344725c6,Dashboards com Power BI,livros,58.9,3.4193737137,2022-05-28,Juliana Costa,MG,4,boleto,1,-18.1,-44.38
+6855f7c9f04c452e34472622,Iniciando em programação,livros,66.74,1.1381432855,2020-10-28,Thiago Silva,PA,3,cartao_credito,1,-3.79,-52.48
+6855f7c9f04c452e3447263e,Dashboards com Power BI,livros,39.63,8.4897926421,2021-11-28,Pedro Gomes,RJ,4,cupom,1,-22.25,-42.66
+6855f7c9f04c452e34472659,Modelagem preditiva,livros,103.94,3.1189313729,2022-12-28,Larissa Alves,SP,2,boleto,1,-22.19,-48.79
+6855f7c9f04c452e34472683,Iniciando em programação,livros,57.33,0.0,2022-01-29,Pedro Gomes,SC,4,cartao_debito,1,-27.45,-50.95
+6855f7c9f04c452e34472713,Dashboards com Power BI,livros,44.68,0.0,2021-07-29,Larissa Alves,SP,5,cupom,1,-22.19,-48.79
+6855f7c9f04c452e34472787,Dashboards com Power BI,livros,49.8,0.0,2021-12-29,Isabella Pereira,RJ,1,cartao_credito,6,-22.25,-42.66
+6855f7c9f04c452e344725bf,Dashboards com Power BI,livros,55.69,0.0,2021-05-28,Isabella Pereira,SP,4,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e344725c3,Iniciando em programação,livros,82.14,4.9048124148,2022-05-28,Rafael Costa,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e344725e0,Dashboards com Power BI,livros,48.2,2.8496309037,2022-06-28,Lucas Oliveira,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e344725fb,Modelagem preditiva,livros,104.15,3.1301132411,2020-08-28,Bianca Santos,BA,4,cartao_credito,4,-13.29,-41.71
+6855f7c9f04c452e344725fe,Dashboards com Power BI,livros,58.97,9.5195894596,2021-08-28,Bruno Rodrigues,SC,4,cartao_credito,7,-27.45,-50.95
+6855f7c9f04c452e34472692,Iniciando em programação,livros,63.31,5.0238613902,2020-02-29,João Souza,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e344726ab,Modelagem preditiva,livros,62.38,3.8526518609,2022-03-29,Bianca Santos,CE,1,cupom,1,-5.2,-39.53
+6855f7c9f04c452e344726c4,Modelagem preditiva,livros,91.79,5.4186458838,2020-04-29,Rafael Costa,BA,5,cartao_credito,8,-13.29,-41.71
+6855f7c9f04c452e344725af,Iniciando em programação,livros,55.92,0.0,2022-04-28,Bruno Rodrigues,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e344725f4,Iniciando em programação,livros,59.37,4.1011217232,2022-07-28,Larissa Alves,SP,3,cartao_credito,7,-22.19,-48.79
+6855f7c9f04c452e34472627,Iniciando em programação,livros,76.49,4.6039669123,2021-10-28,Pedro Gomes,SP,5,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e34472701,Modelagem preditiva,livros,86.33,2.1812518509,2022-06-29,Juliana Costa,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34472751,Dashboards com Power BI,livros,36.9,2.495918515,2020-10-29,Bruno Rodrigues,RJ,1,boleto,1,-22.25,-42.66
+6855f7c9f04c452e3447269f,Modelagem preditiva,livros,96.5,5.6645996786,2021-03-29,João Souza,SP,5,cartao_credito,4,-22.19,-48.79
+6855f7c9f04c452e34472702,Iniciando em programação,livros,65.58,4.0182026984,2022-06-29,Bruno Rodrigues,SP,4,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34472768,Modelagem preditiva,livros,85.2,2.1210827504,2020-11-29,João Souza,SP,4,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e3447276a,Iniciando em programação,livros,80.68,1.8804063484,2020-11-29,Pedro Gomes,RJ,4,cartao_credito,1,-22.25,-42.66
+6855f7c9f04c452e344725c4,Ciência de dados com python,livros,93.61,5.5155554085,2022-05-28,Isabella Pereira,PA,3,boleto,1,-3.79,-52.48
+6855f7c9f04c452e344725df,Iniciando em programação,livros,54.99,3.4543170574,2022-06-28,Juliana Costa,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e344725f2,Iniciando em programação,livros,56.37,3.5326374414,2022-07-28,Bruno Rodrigues,PE,5,boleto,1,-8.38,-37.86
+6855f7c9f04c452e3447266f,Ciência de dados com python,livros,88.69,7.8862920074,2020-01-29,Lucas Oliveira,ES,5,cartao_credito,1,-19.19,-40.34
+6855f7c9f04c452e3447267f,Iniciando em programação,livros,68.29,14.1423395352,2022-01-29,Rafael Costa,MG,5,cartao_credito,1,-18.1,-44.38
+6855f7c9f04c452e34472696,Ciência de dados com python,livros,62.52,0.0,2020-03-29,Bruno Rodrigues,SC,5,cartao_credito,2,-27.45,-50.95
+6855f7c9f04c452e344726b8,Iniciando em programação,livros,41.19,3.5923589304,2023-03-29,Bianca Santos,BA,5,cartao_credito,4,-13.29,-41.71
+6855f7c9f04c452e344726cf,Iniciando em programação,livros,82.77,4.9383580196,2022-04-29,Bianca Santos,PR,5,cartao_credito,4,-24.89,-51.55
+6855f7c9f04c452e3447275e,Modelagem preditiva,livros,64.3,1.008220626,2022-10-29,Bruno Rodrigues,PR,5,cupom,1,-24.89,-51.55
+6855f7c9f04c452e344727a7,Modelagem preditiva,livros,100.54,13.1554621527,2022-01-30,Beatriz Moraes,SP,5,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e344727bd,Modelagem preditiva,livros,93.04,5.4852046232,2022-03-30,Juliana Costa,RJ,4,cartao_credito,2,-22.25,-42.66
+6855f7c9f04c452e344727d7,Iniciando em programação,livros,88.55,5.246125631,2021-04-30,Rafael Costa,RN,1,cartao_credito,6,-5.81,-36.59
+6855f7c9f04c452e34472807,Dashboards com Power BI,livros,35.61,0.0,2021-06-30,Thiago Silva,RJ,5,cartao_credito,6,-22.25,-42.66
+6855f7c9f04c452e34472808,Iniciando em programação,livros,60.5,3.5045689003,2021-06-30,Felipe Santos,PA,4,cartao_credito,1,-3.79,-52.48
+6855f7c9f04c452e34472831,Ciência de dados com python,livros,62.49,0.0,2022-08-30,Isabella Pereira,RJ,1,cartao_credito,2,-22.25,-42.66
+6855f7c9f04c452e34472864,Ciência de dados com python,livros,67.91,1.2004422657,2021-10-30,Lucas Oliveira,SP,1,cartao_credito,3,-22.19,-48.79
+6855f7c9f04c452e34472872,Iniciando em programação,livros,77.69,1.7211978435,2022-10-30,Camila Ribeiro,RJ,5,cartao_credito,5,-22.25,-42.66
+6855f7c9f04c452e34472821,Iniciando em programação,livros,57.45,3.9474548422,2022-07-30,Mariana Ferreira,SP,5,cartao_credito,4,-22.19,-48.79
+6855f7c9f04c452e34472861,Iniciando em programação,livros,76.39,10.3094730747,2021-10-30,Mariana Ferreira,MG,5,cartao_credito,1,-18.1,-44.38
+6855f7c9f04c452e34472867,Dashboards com Power BI,livros,46.14,0.0,2021-10-30,Camila Ribeiro,SP,4,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34472892,Modelagem preditiva,livros,77.65,4.6657334226,2020-12-30,Pedro Gomes,SP,4,boleto,1,-22.19,-48.79
+6855f7c9f04c452e3447291c,Modelagem preditiva,livros,94.89,5.5788720221,2022-08-31,Pedro Gomes,SP,5,cartao_credito,1,-22.19,-48.79
+6855f7c9f04c452e34472875,Modelagem preditiva,livros,87.69,5.5576438681,2020-11-30,Mariana Ferreira,PE,4,cartao_credito,4,-8.38,-37.86
+6855f7c9f04c452e344728c1,Dashboards com Power BI,livros,38.6,2.5864384007,2022-01-31,Pedro Gomes,RS,5,boleto,1,-30.17,-53.5
+6855f7c9f04c452e344728de,Modelagem preditiva,livros,70.68,1.3479364324,2023-03-31,Thiago Silva,RS,3,cartao_credito,3,-30.17,-53.5
+6855f7c9f04c452e344727db,Iniciando em programação,livros,50.01,4.315676402,2021-04-30,João Souza,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e3447284e,Iniciando em programação,livros,81.41,10.714451951,2022-09-30,Thiago Silva,ES,1,cartao_credito,10,-19.19,-40.34
+6855f7c9f04c452e3447287f,Dashboards com Power BI,livros,37.26,8.2259182935,2021-11-30,Isabella Pereira,RS,1,cartao_credito,10,-30.17,-53.5
+6855f7c9f04c452e34472793,Dashboards com Power BI,livros,53.48,3.1307750193,2020-01-30,Isabella Pereira,PR,4,cupom,1,-24.89,-51.55
+6855f7c9f04c452e344727f8,Iniciando em programação,livros,44.3,0.0,2022-05-30,Felipe Santos,CE,5,boleto,1,-5.2,-39.53
+6855f7c9f04c452e34472815,Dashboards com Power BI,livros,47.91,0.0,2020-07-30,Bruno Rodrigues,PR,4,boleto,1,-24.89,-51.55
+6855f7c9f04c452e3447285c,Modelagem preditiva,livros,60.24,3.4907246825,2022-09-30,Beatriz Moraes,SC,4,cartao_credito,1,-27.45,-50.95
+6855f7c9f04c452e34472886,Dashboards com Power BI,livros,40.85,0.0,2022-11-30,Bruno Rodrigues,RJ,5,cupom,1,-22.25,-42.66
+6855f7c9f04c452e344728ac,Modelagem preditiva,livros,90.1,5.328658468,2020-01-31,Camila Ribeiro,MG,4,cartao_credito,1,-18.1,-44.38
+6855f7c9f04c452e34472888,Iniciando em programação,livros,78.85,4.8855374379,2022-11-30,Camila Ribeiro,PR,5,cartao_credito,2,-24.89,-51.55
+6855f7c9f04c452e344728b7,Modelagem preditiva,livros,89.63,2.3569669232,2021-01-31,Larissa Alves,RJ,4,cartao_credito,1,-22.25,-42.66
+6855f7c9f04c452e34472942,Dashboards com Power BI,livros,54.85,3.4517020142,2022-12-31,Lucas Oliveira,RJ,5,cartao_credito,3,-22.25,-42.66
+6855f7c9f04c452e344728c6,Modelagem preditiva,livros,98.96,5.5524481971,2023-01-31,Pedro Gomes,SP,5,boleto,1,-22.19,-48.79
+6855f7c9f04c452e344728ce,Iniciando em programação,livros,84.44,5.8952913169,2020-03-31,Bruno Rodrigues,DF,5,cartao_credito,3,-15.83,-47.86
+6855f7c9f04c452e344728ee,Modelagem preditiva,livros,108.34,6.0519049783,2021-05-31,Pedro Gomes,RS,4,boleto,1,-30.17,-53.5
+6855f7c9f04c452e344728f5,Ciência de dados com python,livros,80.93,1.8937180963,2020-07-31,Bianca Santos,RJ,3,boleto,1,-22.25,-42.66
+6855f7c9f04c452e34472902,Ciência de dados com python,livros,59.49,3.4507894388,2022-07-31,Beatriz Moraes,MT,3,boleto,1,-12.64,-55.42
+6855f7c9f04c452e34472906,Dashboards com Power BI,livros,41.27,2.7286078683,2022-07-31,João Souza,SC,5,cartao_credito,12,-27.45,-50.95
+6855f7c9f04c452e3447290a,Ciência de dados com python,livros,81.58,4.6326663866,2020-08-31,Juliana Costa,SP,5,cartao_credito,2,-22.19,-48.79
+6855f7c9f04c452e34472910,Modelagem preditiva,livros,109.17,6.7013892476,2021-08-31,Felipe Santos,MG,3,cartao_credito,3,-18.1,-44.38
