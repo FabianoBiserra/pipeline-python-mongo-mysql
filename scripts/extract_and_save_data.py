@@ -3,7 +3,6 @@ import pandas as pd
 
 import os
 from dotenv import load_dotenv
-import mysql.connector
 
 # Carrega as variáveis do arquivo .env no ambiente de trabalho
 load_dotenv()
