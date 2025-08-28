@@ -7,7 +7,6 @@ import pandas as pd
 # Carrega as variáveis do arquivo .env no ambiente de trabalho
 load_dotenv()
 
-
 def connect_mysql(host_name, user_name, pw):
 
     # A função os.getenv é usada para obter o valor das variáveis de ambiente
