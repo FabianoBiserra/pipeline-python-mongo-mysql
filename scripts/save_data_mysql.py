@@ -1,11 +1,11 @@
 import os
 from dotenv import load_dotenv
-import mysql.connector
-
-import pandas as pd
 
 # Carrega as variáveis do arquivo .env no ambiente de trabalho
 load_dotenv()
+
+import mysql.connector
+import pandas as pd
 
 def connect_mysql(host_name, user_name, pw):
 
