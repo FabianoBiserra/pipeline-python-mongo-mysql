@@ -1,8 +1,80 @@
-# Alura Project - Data pipeline #
+# Data Pipeline Project
 
-<H2>This project contain a basic requirement from the business team where it needs to get data from an API, save the data in a mongodb for the book library and mysql data to allow the BI team to create business insights.</H2>
+## Description
+This project implements a robust data pipeline that extracts data from MongoDB, transforms it using Python, and loads it into a MySQL database. It is designed for scalability, reliability, and ease of use in data engineering workflows.
 
-Project steps:
-  Capture data from API
-  Transform the data and store it into MongoDB
-  Add another transformation layer and save it into MySql db.
+## Features
+- Extract data from MongoDB collections
+- Transform data using pandas
+- Load transformed data into MySQL tables
+- Modular and reusable codebase
+- Logging and error handling
+
+## Technologies Used
+| Technology | Purpose |
+|------------|---------|
+| Python     | Core programming language |
+| MongoDB    | Source NoSQL database |
+| MySQL      | Target relational database |
+| pandas     | Data manipulation and transformation |
+| SQLAlchemy | Database connection and ORM |
+
+## Getting Started
+1. Clone the repository
+2. Install dependencies using `pip install -r requirements.txt`
+3. Configure MongoDB and MySQL credentials in `config.py`
+4. Run the pipeline using `python main.py`
+
+## Workflow
+### MongoDB Setup
+- Install MongoDB and start the service
+- Create a database and insert sample collections
+
+### MySQL Setup
+- Install MySQL and start the service
+- Create target database and tables
+
+### Data Extraction
+- Connect to MongoDB using pymongo
+- Read collections into pandas DataFrames
+
+### Data Transformation
+- Clean and normalize data
+- Apply business logic and formatting
+
+### Data Loading
+- Connect to MySQL using SQLAlchemy
+- Insert transformed data into target tables
+
+## Example Output
+After running the pipeline, the MySQL database will contain cleaned and structured data from MongoDB. Example:
+```
++----+------------+-----------+
+| ID | Name       | Timestamp |
++----+------------+-----------+
+| 1  | Alice      | 2023-08-01|
+| 2  | Bob        | 2023-08-02|
++----+------------+-----------+
+```
+
+## Project Structure
+```
+├── config.py
+├── extract.py
+├── transform.py
+├── load.py
+├── main.py
+├── requirements.txt
+└── README.txt
+```
+
+## Future Enhancements
+- Add support for cloud databases
+- Implement data validation and schema enforcement
+- Schedule pipeline with Apache Airflow
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+
+## License
+This project is licensed under the MIT License.
