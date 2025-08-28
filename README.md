@@ -1,12 +1,12 @@
 # Data Pipeline Project
 
 ## Description
-This project implements a robust data pipeline that extracts data from MongoDB, transforms it using Python, and loads it into a MySQL database. It is designed for scalability, reliability, and ease of use in data engineering workflows.
+This project implements a robust data pipeline that extracts data from different APIs, transforms it using Python, and loads it into a MongoDB and MySQL database. It is designed for scalability, reliability, and ease of use in data engineering workflows.
 
 ## Features
-- Extract data from MongoDB collections
+- Extract data from different APIs and convert it into CVS files
 - Transform data using pandas
-- Load transformed data into MySQL tables
+- Load transformed data into MongoDB collections and MySQL tables each for different proposes
 - Modular and reusable codebase
 - Logging and error handling
 
@@ -14,7 +14,7 @@ This project implements a robust data pipeline that extracts data from MongoDB, 
 | Technology | Purpose |
 |------------|---------|
 | Python     | Core programming language |
-| MongoDB    | Source NoSQL database |
+| MongoDB    | Target NoSQL database |
 | MySQL      | Target relational database |
 | pandas     | Data manipulation and transformation |
 | SQLAlchemy | Database connection and ORM |
