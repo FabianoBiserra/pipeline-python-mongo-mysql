@@ -16,8 +16,7 @@ This project implements a robust data pipeline that extracts data from different
 | Python     | Core programming language |
 | MongoDB    | Target NoSQL database |
 | MySQL      | Target relational database |
-| pandas     | Data manipulation and transformation |
-| SQLAlchemy | Database connection and ORM |
+| Pandas     | Data manipulation and transformation |
 
 ## Getting Started
 1. Clone the repository
